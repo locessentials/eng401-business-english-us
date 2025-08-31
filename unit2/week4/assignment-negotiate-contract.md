@@ -151,7 +151,7 @@ Key insights for contract discussions:
 
 ### Negotiation Mindset
 
-**Remember from the Harvard negotiation research**
+**Remember these points from the Harvard negotiation research!**
 - Most contracts are negotiable, despite claims that they're "standard forms"
 - Professional flexibility in negotiations indicates respect for your expertise
 - Rigidity in contract discussions can signal problematic working relationships
@@ -161,7 +161,7 @@ Key insights for contract discussions:
 
 ## Reflection Questions
 
-**Consider these questions as you work:**
+**Consider these questions as you work**
 
 1. **How did your approach to the NDA change after studying professional negotiation standards?**
 2. **Which clauses were most challenging to revise and why?**

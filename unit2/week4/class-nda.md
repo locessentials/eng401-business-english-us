@@ -160,6 +160,16 @@ This NDA analysis develops skills you'll use throughout your career:
 - **Negotiation preparation** and identifying discussion points
 - **Professional communication** about contract concerns
 
+## Reflection Questions
+
+1. **How did your initial reaction to signing change after careful analysis?**
+
+2. **What surprised you most about the language or terms used in this NDA?**
+
+3. **How might cultural differences affect how people from different countries view this agreement?**
+
+4. **What questions would you ask before signing any professional agreement in the future?**
+
 ---
 
 ## 📥 Download This Activity

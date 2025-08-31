@@ -117,6 +117,31 @@ Now that you've read the complete NDA, let's examine it systematically:
 - What alternatives might participants have if they disagreed with certain terms?
 
 ---
+## Key Vocabulary for NDAs
+
+**Essential Terms**
+
+| Term | Meaning |
+| ---- | --------------- |
+| Disclosing Party | The entity sharing confidential information |
+| Receiving Party | The entity receiving confidential information |
+| Confidential Information | Protected data, methods, or knowledge defined by the agreement |
+| Proprietary Information | Information owned by a specific party |
+| Intellectual Property (IP) | Creations of the mind (inventions, literary works, designs, etc.) |
+| Perpetual | Lasting indefinitely; without time limit |
+| Irrevocable | Cannot be taken back or canceled |
+| Sublicensable | Can be licensed to third parties |
+| Derivative Works | New works based on existing copyrighted material |
+
+**Legal Concepts**
+
+| Term | Meaning |
+| ---- | --------------- |
+| Good Faith Effort | Honest attempt to fulfill obligations |
+| Reasonable Judgment | Decisions that a typical professional would make in similar circumstances |
+| Severability | If one part of the contract is invalid, the rest remains in effect |
+
+---
 
 ## Professional Takeaways
 

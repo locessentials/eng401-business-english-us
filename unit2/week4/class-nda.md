@@ -187,4 +187,4 @@ After analyzing the class NDA, enhance your understanding with these prompts:
 
 ---
 
-**Next Activity:** [Red Flags in Contracts](red-flags-in-contracts.md) where we'll examine warning signs in professional agreements.
+**Next Activity:** [Red Flags in Contracts](red-flags-in-contracts.md) where we'll examine contract warning signs.

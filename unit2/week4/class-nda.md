@@ -14,7 +14,9 @@ nav_order: 1
 
 **Before we begin: Would you sign this NDA?**
 
-Below you'll find a non-disclosure agreement used for educational purposes in a professional localization seminar. As you read through it, consider whether you would agree to its terms.
+Below you'll find a non-disclosure agreement used for educational purposes in a professional localization seminar. Let's read through it with the help [Natural Reader](https://www.naturalreaders.com), an AI text to speech applications for personal, commercial and educational use. Tools like Natural Reader can help us practice the pronunciation of new vocabulary.
+
+As you read through it, consider whether you would agree to its terms.
 
 ---
 

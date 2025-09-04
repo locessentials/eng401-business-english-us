@@ -24,18 +24,27 @@ By the end of this activity, you will be able to:
 Translation and localization work between translators and agencies typically involves three types of contracts that work together to govern professional relationships.
 
 ### 1. Non-Disclosure Agreement (NDA)
+
 **Purpose:** Protects confidential information
+
 **When signed:** First document, before any proprietary information is shared
+
 **Key protection:** Client intellectual property and sensitive business information
 
 ### 2. Independent Contractor Agreement (ICA) / Service Agreement
+
 **Purpose:** Defines the overall working relationship
+
 **When signed:** After background checks, before beginning regular work
+
 **Key areas:** Rights, responsibilities, intellectual property, quality standards
 
 ### 3. Purchase Order (PO) / Work Order
+
 **Purpose:** Specifies terms for individual projects
+
 **When signed:** For each new project or assignment
+
 **Key details:** Scope, deadlines, payment, specific requirements
 
 ---

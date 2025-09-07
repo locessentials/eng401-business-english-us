@@ -121,9 +121,9 @@ For each term you contribute, use this structure:
 | **Synonyms** | [Alternative terms, if any] |
 | **Definition** | [Clear, concise explanation] |
 | **Business Context Example** | [Sentence showing term in professional use] |
-| **Preguntas e investigación** | [¿Qué dudas tuviste? ¿Qué investigaste para resolverlas?] |
-| **Reflexión sobre problemas de traducción** | [Análisis de dificultades potenciales: comprensión, denotación, connotación, variaciones regionales, falsos amigos, implicaciones legales, etc.] |
-| **Source Consulted** | [Where you found/verified this information] |
+| **Questions and Research** | [What doubts did you have? What research did you do to resolve them>] |
+| **Reflexión sobre problemas de traducción** | [Analysis of potential challenges in understanding, connotation, regional variation, false friends, financial implications, etc.] |
+| **Source Consulted** | [Where you found/verified the information you shared] |
 
 ### Example Glossary Entry
 

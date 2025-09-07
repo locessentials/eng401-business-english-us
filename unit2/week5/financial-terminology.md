@@ -5,7 +5,7 @@ parent: Week 5
 nav_order: 2
 ---
 
-# Financial Terminology Deep Dive
+# Financial Terminology Review
 
 ## Learning Objectives
 

@@ -8,9 +8,13 @@ nav_order: 3
 # Assignment: Financial Report Analysis (First Partial Exam)
 
 **Due:** Sunday of Week 5  
+
 **Points:** 10 points  
+
 **Format:** Individual or group work (up to 3 members)
+
 **Submission:** MS Word document via Teams
+
 
 ## Learning Objectives
 
@@ -93,9 +97,9 @@ Choose one company from this list. Each group must select a different company.
 
 1. Go to the SEC CIK Lookup: https://www.sec.gov/search-filings/cik-lookup
 
-   ![CIK Lookup Page](images/CIK-Lookup.png)
-
 2. Search for your company name
+
+   ![CIK Lookup Page](images/CIK-Lookup.png)
 
 3. Click on the CIK code in the results
 

@@ -117,6 +117,7 @@ For each term you contribute, use this structure:
 
 | **Field** | **Your Entry** |
 |-----------|----------------|
+| **Contributor(s)** | [Your names] |
 | **Head Term** | [Main terminology] |
 | **Synonyms** | [Alternative terms, if any] |
 | **Definition** | [Clear, concise explanation] |

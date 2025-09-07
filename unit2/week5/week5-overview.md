@@ -16,8 +16,8 @@ This week focuses on financial statements and reports structure and purpose, bal
 
 ### Subtopics
 - **Financial statements and reports: structure and purpose**
-- **Balance sheet terminology and components**
-- **Income statement (profit/loss) vocabulary**
+- **Balance sheet components and terminology**
+- **Income statement (profit/loss) components and terminology**
 - **Financial performance indicators**
 
 ## Class Activities
@@ -25,8 +25,8 @@ This week focuses on financial statements and reports structure and purpose, bal
 ### Tuesday Class Activities
 - Assignment introduction: Company Financial Report (primer parcial)
 - Introduction to financial reporting in business
-- Class activity: Analysis of balance sheet structures and terminology
-- Group work: Income statements and performance indicators
+- Class activity: Analysis of balance sheet and income statements
+- Group work: Key terminiology from financial statements
 
 ### Thursday Class Activities
 - Workshop: Interpreting financial information

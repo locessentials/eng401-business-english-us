@@ -161,4 +161,4 @@ Copy the downloaded content and try these prompts:
 
 ---
 
-**Next Activity:** 
+**Next Activity:** [Financial Report Analysis Assignment](assignment-financial-report.md)

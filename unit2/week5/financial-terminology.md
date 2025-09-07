@@ -123,7 +123,7 @@ For each term you contribute, use this structure:
 | **Definition** | [Clear, concise explanation] |
 | **Business Context Example** | [Sentence showing term in professional use] |
 | **Questions and Research** | [What doubts did you have? What research did you do to resolve them>] |
-| **Reflexión sobre problemas de traducción** | [Analysis of potential challenges in understanding, connotation, regional variation, false friends, financial implications, etc.] |
+| **Reflection on translation challenges** | [Analysis of potential challenges in understanding, connotation, regional variation, false friends, financial implications, etc.] |
 | **Source Consulted** | [Where you found/verified the information you shared] |
 
 ### Example Glossary Entry
@@ -134,8 +134,8 @@ For each term you contribute, use this structure:
 | **Synonyms** | Trade receivables, Customer receivables |
 | **Definition** | Money owed to a company by its customers for goods or services delivered but not yet paid for |
 | **Business Context Example** | "Our accounts receivable increased by 15% this quarter, indicating either growing sales or potential collection issues that management should monitor." |
-| **Preguntas e investigación** | Initially confused this with accounts payable. Researched the difference: receivable = money coming TO us, payable = money going FROM us. |
-| **Reflexión sobre problemas de traducción** | In Spanish: "cuentas por cobrar" - careful not to confuse with "cuentas por pagar." Regional variations exist: Mexico uses "clientes" while Spain might prefer "deudores comerciales." Legal implications differ by country regarding collection practices. |
+| **Questions and Research** | Initially confused this with accounts payable. Researched the difference: receivable = money coming TO us, payable = money going FROM us. |
+| **Reflection on translation challenges** | In Spanish: "cuentas por cobrar" - careful not to confuse with "cuentas por pagar." Regional variations exist: Mexico uses "clientes" while Spain might prefer "deudores comerciales." Legal implications differ by country regarding collection practices. |
 | **Source Consulted** | Harvard Business School Online, Investopedia |
 
 ### Class Discussion Points

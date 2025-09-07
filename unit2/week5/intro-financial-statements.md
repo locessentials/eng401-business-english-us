@@ -86,4 +86,4 @@ Copy the downloaded content and try these prompts:
 
 ---
 
-**Next Activity:** [Financial Terminology Deep Dive](financial-terminology.md)
+**Next Activity:** [Financial Terminology Review](financial-terminology.md)

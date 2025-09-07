@@ -169,8 +169,8 @@ Follow the instructions on report structure above to write a report containing t
 - **File Format:** MS Word (.docx)  
 - **File Name:** `GroupMembersFirstLastNames_[Company]-Financial-Report.docx`
   - **For example:** `Reyes-Brandt_MercadoLibre-Financial-Report.docx`
-**Upload Location:** Teams Assignment - Financial Report (Primer Parcial)  
-**Due Date:** Sunday of Week 5 by 11:59 PM
+- **Upload Location:** Teams Assignment - Financial Report (Primer Parcial)  
+- **Due Date:** Sunday of Week 5 by 11:59 PM
 
 ---
 

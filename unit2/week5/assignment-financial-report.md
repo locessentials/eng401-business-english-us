@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Financial Terminology Deep Dive
+title: Assignment: Financial Report
 parent: Week 5
 nav_order: 3
 ---
@@ -186,25 +186,26 @@ See the [MercadoLibre Financial Analysis Example](mercadolibre-financial-report.
 
 ## Assessment Criteria (10 points total)
 
-### Completeness
-- At least one calculation made per statement type (ratio, profit margin)
-- At least one insight from outside research included
+### Completeness (Instructions Followed) (2 points)
+- All required sections included in report
+- At least one calculation made per statement type (ratio, profit margin) for the correct period
+- At least one insight from outside research included (also in Works Consulted)
+- File named correctly according to the instructions
 
-### Content Accuracy (4 points)
+### Content Understanding & Accuracy (3 points)
 - Correctly extracted financial data from SEC filings
 - Accurate calculations of ratios and percentages
-- Appropriate time period comparisons
+- Tables and data presented clearly
 
-### Analysis and Understanding (3 points)
+### Communication Effectiveness (3 points)
 - Clear explanation of what the numbers mean
 - Reasonable conclusions about company performance
 - Evidence of understanding financial concepts from class
 
-### Communication Effectiveness (3 points)
-- Clear, professional English appropriate for business contexts
+### Professionalism (2 points)
 - Well-organized report structure
 - Proper grammar and vocabulary usage
-- Tables and data presented clearly
+- Clear, professional English appropriate for business contexts
 
 ---
 

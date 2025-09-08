@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Learning Objectives
 
-After exploring the resources below, you'll select **either** the balance sheet **or** the income statement to focus on, then contribute key terminology to our class glossary. This approach allows you to develop deep expertise in one area while learning from classmates' contributions to the other.
+After exploring the resources below, you'll select **either** the balance sheet **or** the income statement to focus on, then contribute key terminology to our class glossary. This approach allows you to develop deeper knowledge in one area while learning from classmates' contributions to the other.
 
 ---
 

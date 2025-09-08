@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Financial Terminology Deep Dive
+title: Financial Terminology Review
 parent: Week 5
 nav_order: 2
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assignment: Financial Report
+title: Financial Report Assignment
 parent: Week 5
 nav_order: 3
 ---
@@ -14,7 +14,6 @@ nav_order: 3
 **Format:** Individual or group work (up to 3 members)
 
 **Submission:** MS Word document via Teams
-
 
 ## Learning Objectives
 

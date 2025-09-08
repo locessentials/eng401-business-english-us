@@ -146,7 +146,7 @@ Choose one company from this list. Each group must select a different company.
 - Shows what percentage of sales becomes profit
 - Compare both time periods
 
-### Step 4: Research Context (Optional but Recommended)
+### Step 4: Research Context
 
 Look up recent news articles or analyst reports about your company to understand:
 - How experts view the company's performance
@@ -185,6 +185,10 @@ See the [MercadoLibre Financial Analysis Example](mercadolibre-financial-report.
 ---
 
 ## Assessment Criteria (10 points total)
+
+### Completeness
+- At least one calculation made per statement type (ratio, profit margin)
+- At least one insight from outside research included
 
 ### Content Accuracy (4 points)
 - Correctly extracted financial data from SEC filings

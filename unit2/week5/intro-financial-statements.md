@@ -29,7 +29,7 @@ A balance sheet conveys the "book value" of a company. It allows you to see what
 An income statement, also known as a profit and loss (P&L) statement, summarizes the cumulative impact of revenue, gain, expense, and loss transactions for a given period. The document is often shared as part of quarterly and annual reports, and shows financial trends, business activities (revenue and expenses), and comparisons over set periods.
 
 **Key characteristics:**
-- Shows performance over a period of time (like a "movie")
+- Shows performance over a period of time
 - Reveals whether a company is profitable
 - Includes revenue, expenses, and net income
 

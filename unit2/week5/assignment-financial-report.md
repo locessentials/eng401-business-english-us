@@ -86,6 +86,7 @@ Choose one company from this list. Each group must select a different company.
 - eBay Inc.
 - Datadog, Inc.
 - Netflix.com, Inc.
+- Airbnb, Inc.
 
 **Alternative Option:** You may propose a different company by selecting one that has financial statements available on the U.S. Securities and Exchange Commission website. Companies [listed on the NASDAQ](https://stockanalysis.com/list/nasdaq-stocks) may be a good starting point for your search.
 

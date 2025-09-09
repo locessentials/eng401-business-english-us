@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mercado Libre Financial Report
+title: MercadoLibre Financial Report
 parent: Week 5
 grand_parent: Unit 2
 nav_order: 4

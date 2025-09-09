@@ -85,6 +85,7 @@ Choose one company from this list. Each group must select a different company.
 - Xcel Energy Inc.
 - eBay Inc.
 - Datadog, Inc.
+- Netflix.com, Inc.
 
 **Alternative Option:** You may propose a different company by selecting one that has financial statements available on the U.S. Securities and Exchange Commission website. Companies [listed on the NASDAQ](https://stockanalysis.com/list/nasdaq-stocks) may be a good starting point for your search.
 
@@ -94,7 +95,7 @@ Choose one company from this list. Each group must select a different company.
 
 ### Step 1: Find Your Company's Financial Statements
 
-1. Go to the SEC CIK Lookup: https://www.sec.gov/search-filings/cik-lookup
+1. Go to the SEC CIK Lookup: [https://www.sec.gov/search-filings/cik-lookup](https://www.sec.gov/search-filings/cik-lookup)
 
 2. Search for your company name
 

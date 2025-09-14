@@ -69,6 +69,8 @@ Rather than reading the entire agreement, focus on these sections that most dire
 | **Environment** | Environmental protection requirements | How are environmental violations addressed in trade disputes? |
 | **Small and Medium-Sized Enterprises** | Special provisions to help smaller businesses participate in trade | What resources are available to help small businesses navigate trade rules? |
 
+You're also welcome to explore other sections of the agreement beyond those listed in the table if something else catches your attention.
+
 ### Your Analysis Task
 
 Browse through both the English and Spanish versions of the agreement, focusing on the sections listed above. Look for something specific that you find interesting or surprising about how trade is regulated.
@@ -82,9 +84,7 @@ Write a paragraph describing:
 
 Here's an example of the type of analysis we're looking for:
 
-*"I was surprised to discover that under the USMCA Rules of Origin for automobiles, 75% of a vehicle's content must be made in North America to qualify for tariff benefits, and 40-45% must be made by workers earning at least $16 per hour. This is fascinating because while Mexico is a major automobile manufacturing hub with plants from Nissan, Volkswagen, GM, and Ford, there are virtually no globally recognized Mexican car brands. The agreement seems to encourage Mexico to serve as a manufacturing base for foreign companies rather than developing its own automotive brands. This could impact how Mexican workers and engineers gain experience in the industry—they become experts in manufacturing but may have fewer opportunities to develop design, marketing, and brand management skills that would support domestic Mexican car companies."*
-
-You're also welcome to explore other sections of the agreement beyond those listed in the table if something else catches your attention.
+*"Under the USMCA Rules of Origin for automobiles, 75% of a vehicle's content must be made in North America to qualify for tariff benefits, and 40-45% must be made by workers earning at least $16 per hour. U.S. manufacturer's shifted production to Mexico, adversely affecting employment in this industry in the United States. At the same time, because of the influx of foreign manufacturers, Mexico is a major automobile manufacturing hub with plants from Nissan, Volkswagen, GM, and Ford, while there are no really globally recognized Mexican car brands. This impacts how Mexican workers and engineers gain experience in the industry—they become experts in manufacturing but may have fewer opportunities to develop design, marketing, and brand management skills that would support domestic Mexican car companies."*
 
 ---
 

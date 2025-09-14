@@ -76,4 +76,4 @@ Entering the Mexican market is realistic for Harvest from a regulatory perspecti
 
 ---
 
-**Week 6 Complete!** Understanding regulatory frameworks prepares you for professional translation work. Review your progress in the [Unit 2 - Conclusion](../unit2-conclusion.md).
+**Next Activity:** [Assignment: Cross-Border Regulatory Comparison Report](regulatory-comparison-assignment.md)

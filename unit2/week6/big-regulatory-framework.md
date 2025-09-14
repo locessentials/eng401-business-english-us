@@ -29,6 +29,8 @@ In terms of some of the effects in Mexico, Mexican manufacturing productivity ro
 
 The USMCA/T-MEC includes new labor provisions specifically designed to address these issues, requiring higher wage standards in certain sectors and stronger labor rights enforcement. 
 
+**Note on terminology:** As you read about NAFTA's history, you'll encounter terms like "cheap labor" in policy discussions and media coverage. This language is deeply problematic because it reduces human beings to commodities and has historically been used to justify exploitation. Accurate and respectful terminology choices include "wage suppression," "undervalued workers," or "artificially low compensation."
+
 ### Guided Reading Questions
 
 As you read the article, consider these questions for consideration:

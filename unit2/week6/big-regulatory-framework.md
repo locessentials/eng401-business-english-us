@@ -90,6 +90,22 @@ Here's an example of the type of analysis we're looking for:
 
 ---
 
+## Class Discussion Post
+Post to Teams: Choose one activity from this page and share your response with the class. You can select from:
+
+1. Historical Analysis: Respond to one of the three guided reading questions about NAFTA's evolution
+2. Agreement Analysis: Share your paragraph analyzing something interesting you discovered in the USMCA/T-MEC text
+3. Language and Framing: Identify another example (from any field) where strategic language choices shape how we think about an issue, similar to Lakoff's analysis of "cheap labor" vs. "wage suppression"
+4. Comparative Perspective: Discuss how the different names (USMCA vs. T-MEC) or different orderings of countries might reflect different national priorities or viewpoints
+
+Format:
+
+1-2 paragraphs
+Include at least one specific example or quote
+Respond thoughtfully to at least one classmate's post
+
+---
+
 ## 📥 Download This Content
 Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week6/big-regulatory-framework.md) and download it!
 

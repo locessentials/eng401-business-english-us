@@ -15,7 +15,7 @@ nav_order: 4
 
 ## Assignment Overview
 
-You just reviewed an example of a Cross-Border Regulatory Comparison Report for the U.S. and Mexico in the realm of tech startups. Now you'll create your own report as a consultant to a U.S. organization wanting to enter the Mexican market.
+You just reviewed an example of a Cross-Border Regulatory Comparison Report for the U.S. and Mexico in the realm of tech companies. Now you'll create your own report as a consultant to a U.S. organization wanting to enter the Mexican market.
 
 You've been approached by a U.S. company seeking to expand into Mexico. They've asked you to prepare a report identifying the key regulations that impact international trade in their industry and provide recommendations for their market entry strategy.
 
@@ -25,20 +25,27 @@ You've been approached by a U.S. company seeking to expand into Mexico. They've 
 
 ### Step 1: Choose Your Client Company
 
-Select one fictitious company from the table below. Each group must choose a different company.
+Select one real company from the industry categories below. Each group must choose a different company. The company should be one that operates primarily in another country (not Mexico) and would benefit from entering the Mexican market.
 
-| **Fictitious Company Name** | **Description of Company's Goods/Services** | **Primary Regulatory Considerations** |
+| **Industry Category** | **Description** | **Primary Regulatory Considerations** |
 |----------------------------|---------------------------------------------|--------------------------------------|
-| **Verde Valley Organics** | Organic food products and supplements | Food safety standards, organic certification, labeling requirements |
-| **Cascade Pharmaceuticals** | Generic prescription medications | Drug approval processes, manufacturing standards, import licensing |
-| **Mountain Peak Motors** | Electric vehicle charging stations | Electrical safety standards, environmental regulations, installation permits |
-| **Riverfront Financial** | Digital payment processing services | Financial services licensing, data protection, anti-money laundering |
-| **Prairie Tech Solutions** | Software development and IT consulting | Data privacy laws, professional services regulations, intellectual property |
-| **Coastal Beauty Labs** | Cosmetics and personal care products | Product safety testing, ingredient restrictions, marketing claims |
-| **Summit Energy Systems** | Solar panel installation services | Electrical permits, renewable energy incentives, professional licensing |
-| **Valley Fresh Beverages** | Craft beer and alcoholic beverages | Alcohol licensing, production standards, distribution regulations |
-| **Gateway Medical Devices** | Portable diagnostic equipment | Medical device approval, quality standards, healthcare regulations |
-| **Horizon Logistics** | International shipping and customs | Import/export procedures, transportation safety, customs documentation |
+| **Agriculture** | Agricultural products, farming equipment, and biotechnology solutions | Pesticide regulations, food safety standards, environmental compliance, biotechnology approvals |
+| **Food & Beverage** | Processed foods, beverages, and nutritional supplements | Food safety certifications, labeling requirements, import/export licenses, health claims validation |
+| **E-commerce** | Online retail platforms and digital marketplaces | Consumer protection laws, data privacy regulations, cross-border taxation, digital services compliance |
+| **Fintech/Digital Payments** | Digital payment processing, mobile banking, and financial technology services | Financial services licensing, anti-money laundering regulations, data protection, consumer financial protection |
+| **Textiles & Clothing** | Apparel manufacturing, fashion retail, and textile production | Labor standards compliance, supply chain transparency, textile safety regulations, trade agreements |
+| **Cosmetics & Personal Care** | Beauty products, skincare, and personal hygiene items | Product safety testing, ingredient restrictions, marketing claims verification, cosmetic regulations |
+| **Travel & Tourism** | Travel agencies, hospitality services, and tourism platforms | Travel licensing, consumer protection, health and safety standards, international travel regulations |
+| **Healthcare** | Medical devices, pharmaceuticals, and healthcare services | Drug approval processes, medical device certifications, healthcare licensing, patient data protection |
+| **Education** | Educational technology, online learning platforms, and educational services | Student data privacy, professional accreditation, accessibility compliance, international education standards |
+| **Renewable Energy** | Solar, wind, and clean energy technology solutions | Environmental impact assessments, renewable energy incentives, electrical safety standards, professional licensing |
+
+**How to choose your company**
+
+- Pick an industry category that interests your group
+- Research companies in that industry that operate in other countries but not yet in Mexico
+- Choose a specific company that you can find regulatory information about
+- Confirm that no other group has chosen the same company
 
 ### Step 2: Research Key Mexican Business Regulation
 

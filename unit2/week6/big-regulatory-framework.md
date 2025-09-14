@@ -13,7 +13,7 @@ This week we begin our exploration of regulatory frameworks that govern trade be
 
 Understanding this "big picture" regulatory environment is essential for translation and localization professionals who work with cross-border businesses, as these agreements directly impact terminology, compliance requirements, and business practices across industries.
 
-**Note on terminology:** The agreement is known as USMCA (United States-Mexico-Canada Agreement) in English and T-MEC (Tratado entre México, Estados Unidos y Canadá) in Spanish. These refer to the same trade agreement.
+The agreement is known as USMCA (United States-Mexico-Canada Agreement) in English and T-MEC (Tratado entre México, Estados Unidos y Canadá) in Spanish. These refer to the same trade agreement.
 
 ---
 
@@ -29,7 +29,13 @@ In terms of some of the effects in Mexico, Mexican manufacturing productivity ro
 
 The USMCA/T-MEC includes new labor provisions specifically designed to address these issues, requiring higher wage standards in certain sectors and stronger labor rights enforcement. 
 
-**Note on terminology:** As you read about NAFTA's history, you'll encounter terms like "cheap labor" in policy discussions and media coverage. This language is deeply problematic because it reduces human beings to commodities and has historically been used to justify exploitation. Accurate and respectful terminology choices include "wage suppression," "undervalued workers," or "artificially low compensation."
+### Terminology Notes
+
+As you read about NAFTA's history, you'll encounter terms like "cheap labor" in policy discussions and media coverage. This language is deeply problematic because it reduces human beings to commodities and has historically been used to justify exploitation. Accurate and respectful terminology choices include "wage suppression," "undervalued workers," or "artificially low compensation."
+
+As linguist and cognitive scientist George Lakoff explains in *Don't Think of an Elephant*, the way we name things is never neutral—it's a strategic political choice that reflects whose perspective is being centered. Names and phrases become embedded in our collective understanding, shaping how we think about complex issues often without our conscious awareness. Consider how "collateral damage" sounds more clinical and acceptable than "civilian casualties".
+
+In our trade agreement example, USMCA places the United States first, reflecting the U.S. government's desire to emphasize American leadership and priorities in the renegotiated deal. T-MEC, meanwhile, follows the Spanish alphabetical convention (Estados Unidos, México, Canadá) but also positions Mexico prominently in the acronym. These aren't accidental choices—each name frames the agreement through a particular national lens and suggests which country's interests take priority.
 
 ### Guided Reading Questions
 
@@ -114,7 +120,8 @@ Copy the downloaded content and try these prompts:
 - "Help me understand the key differences between NAFTA and USMCA/T-MEC"
 - "Explain how Rules of Origin work in trade agreements and why they matter"
 - "What are the most significant changes in labor provisions between the old and new trade agreements?"
-- "How do trade agreements like USMCA affect small businesses versus large corporations?"
+- "How do trade agreements like T-MEC affect small businesses versus large corporations?"
+- Apply Lakoff's 'Don't Think of an Elephant' framework to help me understand how the language in this trade agreement content could influence public opinion about free trade. What underlying metaphors or frames are being used?
 
 ---
 

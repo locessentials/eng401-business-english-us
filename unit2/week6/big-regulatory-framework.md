@@ -73,10 +73,10 @@ Rather than reading the entire agreement, focus on these sections that most dire
 
 Browse through both the English and Spanish versions of the agreement, focusing on the sections listed above. Look for something specific that you find interesting or surprising about how trade is regulated.
 
-**Write a paragraph** describing:
+Write a paragraph describing:
 - What you discovered in the agreement text
 - Why you found it interesting or surprising  
-- How you think this provision impacts trade between the US and Mexico
+- How you think this provision impacts trade between Mexico and the US
 
 ### Example Analysis
 

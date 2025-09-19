@@ -10,14 +10,14 @@ has_children: true
 
 ## Overview
 
-This week focuses on technical specifications structure and format, standardized terminology in specifications, technical documentation types and purposes, and language precision in technical documentation.
+This week focuses on the structure and format of technical specifications, standardized terminology in specifications, types and purposes of specifications for different industries, and language precision in technical documentation.
 
 ## Topics Covered
 
 ### Subtopics
 - **Technical specifications structure and format**
 - **Standardized terminology in specifications**
-- **Technical documentation types and purposes**
+- **Technical specifications types and purposes**
 - **Language precision in technical documentation**
 
 ## Class Activities
@@ -25,11 +25,10 @@ This week focuses on technical specifications structure and format, standardized
 ### Tuesday Class Activities
 - Assignment introduction: Technical Specifications
 - Introduction to technical specifications in business contexts
-- Analysis of specification structure, terminology, and formatting
-- Group activity: Identifying key components in translation specifications
+- Class activity: Analysis of translation specification structure, terminology, and formatting
 
 ### Thursday Class Activities  
-- Comparative analysis of technical documentation across industries
+- Group activity: Comparative analysis of technical specifications across industries
 - Workshop: Precision and consistency in technical language
 
 ## Independent Activities

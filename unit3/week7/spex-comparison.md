@@ -73,7 +73,8 @@ Summary: Please start by giving a two to three sentence summary of the section y
 
 Terminology: Please identify and define two or three important terms used in the section.
 
-Analysis: Your analysis should respond to the question, "How do you think this section of the standard informed the translation specifications presented above?
+Analysis: Your analysis should respond to the question:
+"How do you think this section of the standard informed the translation specifications presented above?"
 ```
 
 #### Step 3 - Make your post and review the posts on Teams
@@ -105,30 +106,26 @@ Here's a template that illustrates the types of analysis that we're looking for 
 ```
 Subject line: Illustrative Title - Analysis by [Team Members]
 
-**Introduction:** Start the post with a one-sentence introduction to the document. What industry is it from? What specific type of service or product does it cover?
+Introduction: Start the post with a one-sentence introduction to the document. 
+What industry is it from? What specific type of service or product does it cover?
 
-Strengths: List two to three strengths of the specifications. That is, what makes the document effective given the audience and purpose of the text? One sentence long bullet points will suffice for this section.
+Strengths: List two to three strengths of the specifications. 
+That is, what makes the document effective given the audience and purpose of the text? 
+One sentence long bullet points will suffice for this section.
 
 - Strength 1
 - Strength 2
 - Strength 3
 
-Weaknesses: List two to three weaknesses of the specifications. That is, what would you revise to make the text more usable if you were tasked with improving the document?
+Weaknesses: List two to three weaknesses of the specifications. 
+That is, what would you revise to make the text more usable if you were tasked with improving the document?
 
 - Weakness 1
 - Weakness 2
 - Weakness 3
 
-Link
+Link or Attachment: Share a link to the specifications or include them as an attachment to your post.
 ```
-
-### Step 4 - Share the Specifications
-
-Post a link to the specifications, or share the document on our Teams *Specifications* channel. 
-
-
-
-
 
 ---
 
@@ -139,11 +136,11 @@ Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-engli
 ### 🤖 AI Study Prompts
 Copy the downloaded content and try these prompts:
 
-- "What types of requirements are collected into specifications in different industries?"
-- "What are some critical consequences of not having specifications?"
-- "Are specifications referred to by any different names in [specific industry]?"
-- "What are key strategies I should have in mind when establishing specifications?"
-- "How can specifications be developed in collaboration with teams?"
+- "What is an industry for which I can find solid examples of specifications?"
+- "Please generate some typical specifications for products/services in [this industry]."
+- "Help me to analyze this set of specifications. Generate lists of strengths and weaknesses."
+- "What is the development life cycle of specifications? That is, how often do they change?"
+- "What are the types of changes that may be made to specifications during regular revision cycles."
 
 ---
 

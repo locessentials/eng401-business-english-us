@@ -10,25 +10,40 @@ nav_order: 2
 
 In this set of activities we'll dive a little bit deeper into the topic of specifications, focusing on the structure, terminology, linguistic conventions followed in this text type. We'll start by studying an example of standards-based translation specifications, and then you'll find an example set of specifications for a specific industry besides translation.
 
+## Learning Objectives:
+
+By the end of these activities, you will be able to:
+
+- Understand how specifications are organized
+- Identify important requirements to define in translation specifications
+- Navigate the ASTM F2575 international standard on translation
+- Bring awareness of language industry standards to your professional translation work
+
 ## Translation Specifications
 
-The next page presents the example of [Tranquality's Standards-Based Structured Translation Specifications](https://www.tranquality.info/specs). This set of specifications was developed based on an important standard in the language services industry: [ASTM F2575: Standard Practice for Language Translation](https://store.astm.org/f2575-23e02.html).
+The next page of our course website presents the example of [Tranquality's Standards-Based Structured Translation Specifications](https://www.tranquality.info/specs). This set of specifications was developed based on an important standard in the language services industry: [ASTM F2575: Standard Practice for Language Translation](https://store.astm.org/f2575-23e02.html).
 
-In the activities that follow, you'll explore each of the resources more deeply.
+In the activities that follow, we work with each of these resources.
 
 ### Part 1: Meet the Text
 
-Go to the next page, and review 
+Go to the next page, and review the translation specifications there. As you review, answer the questions outline below. Please surface questions and doubts to the class.
 
 **Questions for Consideration**
 
-- Why are specifications needed? That is, what are the goals of writing specifications?
-- The section presents the types of requirements that should be defined in translation and localization specficiations. Based on that discussion, what generalizations can you make about the types of requirements that should be defined in specifications (no matter the industry)? Why?
-- Once established, how are specifications used?
+- What structure does the document follow?
+- Is any of the terminology used within unclear to you? (If so, please research the terms or ask the instructor about them.)
+- Who would you need to consult with to establish the specifications defined in the document?
+- How would you go about filling out these specifications?
+- What challenges might you encounter as you do so?
 
-## Specifications: Topics Covered and Technical Precision
+### Part 2: ASTM F2575 Standard Practice for Language Translation
 
-The chapter you just read outlines the importance of specifications in the translation and localization domain, but technical specifications are used in many other industries. Technical specifications are also a type of international standard. ASTM International is a U.S. based standardization body in which technical specifications are produced by technical committees in a wide variety of industries, and the rules for writing these standards are very specific. The activities that follow will help you understand the technical nature of specifications, and the precision that is needed when writing them.
+As you read above, the specifications form you just reviewed was developed based on the international standard called ASTM F2575 Standard Practice for Language Translation. A [copy of that standard](https://universidaduic.sharepoint.com/:b:/s/TR35-BusinessEnglishII-2026-1/ERZgz7DXBA9CjEOFfkwxtrsBSyMOUuDpPmE-0dnN9N6C9A?e=qggyMR) has been shared with you privately for educational use with permission from ASTM International. Please do not share this resource outside of the class. 
+
+*Note: Any instructors who are interested in teaching ASTM F2575 in an educational setting can reach out to Alaina Brandt for help securing a copy.*
+
+We'll follow a *divide and conquer* approach to understanding this standard. You'll work in teams to review a specific section of the standard and then share what you've learned to our Specifications channel 
 
 ### Activity 1 - Topics Covered by Technical Specifications
 

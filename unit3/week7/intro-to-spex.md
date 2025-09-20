@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Big Regulatory Framework
-parent: Week 6
+title: Introduction to Specifications
+parent: Week 7
 nav_order: 1
 ---
 

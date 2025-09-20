@@ -15,7 +15,9 @@ Typically, the word "specifications" is used in the plural form. The word "speci
 
 As you'll read in the chapter "Translation and localization project and process managers" by Alaina Brandt, the term "specifications" is defined as an “explicit set of requirements to be satisfied by a material, product, system, or service” by ASTM International.
 
-A [copy of that chapter](https://universidaduic.sharepoint.com/:b:/s/TR35-BusinessEnglishII-2026-1/EVm-Rwbyl9NEhv1MO9yqYMoBKMhIB_WAznAKrDxKqiOAPg?e=c7WNMz) has been provided to you privately. Please do not share this resource outside of the class. Any professors who are interested in teaching that chapter can reach out to the author for a copy to be shared in keeping with [fair use](https://www.lib.uchicago.edu/copyrightinfo/fairuse.html) provisions defined in U.S. copyright law.
+A [copy of that chapter](https://universidaduic.sharepoint.com/:b:/s/TR35-BusinessEnglishII-2026-1/EVm-Rwbyl9NEhv1MO9yqYMoBKMhIB_WAznAKrDxKqiOAPg?e=c7WNMz) has been provided to you privately. This chapter has been shared with you in keeping with [fair use](https://www.lib.uchicago.edu/copyrightinfo/fairuse.html) provisions defined in U.S. copyright law. Please do not share this resource outside of the class. 
+
+*Note: Any instructors who are interested in teaching that chapter can reach out to the author for a copy.*
 
 Read section 3 (3 pages), "Defining the scope for translation and localization" from the chapter, and then answer these questions to check your understanding.
 

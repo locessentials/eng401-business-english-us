@@ -109,6 +109,9 @@ Subject line: [Illustrative Title] - Analysis by [Team Members]
 Introduction: Start the post with a one-sentence introduction to the document. 
 What industry is it from? What specific type of service or product does it cover?
 
+Audience: Who is the audience of the specifications?
+Purpose: What is the purpose of the specifications?
+
 Strengths: List two to three strengths of the specifications. 
 That is, what makes the document effective given the audience and purpose of the text? 
 One sentence long bullet points will suffice for this section.

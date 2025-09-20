@@ -8,177 +8,103 @@ nav_order: 4
 
 # Assignment: Technical Specifications 
 
-**Points:** 3 points  
-**Format:** Individual or group work (up to 3 members)  
-**Submission:** MS Word document via Teams
+[Assignment overview/introduction]
 
 ## Learning Objectives
 By the end of this assignment, you will be able to:
-- Apply contract analysis skills to identify unfair or problematic clauses
-- Use professional language to propose alternative contract terms
-- Demonstrate understanding of power dynamics in contract negotiations
-- Practice using MS Word's collaborative editing tools for professional document review
-
----
-
-## Assignment Overview
-
-The Herod clause in the Loc101 NDA (the intellectual property transfer) is not the only unfair term in that agreement. For this assignment, you will conduct a complete counter-negotiation of the Loc101 NDA to demonstrate your understanding of contract anatomy and your ability to identify problematic terms.
-
----
-
-## Required Preparation
-
-### Step 1: Study Professional NDA Standards
-
-**Read:** ["9 Clauses to Include in Every NDA" by Axial](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week4/references/Axial_9-Clauses-to-Include-in-Every-NDA.pdf)
-
-This document outlines essential concepts for understanding NDAs, including:
-- **One-way vs. mutual agreements:** Who benefits from different structures
-- **Broad vs. narrow definitions:** How language scope affects each party
-- **Inevitable vs. compelled disclosure:** Different types of information sharing
-- **Standard negotiation practices:** What professional deal-makers expect
-
-### Step 2: Enhance Your Negotiation Skills (Optional)
-
-**Additional Resource:** [Negotiation Skills Report by Harvard Law School Program on Negotiation](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week4/references/Negotiation_Skills_Free_Report.pdf)
-
-Key insights for contract discussions:
-- Preparing for difficult questions or pushback
-- Managing professional relationships during negotiations
-- Balancing assertiveness with collaboration
-- Understanding when and how to escalate concerns
+- Lorem ipsum
+- Lorem ipsum
+- Lorem ipsum
+- Lorem ipsum
 
 ---
 
 ## Assignment Instructions
 
-### Phase 1: Document Analysis
+### Step 1: Select the product/service for which you'll develop your specifications
 
-**Download the editable Loc101 NDA** from the Teams assignment.
+In the last activity, you found example specifications from an industry of interest. Assuming that you'll continue your work in that industry for this assignment, now is the time to decide on the specific customized product or service you'll develop specifications for. Here is some advice that may help you to pick a product/service:
 
-**Using MS Word's commenting feature:**
-- Identify negotiation tactics used in the agreement (broad definitions, one-sided terms, etc.)
-- Flag clauses that primarily benefit the Disclosing Party
-- Note any language that seems unclear, excessive, or unreasonable
-- Reference concepts from the Axial article to support your analysis
+- If you'd like to build on past experiences, that will help you to write specifications that are more accurate. For example, let's say you have experience producing social media campaigns. That experience will help you to design specifications that capture all of the necessary details.
+- Exploring a new area of interest is also a great idea. Is there a product that falls into your skill area that you've been thinking about developing? Here's an opportunity to do an initial exploration to determine what delivering that product would actual take.
+- Ideally, write for usability. The template you'll develop is a useful professional tool. The value you get out of what you've designed is dependent on the effort you put into it.
+- Write knowing that revisions will be ongoing. As you put the template to use in production, you discover revisions that can be made. Work on the document iteratively. Establish a foundation in this assignment, and then build upon it.
 
-**Comment examples**
-- *"This clause gives the disclosing party perpetual rights without any reciprocal obligations."*
-- *"The destruction requirement for learning materials is unusual - students typically retain educational materials they've paid for."*
-- *"This severability clause primarily protects the disclosing party's interests if parts of the agreement are found unenforceable."*
+### Step 2: Do some more research - what parameters do specifications for that product/service type typically include?
 
-### Phase 2: Contract Revision
+You've already studied a few examples of specifications. Do some more research. 
 
-**Using MS Word's track changes feature:**
-- Rewrite problematic clauses to be more mutually beneficial
-- Strike terms that are completely unreasonable
-- Add missing protections for the receiving party
-- Ensure your language maintains a formal, professional tone
+- Are there best practices you'll need to follow for specific product/service you've decided to develop?
+- What parameters do experienced practitioners include in their specifications for the specific product type?
+- What do you like / not like about the specifications you've worked with? You're designing the document for your use, after all, so you might as well design in a way that you'll like working with it.
 
-**Track Changes Best Practices**
-- **Deletions:** Strike problematic language completely when necessary
-- **Additions:** Add protective language for receiving party
-- **Modifications:** Revise one-sided terms to be more balanced
-- **Comments:** Explain your reasoning and reference supporting evidence
+### Step 3: Create your specifications template - save a separate copy of this
 
-**Revision principles**
-- Make terms more balanced between both parties
-- Add reasonable time limits to open-ended obligations
-- Include protections for the receiving party's rights
-- Clarify vague or ambiguous language
+Organize your ideas about the parameters that should be included in specifications for the product/service into a template document. The idea here is that you'll create a blank template that you'll have ready to be filled out each time a client requests that specific product/service from you.
 
-**Example revision**
-- **Original:** *"Receiving Party hereby grants to Disclosing Party full, royalty-free, perpetual, irrevocable, worldwide..."*
-- **Revised:** *"Any intellectual property created by Receiving Party remains the property of Receiving Party. Disclosing Party may reference learning outcomes from the seminar in general terms without attribution."*
+Please keep in mind these requirements when formatting your template:
+- Must be developed in MS Word (to facilitate grading)
+- Use headers/tables/lists to make the document more readable
+- Produce a template of no more than two pages
+- Make sure your work reflects professionalism
 
-**Language Expectations**
-- Use formal business register appropriate for legal documents
-- Employ precise legal vocabulary when possible
-- Maintain respectful tone even when challenging unfair terms
-- Write clearly and concisely
+Save a separate copy of this document under the file name indicated. The template is your first of two deliverables for this assignment.
 
-### Phase 3: File Preparation
+**File naming conventions:** `LastNames_LastNames_[ProductType]-Specifications-template.docx`
 
-**Save your negotiated version as:**
-`GroupMembersFirstLastNames_NDA-negotiation.docx`
+*Note: In the next step you'll fill in your specifications. When you actually fill in the specifications, you'll notice adjustments that are needed to the template. Please plan to work on this part of the assignment iteratively.*
 
-**Examples**
-- `Reyes-Brandt_NDA-negotiation.docx`
-- `Martinez-Chen-Williams_NDA-negotiation.docx`
-- `Rodriguez-Kim_NDA-negotiation.docx`
+### Step 4: Fill in the specifications for the specific product development you're planning - edit your template as necessary as you go
 
----
+In this step, you'll begin to use your specifications, filling them in as if you were scoping a specific project with a client.
 
-## Assessment Criteria
+**Tips for Filling Out Your Specificatoins**
 
-### Awareness (1 point)
-**Demonstrates understanding of contract analysis**
-- Comments identify terms that unfairly benefit the disclosing party
-- Shows recognition of negotiation strategies used in the original agreement
-- References concepts from assigned readings appropriately
+- Fill in the specifications as if this were the real deal. Throughout your careers, you'll need to scope projects, so take this opportunity to get practice.
+- Be precise in the specifications you establish. This will seem like contradictory advice, but be detailed, just not too detailed. The document should facilitate scanning.
 
-### Self-Advocacy (1 point)
-**Protects receiving party interests effectively**
-- Counter-negotiations reflect the needs of seminar participants
-- Unreasonable terms are flagged and revised appropriately
-- Proposed changes create more balanced agreement
+Again, as you fill out the specifications, you'll notice areas for improvement. Do plan to work on steps 3 and 4 together and iteratively until you've arrived at a first official version that you're happy with. When you're happy with your deliverables, go ahead and collect this second document under the indicated file name.
 
-### Appropriateness (1 point)
-**Maintains professional standards**
-- Track changes use formal, legal-style language
-- Document is error-free and professionally formatted
-- Proposed terms are realistic and implementable
+**File naming conventions:** `LastNames_LastNames_[ProductType]-Specifications-Project1.docx`
 
----
+### Step 5: Do a final sanity check and submit your assignment
 
-## Professional Context
+Before submitting your assignment, do a final sanity check to ensure that your deliverables:
 
-### Why This Matters
+- Are free from typos/mispellings
+- Meet the requirements of this assignment
+- Are named correctly
+- And so on
 
-**Contract literacy skills you're developing**
-- Critical analysis of legal language and implications
-- Professional communication about contract concerns
-- Risk assessment for professional agreements
-- Collaborative document editing for business purposes
+Over the course of this unit, you'll student project management, production processes and quality management systems in detail. That said, we'll cover sanity checks again. Specifications are the start of production processes, so with a solid understanding of specifications, you're off to a great start.
 
-**Real-world applications**
-- Freelance translator service agreements
-- Employment contracts with language service companies
-- Client confidentiality agreements
-- Partnership agreements with other professionals
+## Submission Details
 
-### Negotiation Mindset
+As a reminder, here is a delivery summary:
+- **File format:** Two matching MS Word documents in .docx format
+  - **Template file naming:** `LastNames_LastNames_[ProductType]-Specifications-template.docx`
+  - **Filled-in specifications file nameing:** `LastNames_LastNames_[ProductType]-Specifications-Project1.docx`
+- **Due date:** Sunday of Week 7 by 11:59 PM
+- **Teams Assignment:** Technical Specifications
 
-**Remember these points from the Harvard negotiation research!**
-- Most contracts are negotiable, despite claims that they're "standard forms"
-- Professional flexibility in negotiations indicates respect for your expertise
-- Rigidity in contract discussions can signal problematic working relationships
-- Being prepared for "hardest questions" prevents being caught off-guard
+## How Your Work Will be Graded
+
+| Category | Points | Characteristics of effectiveness |
+| --------- | --------- |
+| **Specifications Template** | 1 point | • Characteristic<br>• Characteristic |
+| **Filled-in Specifications** | 1 point | • Characteristic<br>• Characteristic |
+| **Professionalism** | 1 point | • Characteristic<br>• Characteristic |
 
 ---
 
 ## Reflection Questions
 
-**Consider these questions as you work**
+Consider these questions as you work
 
-1. **How did your approach to the NDA change after studying professional negotiation standards?**
-2. **Which clauses were most challenging to revise and why?**
-3. **What surprised you about the difference between fair and exploitative contract language?**
-4. **How might this experience influence your approach to future professional agreements?**
-5. **What additional skills or knowledge do you need to negotiate contracts confidently in your career?**
-
----
-
-## Submission Details
-
-**Upload your completed negotiation to Teams:**
-- **File format:** MS Word (.docx) with track changes and comments visible
-- **Due date:** Sunday of Week 4 by 11:59 PM
-- **Location:** Teams Assignment - Contract Negotiation
-- **Filename:** Follow the naming convention above
-
-**Next week:** You'll receive an answer key showing the instructor's analysis of the most important terms to negotiate in the LOC101 NDA.
+1. How does the use of specifications set me apart from other workers?
+2. How can I verbalize the value of specifications to potential employers and clients?
+3. How can I get stakeholder buyin on the specifications I've developed?
+4. 
 
 ---
 
@@ -188,7 +114,7 @@ Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-engli
 
 ### 🤖 AI Study Prompts
 After completing your contract negotiation, enhance your learning with these prompts:
-- "Based on my contract negotiation experience, what are the most important principles for protecting my interests in professional agreements?"
+- "What do I do when I learn that the specifications I have for a project need to change?"
 - "How can I prepare for contract discussions that balance assertiveness with maintaining good professional relationships?"
 - "What questions should I always ask before signing any professional agreement in the translation industry?"
 - "Create scenarios for practicing contract negotiation conversations with employers or clients"

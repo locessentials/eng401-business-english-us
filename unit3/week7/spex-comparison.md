@@ -104,7 +104,7 @@ Prepare a post for Teams in which you analyze the specifications you found.
 Here's a template that illustrates the types of analysis that we're looking for in your post.
 
 ```
-Subject line: Illustrative Title - Analysis by [Team Members]
+Subject line: [Illustrative Title] - Analysis by [Team Members]
 
 Introduction: Start the post with a one-sentence introduction to the document. 
 What industry is it from? What specific type of service or product does it cover?

@@ -51,14 +51,14 @@ In a group of up to three people, select the section of the standard that you'll
 
 The sections that you can choose from are listed below. Unless otherwise indicated, one team may sign up for each section.
 
-- 3. Terminology (up to two teams can work on this section)
-- 5. Needs Analysis
-- 6. Overview of a Translation Project
-- 7. Selecting a Translation Service Provider (up to two teams can work on this section)
-- 8. Pre-Production/Specifications Phase (up to two teams can work on this section)
-- 9. Production Phase (up to two teams can work on this section)
-- 10. Post-Production Phase
-- A1. The Translation Spectrum
+- 3 Terminology (up to two teams can work on this section)
+- 5 Needs Analysis
+- 6 Overview of a Translation Project
+- 7 Selecting a Translation Service Provider (up to two teams can work on this section)
+- 8 Pre-Production/Specifications Phase (up to two teams can work on this section)
+- 9 Production Phase (up to two teams can work on this section)
+- 10 Post-Production Phase
+- A1 The Translation Spectrum
 
 #### Step 2 - Analyze your section
 
@@ -140,7 +140,8 @@ Copy the downloaded content and try these prompts:
 - "Please generate some typical specifications for products/services in [this industry]."
 - "Help me to analyze this set of specifications. Generate lists of strengths and weaknesses."
 - "What is the development life cycle of specifications? That is, how often do they change?"
-- "What are the types of changes that may be made to specifications during regular revision cycles."
+- "What are the types of changes that may be made to specifications during regular revision cycles?"
+- "What would be some professional resources I could consult when designing specifications for [industry]?"
 
 ---
 

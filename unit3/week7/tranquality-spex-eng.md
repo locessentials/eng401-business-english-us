@@ -10,7 +10,7 @@ nav_order: 3
 
 ## Translation Parameters
 
-The following list of parameters is adapted from [ASTM F2575: Standard Guide for Quality Assurance in Translation](The following list of parameters is adapted from ASTM F2575: Standard Guide for Quality Assurance in Translation. It contains 21 parameters that describe various aspects of translation projects.). It contains 21 parameters that describe various aspects of translation projects.
+The following list of parameters is adapted from [ASTM F2575: Standard Practice for Language Translation](https://store.astm.org/f2575-23e02.html). It contains 21 parameters that describe various aspects of translation projects.
 
 ## A. Linguistic work product parameters [1–13]
 

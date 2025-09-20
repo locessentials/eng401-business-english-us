@@ -1,4 +1,12 @@
-# Assignment: Technical Specifications 
+---
+layout: default
+title: Technical Specifications Assignment
+parent: Week 7
+grand_parent: Unit 3
+nav_order: 4
+---
+
+# Technical Specifications Assignment
 
 ## Assignment Overview
 

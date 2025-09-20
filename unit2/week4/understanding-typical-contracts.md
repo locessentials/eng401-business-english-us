@@ -155,7 +155,7 @@ Professional organizations worldwide advocate for:
 
 ## Contract Types Activity
 
-**Your Assignment:** Find and analyze a contract type we haven't covered in class.
+**Your Goal:** Find and analyze a contract type we haven't covered in class.
 
 ### Step 1: Research Contract Types
 

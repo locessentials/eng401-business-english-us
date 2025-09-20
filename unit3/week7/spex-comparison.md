@@ -80,6 +80,56 @@ Analysis: Your analysis should respond to the question, "How do you think this s
 
 Make your post, review your classmates' analyses as they are posted. You can comment on one another's posts.
 
+## Specifications from Other Industries
+
+Working through the previous activity has helped you to develop deeper insights into how specifications are written and the kinds of references that are used to ensure that specifications reflect best practices. Your assignment this week is to imagine that you have been approached to manage the production / delivery of a product or service and to design the specifications that will guide that work.
+
+To prepare you for this undertaking, you'll find an example of a set of specifications from another industry and present your findings to the class.
+
+### Step 1 - Start by Selecting the Industry
+
+To get started, you'll need to select the industry for which you'd like to develop specifications. You may not select translation, since we've already covered translation in detail. You may select, however, an industry related to translation, and it would make sense to choose strategically so that you're developing your specialization in a subject field in which you'd like to or already work.
+
+Examples of industries you could choose from include: market research, graphic design, media productions, software development, etc.
+
+### Step 2 - Find an Example of Specifications for that Industry
+
+Next, find an example of specifications (or a specifications-like document) for that industry. To do so, you can do searches online or you can ask an LLM to generate typical specifications given the industry.
+
+### Step 3 - Analyze the Specifications
+
+Prepare a post for Teams in which you analyze the specifications you found.
+
+Here's a template that illustrates the types of analysis that we're looking for in your post.
+
+```
+Subject line: Illustrative Title - Analysis by [Team Members]
+
+**Introduction:** Start the post with a one-sentence introduction to the document. What industry is it from? What specific type of service or product does it cover?
+
+Strengths: List two to three strengths of the specifications. That is, what makes the document effective given the audience and purpose of the text? One sentence long bullet points will suffice for this section.
+
+- Strength 1
+- Strength 2
+- Strength 3
+
+Weaknesses: List two to three weaknesses of the specifications. That is, what would you revise to make the text more usable if you were tasked with improving the document?
+
+- Weakness 1
+- Weakness 2
+- Weakness 3
+
+Link
+```
+
+### Step 4 - Share the Specifications
+
+Post a link to the specifications, or share the document on our Teams *Specifications* channel. 
+
+
+
+
+
 ---
 
 ## 📥 Download This Content

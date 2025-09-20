@@ -57,6 +57,20 @@ ASTM International's publication "[Form and Style for ASTM Standards](https://st
   - What does that section cover?
   - What did you learn from reviewing that section?
 
+## Specifications for Specifications
+
+Effective written communication depends on identifying the audience and purpose of a text and then writing according to those parameters, and that is no different when writing specifications. 
+
+### Audience
+As you should have gathered, specifications serve multiple audiences throughout a project's lifecycle. The primary audience includes project managers, technical teams, quality assurance professionals, and stakeholders who need to understand what will be delivered and how it will be achieved. In translation and localization contexts, this audience expands to include linguists, reviewers, client representatives, and technology specialists who must coordinate their efforts to meet defined requirements.
+
+Secondary audiences for specifications include future team members who may join the project, auditors who need to verify compliance, and external partners or vendors who must align their deliverables with established standards. Writing specifications with these diverse audiences in mind requires clear, unambiguous language that can be understood across different roles and expertise levels while maintaining the technical precision necessary for implementation.
+
+### Purpose
+The primary purpose of specifications is to eliminate ambiguity and establish clear expectations for all parties involved in a project. By documenting explicit requirements, specifications serve as a contract that defines what success looks like, how quality will be measured, and what processes must be followed. This documentation prevents misunderstandings, reduces costly revisions, and ensures that everyone works toward the same objectives.
+
+Specifications also serve as a foundation for project planning, resource allocation, and risk management. They enable teams to estimate timelines accurately, identify potential challenges early, and maintain consistency across different phases of production. In regulated industries or international standards contexts, specifications provide the documentation necessary for compliance and certification, making them essential tools for both operational success and legal requirements.
+
 ## Connections and Reflection
 
 ### Connecting What We've Covered to This Week's Activities

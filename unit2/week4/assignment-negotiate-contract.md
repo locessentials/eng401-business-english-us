@@ -8,7 +8,6 @@ nav_order: 4
 
 # Assignment: Negotiate a Contract
 
-**Due:** Sunday of Week 4  
 **Points:** 3 points  
 **Format:** Individual or group work (up to 3 members)  
 **Submission:** MS Word document via Teams
@@ -175,9 +174,8 @@ Key insights for contract discussions:
 
 **Upload your completed negotiation to Teams:**
 - **File format:** MS Word (.docx) with track changes and comments visible
-- **Due date:** Sunday of Week 4 by 11:59 PM
 - **Location:** Teams Assignment - Contract Negotiation
-- **Filename:** Follow the naming convention above
+- **Filename:** `GroupMembersFirstLastNames_NDA-negotiation.docx`
 
 **Next week:** You'll receive an answer key showing the instructor's analysis of the most important terms to negotiate in the LOC101 NDA.
 

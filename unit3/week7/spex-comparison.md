@@ -10,7 +10,7 @@ nav_order: 2
 
 In this set of activities we'll dive a little bit deeper into the topic of specifications, focusing on the structure, terminology, linguistic conventions followed in this text type. We'll start by studying an example of standards-based translation specifications, and then you'll find an example set of specifications for a specific industry besides translation.
 
-## Learning Objectives:
+## Learning Objectives
 
 By the end of these activities, you will be able to:
 
@@ -43,47 +43,42 @@ As you read above, the specifications form you just reviewed was developed based
 
 *Note: Any instructors who are interested in teaching ASTM F2575 in an educational setting can reach out to Alaina Brandt for help securing a copy.*
 
-We'll follow a *divide and conquer* approach to understanding this standard. You'll work in teams to review a specific section of the standard and then share what you've learned to our Specifications channel 
+We'll follow a *divide and conquer* approach to understanding this standard. You'll work in teams to review a specific section of the standard and then share what you've learned via a discussion post on Teams.
 
-### Activity 1 - Topics Covered by Technical Specifications
+#### Step 1 - Select the section you will cover
 
-What topics do specifications cover? To answer that question, we can find some examples of technical specifications written by a standards body like ASTM International. We'll get an idea of the breadth of coverage of specifications through a class poll.
+In a group of up to three people, select the section of the standard that you'll cover. Post the section that you'll cover to the *Specifications* channel on Teams.
 
-**Poll Everywhere:** [pollev.com/alainabrandt831](pollev.com/alainabrandt831)
+The sections that you can choose from are listed below. Unless otherwise indicated, one team may sign up for each section.
 
-1. Navigate to the [ASTM International website](https://www.astm.org) and do a search of the word "specifications".
-2. Find an example of a set of specifications that covers a topic that interests you.
-3. Respond to the survey on Poll Everywhere, answering these questions:
-  - What specific specifications document did you explore?
-  - What does the specification cover?
-  - What do you notice about the specialized terminology and/or linguistic conventions used in the discussion of the specifications?
-  
-Please be sure to include your name in your response on Poll Everywhere.
-  
-### Activity 2 - Technical Precision
+- 3. Terminology (up to two teams can work on this section)
+- 5. Needs Analysis
+- 6. Overview of a Translation Project
+- 7. Selecting a Translation Service Provider (up to two teams can work on this section)
+- 8. Pre-Production/Specifications Phase (up to two teams can work on this section)
+- 9. Production Phase (up to two teams can work on this section)
+- 10. Post-Production Phase
+- A1. The Translation Spectrum
 
-ASTM International's publication "[Form and Style for ASTM Standards](https://store.astm.org/media/pdf/bluebook_FormStyle.pdf)" (AKA the "Blue Book") presents the rules that must be followed when writing international standards. We'll explore this resource via another poll to understand some of the rules that must be followed when writing specifications for ASTM International.
+#### Step 2 - Analyze your section
 
-1. Review part B of the document: "Form of ASTM Specifications"
-2. Pick a section that you find to be important to keep in mind when writing specifications.
-3. Respond to the survey on Poll Everywhere, answering these questions:
-  - What section did you concentrate on?
-  - What does that section cover?
-  - What did you learn from reviewing that section?
+After you've selected your section, you can analyze it with the goal of preparing a post for Teams. The post that you share to teams should follow this format and respond to the questions indicated.
 
-## Connections and Reflection
+Here's a template that illustrates the types of analysis that we're looking for in your post.
 
-### Connecting What We've Covered to This Week's Activities
+```
+Subject line: [Section Title] - Analysis by [Team Members]
 
-Your assignment for this week is to write a set of specifications for the production of a product or service. You won't need to meet the precision required for an international standard, but still the topics covered here are crucial for understanding the text type of specifications.
+Summary: Please start by giving a two to three sentence summary of the section you worked with.
 
-### Reflect on What You've Learned
+Terminology: Please identify and define two or three important terms used in the section.
 
-As you work through the materials on specifications, reflect on these questions:
+Analysis: Your analysis should respond to the question, "How do you think this section of the standard informed the translation specifications presented above?
+```
 
-- How can specifications benefit you in your everyday work?
-- In the domain of translation and localization, how would you contribute to specifications in various production roles?
-- What strategies can you follow to establish effective specifications in your work?
+#### Step 3 - Make your post and review the posts on Teams
+
+Make your post, review your classmates' analyses as they are posted. You can comment on one another's posts.
 
 ---
 

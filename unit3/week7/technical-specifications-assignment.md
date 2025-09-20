@@ -1,21 +1,19 @@
----
-layout: default
-title: Technical Specifications Assignment
-parent: Week 7
-grand_parent: Unit 3
-nav_order: 4
----
-
 # Assignment: Technical Specifications 
 
-[Assignment overview/introduction]
+## Assignment Overview
+
+Throughout this week, you have explored the structure, terminology, and purpose of technical specifications across various industries. You've analyzed translation specifications based on ASTM F2575 standards and examined how specifications serve as foundational documents that eliminate ambiguity, establish clear expectations, and guide project execution.
+
+Now you'll apply this knowledge by creating your own comprehensive specifications template and filling it out for a specific project scenario. This assignment simulates real-world professional practice where you must scope projects accurately, communicate requirements precisely, and establish clear parameters for successful delivery.
+
+Your work will demonstrate your understanding of how specifications function as critical business documents that serve multiple stakeholders throughout a project's lifecycle—from initial planning through final delivery and quality assurance.
 
 ## Learning Objectives
 By the end of this assignment, you will be able to:
-- Lorem ipsum
-- Lorem ipsum
-- Lorem ipsum
-- Lorem ipsum
+- Design comprehensive specifications templates that capture essential project parameters for your chosen industry
+- Apply technical writing principles to create clear, scannable, and professionally formatted documentation
+- Analyze project requirements systematically, considering people, processes, and technology components
+- Demonstrate precision in language use while maintaining accessibility for diverse stakeholder audiences
 
 ---
 
@@ -58,7 +56,7 @@ Save a separate copy of this document under the file name indicated. The templat
 
 In this step, you'll begin to use your specifications, filling them in as if you were scoping a specific project with a client.
 
-**Tips for Filling Out Your Specificatoins**
+**Tips for Filling Out Your Specifications**
 
 - Fill in the specifications as if this were the real deal. Throughout your careers, you'll need to scope projects, so take this opportunity to get practice.
 - Be precise in the specifications you establish. This will seem like contradictory advice, but be detailed, just not too detailed. The document should facilitate scanning.
@@ -71,19 +69,19 @@ Again, as you fill out the specifications, you'll notice areas for improvement. 
 
 Before submitting your assignment, do a final sanity check to ensure that your deliverables:
 
-- Are free from typos/mispellings
+- Are free from typos/misspellings
 - Meet the requirements of this assignment
 - Are named correctly
 - And so on
 
-Over the course of this unit, you'll student project management, production processes and quality management systems in detail. That said, we'll cover sanity checks again. Specifications are the start of production processes, so with a solid understanding of specifications, you're off to a great start.
+Over the course of this unit, you'll study project management, production processes and quality management systems in detail. That said, we'll cover sanity checks again. Specifications are the start of production processes, so with a solid understanding of specifications, you're off to a great start.
 
 ## Submission Details
 
 As a reminder, here is a delivery summary:
 - **File format:** Two matching MS Word documents in .docx format
   - **Template file naming:** `LastNames_LastNames_[ProductType]-Specifications-template.docx`
-  - **Filled-in specifications file nameing:** `LastNames_LastNames_[ProductType]-Specifications-Project1.docx`
+  - **Filled-in specifications file naming:** `LastNames_LastNames_[ProductType]-Specifications-Project1.docx`
 - **Due date:** Sunday of Week 7 by 11:59 PM
 - **Teams Assignment:** Technical Specifications
 
@@ -91,34 +89,35 @@ As a reminder, here is a delivery summary:
 
 | Category | Points | Characteristics of effectiveness |
 | -------- | ------ | -------------------------------- |
-| **Specifications Template** | 1 point | • Characteristic<br>• Characteristic |
-| **Filled-in Specifications** | 1 point | • Characteristic<br>• Characteristic |
-| **Professionalism** | 1 point | • Characteristic<br>• Characteristic |
+| **Specifications Template** | 1 point | • Comprehensive coverage of essential parameters (people, processes, technology)<br>• Clear, logical organization with effective use of headers, tables, and lists<br>• Professional formatting that facilitates scanning and usability<br>• Appropriate level of detail for template flexibility |
+| **Filled-in Specifications** | 1 point | • Realistic and detailed project scenario with specific, measurable requirements<br>• Precise language that eliminates ambiguity while remaining accessible<br>• Evidence of systematic thinking about project scope and deliverables<br>• Consistency between template structure and filled-in content |
+| **Professionalism** | 1 point | • Error-free writing with proper grammar, spelling, and punctuation<br>• Adherence to assignment requirements including formatting and file naming<br>• Document design reflects industry standards and best practices<br>• Evidence of iterative refinement and attention to detail |
 
 ---
 
 ## Reflection Questions
 
-Consider these questions as you work...
+Consider these questions as you work:
 
 1. How does the use of specifications set me apart from other professionals?
 2. How can I verbalize the value of specifications to potential employers and clients?
-3. How can I get stakeholder buyin on the specifications I've developed?
+3. How can I get stakeholder buy-in on the specifications I've developed?
 
 ---
 
 ## 📥 Download This Assignment
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week4/assignment-negotiate-contract.md) and download it!
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit3/week7/technical-specifications-assignment.md) and download it!
 
 ### 🤖 AI Study Prompts
 After completing your technical specifications, enhance your learning with these prompts:
+- "Help me identify potential gaps or missing parameters in my specifications template for [your chosen industry]"
 - "What do I do when I learn that the specifications I have for a project need to change?"
-- ""
-- ""
-- ""
+- "Generate realistic client scenarios that would require modifications to my specifications template"
+- "What are the most common mistakes professionals make when writing specifications, and how can I avoid them?"
+- "How can I effectively communicate the value of detailed specifications to clients who want to skip this step?"
+- "What strategies can I use to ensure all stakeholders understand and agree to the specifications before project start?"
 
 ---
 
 **Week 7 Complete!** Next week we'll explore [Production Processes & Project Management](../week8/week8-overview.md)
-

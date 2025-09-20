@@ -90,7 +90,7 @@ As a reminder, here is a delivery summary:
 ## How Your Work Will be Graded
 
 | Category | Points | Characteristics of effectiveness |
-| --------- | --------- |
+| -------- | ------ | -------------------------------- |
 | **Specifications Template** | 1 point | • Characteristic<br>• Characteristic |
 | **Filled-in Specifications** | 1 point | • Characteristic<br>• Characteristic |
 | **Professionalism** | 1 point | • Characteristic<br>• Characteristic |
@@ -99,12 +99,11 @@ As a reminder, here is a delivery summary:
 
 ## Reflection Questions
 
-Consider these questions as you work
+Consider these questions as you work...
 
-1. How does the use of specifications set me apart from other workers?
+1. How does the use of specifications set me apart from other professionals?
 2. How can I verbalize the value of specifications to potential employers and clients?
 3. How can I get stakeholder buyin on the specifications I've developed?
-4. 
 
 ---
 
@@ -113,11 +112,11 @@ Consider these questions as you work
 Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week4/assignment-negotiate-contract.md) and download it!
 
 ### 🤖 AI Study Prompts
-After completing your contract negotiation, enhance your learning with these prompts:
+After completing your technical specifications, enhance your learning with these prompts:
 - "What do I do when I learn that the specifications I have for a project need to change?"
-- "How can I prepare for contract discussions that balance assertiveness with maintaining good professional relationships?"
-- "What questions should I always ask before signing any professional agreement in the translation industry?"
-- "Create scenarios for practicing contract negotiation conversations with employers or clients"
+- ""
+- ""
+- ""
 
 ---
 

@@ -35,7 +35,7 @@ The chapter you just read outlines the importance of specifications in the trans
 
 What topics do specifications cover? To answer that question, we can find some examples of technical specifications written by a standards body like ASTM International. We'll get an idea of the breadth of coverage of specifications through a class poll.
 
-**Poll Everywhere:** [pollev.com/alainabrandt831](pollev.com/alainabrandt831)
+**Poll Everywhere:** [pollev.com/alainabrandt831](https://pollev.com/alainabrandt831)
 
 1. Navigate to the [ASTM International website](https://www.astm.org) and do a search of the word "specifications".
 2. Find an example of a set of specifications that covers a topic that interests you.

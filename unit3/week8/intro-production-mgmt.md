@@ -93,7 +93,7 @@ Feel free to explore additional methodologies such as Waterfall, Scrum, PRINCE2,
 
 ## Next Steps
 
-Continue to: [Project Management Communication Systems](pm-communication.md)
+Continue to: [Project Management](project-management.md)
 
 ---
 

@@ -35,7 +35,7 @@ This week focuses on quality management terminology and concepts, PDCA (Plan-Do-
 ## Independent Activities
 
 ### Assignment: Quality Improvement Plan
-- Find an example of a non-conforming product or service
+- Imagine an example of a non-conforming product or service
 - Conduct root cause analysis to identify the causes for the issue
 - Write a quality improvement plan that incorporates corrective and preventative action
 - **Due date:** Sunday of Week 9

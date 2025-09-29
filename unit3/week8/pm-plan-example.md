@@ -43,10 +43,10 @@ Below is our project timeline organized by major phases. The current date is Wee
 | QA testing on entire site | | | ████████ | ████████ | ████ |
 | Pilot with early adopters | | | | ████████ | ████████ |
 | Collect and implement feedback | | | | | ████████ |
-| **Marketing & Sales** (start-to-start) | | | | ████ | ████████ |
-| Develop marketing materials | | | | ████████ | ████ |
-| Social media campaign launch | | | | | ████████ |
-| **Project Launch** | | | | | ████ |
+| **Marketing & Sales** (start-to-start) | | | | | |
+| Develop MVP marketing materials | ████████ | ████████ | ████ | | |
+| Social media campaign | | ████████ | ████████ | ████████ | ████████ |
+| **Project Launch** | | | | | 🏴 |
 
 **Legend:** ████ = Active work period
 

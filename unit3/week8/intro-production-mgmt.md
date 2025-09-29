@@ -81,6 +81,7 @@ Different industries and organizations employ various project management methodo
 
 | Methodology | Key Characteristics | Best Used For |
 |-------------|-------------------|---------------|
+| **Waterfall** | Sequential, linear approach with distinct phases completed in order; changes are difficult once a phase is complete | Projects with well-defined requirements, regulated industries, construction, hardware development |
 | **Agile Project Management** | Iterative approach with short sprints, continuous feedback, and adaptability to change | Software development, creative projects, environments requiring flexibility |
 | **Six Sigma** | Data-driven approach focused on eliminating defects and reducing variation in processes | Manufacturing, quality improvement initiatives, process optimization |
 | **Lean Model** | Emphasizes waste reduction, value stream mapping, and continuous improvement | Manufacturing, service industries, any process-focused environment |

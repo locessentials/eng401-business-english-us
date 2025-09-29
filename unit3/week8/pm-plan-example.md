@@ -36,7 +36,7 @@ Below is our project timeline organized by major phases. The current date is Wee
 | **MVP Features Development** | | | | | |
 | Reset password functionality | ████████ | | | | |
 | User preferences page | ████████ | ████ | | | |
-| Drag and drop functionality | | ████████ | ████ | | |
+| Drag and drop functionality | ████████ | ████████ | ████ | | |
 | Sales page and user access groups | | | ████████ | ████ | |
 | **Quality Assurance** (start-to-start) | | | ████ | ████████ | ████ |
 | Fix known bugs | ████████ | ████████ | ████████ | ████ | |

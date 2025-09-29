@@ -39,7 +39,7 @@ Below is our project timeline organized by major phases. The current date is Wee
 | Drag and drop functionality | ████████ | ████████ | ████ | | |
 | Sales page and user access groups | | ████████ | ████ | | |
 | **Quality Assurance** (start-to-start) | | | ████ | ████████ | ████ |
-| Fix known bugs | ████████ | ████████ | ████████ | ████ | |
+| Fix known bugs | | ████████ | ████████ | ████████ | |
 | QA testing on entire site | | | ████████ | ████████ | ████ |
 | Pilot with early adopters | | | | ████████ | ████████ |
 | Collect and implement feedback | | | | | ████████ |

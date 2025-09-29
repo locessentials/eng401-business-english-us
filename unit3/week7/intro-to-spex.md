@@ -87,7 +87,7 @@ As you work through the materials on specifications, reflect on these questions:
 
 Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week6/intro-to-spex.md) and download it!
 
-### 🤖 AI Study Prompts
+### 🤖 GAI Study Prompts
 Copy the downloaded content and try these prompts:
 
 - "What types of requirements are collected into specifications in different industries?"

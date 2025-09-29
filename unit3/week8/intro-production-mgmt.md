@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Introduction to Production Management
-parent: Week 7
+parent: Week 8
+grandparnet: Unit 3
 nav_order: 1
 ---
 

@@ -40,8 +40,8 @@ Below is our project timeline organized by major phases. The current date is Wee
 | Sales page and user access groups | | | ████████ | ████ | |
 | **Quality Assurance** (start-to-start) | | | ████ | ████████ | ████ |
 | Fix known bugs | ████████ | ████████ | ████████ | ████ | |
-| QA testing on entire site | | | | ████████ | ████ |
-| Pilot with early adopters | | | | | ████████ |
+| QA testing on entire site | | | ████████ | ████████ | ████ |
+| Pilot with early adopters | | | | ████████ | ████████ |
 | Collect and implement feedback | | | | | ████████ |
 | **Marketing & Sales** (start-to-start) | | | | ████ | ████████ |
 | Develop marketing materials | | | | ████████ | ████ |

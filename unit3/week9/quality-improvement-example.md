@@ -1,3 +1,11 @@
+---
+layout: default
+title: Quality Improvement Plan Example
+parent: Week 9
+grand_parent: Unit 3
+nav_order: 4
+---
+
 # Quality Improvement Plan: Pokémon Scarlet & Violet Regional Spanish Localization
 
 ## Non-Conforming Output - Description

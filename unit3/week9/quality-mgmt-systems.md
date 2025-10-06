@@ -127,14 +127,14 @@ While the focus of this module is investigating outputs that do not meet accepta
 
 Find this file [on our repo](https://raw.githubusercontent.com/alainamb/uic_tr35-business-english-II/main/unit3/week9/quality-mgmt-systems.md) and download it!
 
-### 🤖 AI Study Prompts
+### 🤖 GAI Study Prompts
 Copy the downloaded content and try these prompts:
 
-- "Explain the input-process-output model with examples from different industries."
-- 
-- 
-- 
-- 
+- "What are the key responsibilities of a quality manager versus a project manager in a production workflow?"
+- "Compare quality management approaches in translation/localization to quality management in [industry of your choice]."
+- "Create a scenario where I need to decide between 'start from scratch,' 'rework,' or 'use as is' for a non-conforming output, and walk me through the decision-making process."
+- "Quiz me on the difference between error-counting methods and time-based metrics for measuring quality."
+- "Help me understand how to calculate monetary losses from non-conforming outputs using time-based metrics. Give me practice problems."
 
 ---
 

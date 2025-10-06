@@ -63,6 +63,8 @@ Let’s say we have a metric of 1500 words per hour for the editing stage. Under
 
 Following the examples given here, if an editor needs 1 hour to edit a project of 750 words, that equals a loss of one half hour. If an editor needs 4 hours to edit a project of 3000 words, the equals a loss of 2 hours. In both cases, the time beyond the amount of time allotted by the metric is the time lost.
 
+### Recuperating Financially from Non-Conforming Outputs
+
 Measuring non-conforming products according to time is a simple way to tie a monetary value to time losses. If our organization’s hourly rate is $75 USD, we can next calculate our monetary losses as $35.70 in the first example and $150 in the second example. Once we have a dollar amount, we can alert a contracted translator if the root of the non-conformity was poor performance on their part that we will be deducting these monetary losses from the purchase order that they were to be paid, thereby covering our losses.
 
 Any organization will likely want to recuperate the monetary losses resulting from rework to the product when an external contractor is responsible for the non-conformities. (To determine if the external contractor is responsible, the project manager or a quality manager will first need to do a root cause analysis. More on that later in the next lesson.)

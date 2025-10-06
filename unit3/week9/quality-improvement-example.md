@@ -106,8 +106,6 @@ After evaluating the costs and technical challenges of developing a Latin Americ
 
 Preventive actions implement systemic changes to prevent similar issues from occurring in future projects. The Pokemon Company made significant investments in preventing regional localization issues for all future releases.
 
-### Process Improvements
-
 | Action ID | Preventive Action | Responsible Party | Status |
 |-----------|------------------|-------------------|--------|
 | PA-001 | Commit to including Latin American Spanish localization in all future mainline Pokemon games starting with Pokemon Legends: Z-A (late 2025) | Executive Leadership | Implemented |

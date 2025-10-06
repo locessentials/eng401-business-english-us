@@ -1,10 +1,14 @@
 # Quality Improvement Plan: Pokémon Scarlet & Violet Regional Spanish Localization
 
+## Non-Conforming Output - Description
+
 When Pokémon Scarlet and Pokémon Violet launched in November 2022, Nintendo released the games with Spanish localization that used European Spanish (es-ES) terminology and expressions throughout. The same Spanish version was distributed to all Spanish-speaking markets globally, including Latin America.
 
 Within days of launch, Latin American players reported the issue through social media, gaming forums, and customer support channels. Players specifically noted that certain dialogue choices and interface text contained words and phrases that are acceptable in Spain but have vulgar or inappropriate meanings in Latin American Spanish variants.
 
 The most commonly cited example was the use of the verb "coger" (meaning "to take" or "to grab" in European Spanish) which carries sexual connotations in Mexican Spanish and other Latin American variants. Players also reported other regionalism issues where Spanish-from-Spain expressions felt awkward or confusing to Latin American audiences.
+
+### Impact
 
 This quality fail had the following impact:
 - **Customer dissatisfaction:** Thousands of complaints across social media platforms and gaming communities, with the petition eventually reaching 28,359 signatures

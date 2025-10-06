@@ -111,7 +111,7 @@ Feel free to explore additional methodologies such as Waterfall, Scrum, or other
 
 Find this file [on our repo](https://raw.githubusercontent.com/alainamb/uic_tr35-business-english-II/main/unit3/week8/intro-production-mgmt.md) and download it!
 
-### 🤖 AI Study Prompts
+### 🤖 GAI Study Prompts
 Copy the downloaded content and try these prompts:
 
 - "Explain the input-process-output model with examples from different industries."

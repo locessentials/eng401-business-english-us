@@ -148,3 +148,13 @@ The lessons learned have been incorporated into training materials and are now s
 - **Slator.** (2022, February 19). Gamers Petition Pokemon to Localize Games for Latin American Spanish Market. Retrieved from https://slator.com/gamers-petition-pokemon-localize-games-latin-american-spanish/
 - **Universitat de les Illes Balears.** (2024, April 8). Pokémon Scarlet and Violet: A Comparative Analysis of the Localization in the English and Spanish Versions. Retrieved from https://dspace.uib.es/xmlui/handle/11201/165294
 - **Game Rant.** (2025, February 27). Pokemon Has Good News for Fans in Latin America. Retrieved from https://gamerant.com/pokemon-latin-american-spanish-language/
+
+---
+
+## 📥 Download This Content
+
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit3/week9/quality-improvement-example.md) and download it!
+
+---
+
+**Unit 3 Complete!** Reflect on what you've achieved in the [Unit 3 - Conclusion](../unit3-conclusion.md).

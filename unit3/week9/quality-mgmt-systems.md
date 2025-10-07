@@ -109,6 +109,7 @@ In any of these situations, if buffers have not been built into the timeline or 
 After the production team has achieved the immediate objective of bringing the non-conforming output up to acceptable quality threshold in order to get the project back on track, each step impacted by the non-conforming output may be logged into a tracker of some kind in more mature production environments. This is done so that total losses (or gains!) can be tracked and to initiate an investigation into the non-conforming output by the quality manager.
 
 **Non-Conforming Output Tracker - Positive Feedback and Constructive Criticism**
+
 | Project No. | Date | Task | Time Allotted | Time Needed | Over/Under? | CA or PF* | Notes |
 |-------------|------|------|---------------|-------------|-------------|-----------|-------|
 | 2025-100 | 2/29 | Proofreading | 3 hours | 5 hours | 2 hours over | CA | Punctuation rules from style guide were not followed. I had to fix all the punctuation. |

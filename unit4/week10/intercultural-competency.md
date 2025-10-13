@@ -14,17 +14,15 @@ In today's globalized world, the ability to communicate effectively across cultu
 
 ### Deardorff's Intercultural Competence Model
 
-One of the most influential frameworks for understanding intercultural competence is Darla Deardorff's Process Model of Intercultural Competence (2006). This model conceptualizes intercultural competence as a continuous learning cycle involving several interconnected components:
+One of the most influential frameworks for understanding intercultural competence is Darla Deardorff's Process Model of Intercultural Competence (2006). This model conceptualizes intercultural competence as a continuous learning cycle involving several interconnected components.
 
-**Attitudes (Foundation):** The model begins with essential attitudes including respect (valuing other cultures and cultural diversity), openness (withholding judgment and being receptive to intercultural learning), and curiosity/discovery (tolerating ambiguity and uncertainty). These attitudes form the foundation upon which other competencies are built.
-
-**Knowledge and Comprehension:** Building on these attitudes, individuals develop cultural self-awareness (understanding how one's own culture influences identity and worldview), deep cultural knowledge (including understanding other worldviews), and sociolinguistic awareness. The model emphasizes that understanding the world from others' perspectives is crucial.
-
-**Skills:** The model identifies key skills for acquiring and processing intercultural knowledge: observing, listening, evaluating, analyzing, interpreting, and relating. These skills enable individuals to engage meaningfully with cultural differences.
-
-**Internal Outcomes:** These components ideally lead to internal outcomes including an informed frame of reference, adaptability to different communication styles and behaviors, flexibility in selecting appropriate responses, and an ethnorelative view that recognizes all cultures in context.
-
-**External Outcomes:** The visible result is behavior and communication that is both effective (achieving goals) and appropriate (respecting cultural norms) in intercultural situations.
+| Component | Description |
+| --------- | ----------- | 
+| **Attitudes (Foundation)** | The model begins with essential attitudes including respect (valuing other cultures and cultural diversity), openness (withholding judgment and being receptive to intercultural learning), and curiosity/discovery (tolerating ambiguity and uncertainty). These attitudes form the foundation upon which other competencies are built. | 
+| **Knowledge and Comprehension** | Building on these attitudes, individuals develop cultural self-awareness (understanding how one's own culture influences identity and worldview), deep cultural knowledge (including understanding other worldviews), and sociolinguistic awareness. The model emphasizes that understanding the world from others' perspectives is crucial. | 
+| **Skills** | The model identifies key skills for acquiring and processing intercultural knowledge: observing, listening, evaluating, analyzing, interpreting, and relating. These skills enable individuals to engage meaningfully with cultural differences. | 
+| **Internal Outcomes** | These components ideally lead to internal outcomes including an informed frame of reference, adaptability to different communication styles and behaviors, flexibility in selecting appropriate responses, and an ethnorelative view that recognizes all cultures in context. | 
+| **External Outcomes** | The visible result is behavior and communication that is both effective (achieving goals) and appropriate (respecting cultural norms) in intercultural situations. | 
 
 Deardorff's model emphasizes that intercultural competence is not a fixed endpoint but an ongoing developmental process that requires continuous reflection and growth.
 

@@ -2,7 +2,7 @@
 layout: default
 title: Introduction to Teamwork
 parent: Week 10
-grandparnet: Unit 4
+grandparent: Unit 4
 nav_order: 1
 ---
 

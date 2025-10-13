@@ -84,6 +84,8 @@ After watching the video, check your understanding by taking this quiz.
 
 Then take a look at the "Advice on Teamwork" booklet. This booklet contains advice on a variety of topics associated with working in teams, including team formation, picking leaders, and escalating issues. Pick one of the topics from the booklet that most interests you. Read about the topic, and then make a post to our `ICC Teamwork` channel on Teams about your key takeaways about the topic. You can read through the entire booklet later too!
 
+> Booklet: [Brandt_MyAdviceForWorkingInTeams_EN-US.pdf](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week10/references/Brandt_MyAdviceForWorkingInTeams_EN-US.pdf)
+
 **Topics**
 
 - Diverse Teams Are Smarter

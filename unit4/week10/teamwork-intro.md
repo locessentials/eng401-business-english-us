@@ -53,8 +53,88 @@ Start the lesson by watching the video "Why Diverse Teams Are Smarter," in which
 >
 > View the transcript: [Phillips_WhyDiverseTeamsAreSmarter_Transcript.pdf](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week10/references/Phillips_WhyDiverseTeamsAreSmarter_Transcript.pdf)
 
+#### Knowledge Check: Diverse Teams Are Smarter
+
+After watching the video, check your understanding by taking this quiz.
+
+1. According to Katherine Phillips, what is groupthink? Select the correct answer.
+  - Type of bias in which people are less likely to question the possible different perspectives when in an environment in which everyone has the same surface-level identity characteristics (race, gender)
+  - Type of consensus that is easily reached when people share the same surface-level identity characteristics (race, gender)
+
+2. According to Katherine Phillips, what happens to a person who works in a group in which most people share the same surface-level identity characteristics (race, gender) when the person has unique information? Select all that apply.
+  - The person is less likely to bring up the idea confidently, if they bring the idea up at all.
+  - The group is more likely to be dismissive of the idea.
+  - The environment feels more hostile to the person than a diverse one.
+
+3. According to Katherine Phillips, what are the benefits of working in a team in which diverse surface-level identity characteristics (race, gender) are represented? Select all that apply.
+  - Legitimization of the presence of different perspectives
+  - Enhanced pre-meeting preparation, information sharing, and complex problem solving
+  - Greater creativity
+  - Greater effort
+  - Teams that are diverse according to surface-level identity characteristics (race, gender) work harder.
+
+4. According to Katherine Phillips, what practical strategies can we adopt to mitigate bias when working in diverse teams? Select all that apply.
+  - Focus on problem solving, rather than debating opinions.
+  - Make sure that everyone is given approximately equal airtime. Don’t let some groups dominate the discussion over others.
+  - Have those who have the surface-level identity characteristics of people who are typically lower status in social hierarchies speak first.
+  - Adopt a no-interruption rule.
+  - Adopt a unanimous rule policy for decision making, since homogenous majorities have no incentive to listen to group minorities under a majority rule system.
+
 ### My Advice for Working in Teams
 
-Then take a look at the "Advice on Teamwork" booklet. This booklet contains advice on a variety of topics associated with working in teams, including team formation, picking leaders, and escalating issues. You can read through the entire booklet or skip around to the topics that most interest you.
+Then take a look at the "Advice on Teamwork" booklet. This booklet contains advice on a variety of topics associated with working in teams, including team formation, picking leaders, and escalating issues. Pick one of the topics from the booklet that most interests you. Read about the topic, and then make a post to our `ICC Teamwork` channel on Teams about your key takeaways about the topic. You can read through the entire booklet later too!
 
-## 
+**Topics**
+
+- Diverse Teams Are Smarter
+- Forming, Storming, Norming, Performing
+- Stretch Collaboration
+- Babble Bias & Team Leadership
+- Setting Boundaries & Saying No
+- Feedback & Constructive Criticism
+- Dealing with Complaints
+- Division of Work
+- Making Escalations
+- Worst case scenarios
+- Conclusion
+
+#### Knowledge Check: My Advice for Working in Teams
+
+After reading through the booklet, check your understanding by taking this quiz.
+
+1. According to Adam Kahane, which individual approach to teamwork is employed in each of the circumstances? Match the approach from the word bank to the circumstance described.
+  - **Word bank:** Exit, Adapt, Force, Collaborate conventionally, Stretch collaboration
+  - If you can't change the situation, and you can’t bear it, you…
+  - If you can't change the situation, and you can bear it, you…
+  - If you can effect change by yourself, you…
+  - If you can't effect change by yourself, and you can control the change, you…
+  - If you can't effect change by yourself, and you can’t control the change, you…
+
+2. What is Babble Bias? Select the best answer.
+   - Type of bias that equates leadership with the quantity of time a person speaks rather than the quality of their contributions
+   - Type of response that can be the result of nervousness in which a person answers a question by providing TMI (too much information)
+  
+3. According to Nedra Tawwab, what are some acceptable ways to say 'No'? Select all that apply.
+  - I think I'll pass.
+  - I'm not taking on new things.
+  - It doesn't sound like the right fit.
+  - I'd rather not, thanks.
+  - That doesn't work for me.
+  - I appreciate your consideration, but no thank you.
+  - No, thanks.
+  - No. (Remember, "No" is a complete sentence.)
+
+4. According to Kim Scott, what are the four ways in which providing feedback is approached? Match the feedback style from the word bank with its definition.
+  - **Word bank:** Manipulative Insincerity, Ruinous Empathy, Obnoxious Aggression, Radical Candor
+  - Praise that is insincere, flattery to a person's face and harsh criticism behind their back
+  - When you want to spare someone's short-term feelings, so you don't tell them something they need to know
+  - Brutal honesty or front stabbing, when you challenge someone directly but don't show you care about them personally
+  - Caring personally while challenging directly, guidance and feedback that's both kind and clear, specific, and sincere
+
+5. According to Layla Saad, what should you focus on in communication?
+  - Content of the message
+  - Tone of the message
+
+6. According to "Learning in the Thick of It," what is a **brief back** and what is an **after action review**? Use context clues to match the term to its definition.
+  - Restating the objectives of tasks at hand as one has understood those objectives to check for understanding before completing work
+  - Reflecting on and documenting successes and areas for improvement after tasks have been completed

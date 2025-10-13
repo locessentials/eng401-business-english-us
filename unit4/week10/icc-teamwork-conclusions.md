@@ -3,7 +3,7 @@ layout: default
 title: ICC Teamwork - Conclusions
 parent: Week 10
 grandparent: Unit 4
-nav_order: 1
+nav_order: 4
 ---
 
 # Interculturally Competent Teamwork: Conclusions and Further Exploration
@@ -27,12 +27,12 @@ Find this file [on our repo](https://raw.githubusercontent.com/alainamb/uic_tr35
 ### 🤖 GAI Study Prompts
 Copy the downloaded content and try these prompts:
 
-- "Lorem ipsum..."
-- "Lorem ipsum..."
-- "Lorem ipsum..."
-- "Lorem ipsum..."
-- "Lorem ipsum..."
-- "Lorem ipsum..."
+- "Help me understand intersectionality and how it relates to workplace teamwork"
+- "What are some practical strategies for avoiding cultural stereotypes while still acknowledging cultural differences?"
+- "Explain the difference between organizational work culture and broader cultural identity"
+- "How can teams create safe spaces for discussing cultural differences and preferences?"
+- "What does it mean to treat people as individuals while acknowledging their cultural backgrounds?"
+- "Give me examples of team-building exercises that respect cultural diversity without reinforcing stereotypes"
 
 ---
 

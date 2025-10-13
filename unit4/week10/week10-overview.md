@@ -15,26 +15,26 @@ This week focuses on interculturally competent teamwork, technical documentation
 ## Topics Covered
 
 ### Subtopics
-- **Technical specifications structure and format**
-- **Standardized terminology in specifications**
-- **Technical documentation types and purposes**
-- **Language precision in technical documentation**
+- **Teamwork, team building and documentation for team management**
+- **Culture and intercultural competency**
+- **Intersectionality and individualism**
+- **Work culture and expectations**
 
 ## Class Activities
 
 ### Tuesday Class Activities
-- Assignment introduction: Team Charter (segundo parcial)
+- Assignment introduction: Team Charter
 - Introduction to interculturally competent teamwork
-- Discussion: Do's and Don'ts of Teamwork
-- Group activity: Identifying framework for understanding teamwork
+- Discussion: Do's and Don'ts of Teamwork / Cultural Expectations about Teamwork
+- Group activity: Frameworks for understanding teamwork
 
 ### Thursday Class Activities  
 - Understanding terminology related to intercultural competency
-- Discussion: Comparative analysis of expectations about teamwork in different cultures
+- Self evaluation of specific intercultural competencies
 
 ## Independent Activities
 
-### Assignment: Team Charter (segundo parcial)
+### Assignment: Team Charter
 - Work with a team and identify the project you have come together to deliver
 - Develop the team charter that will guide your teamwork
 - **Due date:** Sunday of Week 10
@@ -46,7 +46,7 @@ This week focuses on interculturally competent teamwork, technical documentation
 
 ## Assessment
 
-- **Team Charter (segundo parcial)** (10 points)
+- **Team Charter (segundo parcial)** (3 points)
 - **Class attendance and participation** (2 points)
 
 ---

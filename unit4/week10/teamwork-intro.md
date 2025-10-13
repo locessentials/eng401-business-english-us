@@ -146,7 +146,7 @@ After reading through the booklet, check your understanding by taking this quiz.
 Now that you've worked through the first activities on teamwork for this week, do some self reflection...
 
 - Much of the advice presented here is based on a U.S. perspective. Do you find the advice to be applicable to your context?
-- In "My Advice on Teamwork," you learn that one of the instructor's mottos is: If everyone at the table is a dog playing poker, be a dog playing poker. What does that advice mean? What motto(s) would you adopt for teamwork?
+- In "My Advice on Teamwork," you learn that one of the instructor's mottos is: If everyone at the table is a dog playing poker, be a dog playing poker. What does that motto mean? What motto(s) would you adopt for teamwork?
 - In what ways are you an excellent team member? What about your style of teamwork needs work?
 
 ## 📥 Download This Content

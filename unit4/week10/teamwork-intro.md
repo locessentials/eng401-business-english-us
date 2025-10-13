@@ -138,3 +138,28 @@ After reading through the booklet, check your understanding by taking this quiz.
 6. According to "Learning in the Thick of It," what is a **brief back** and what is an **after action review**? Use context clues to match the term to its definition.
   - Restating the objectives of tasks at hand as one has understood those objectives to check for understanding before completing work
   - Reflecting on and documenting successes and areas for improvement after tasks have been completed
+
+## Self Reflection on Teamwork
+
+Now that you've worked through the first activities on teamwork for this week, do some self reflection...
+
+- Much of the advice presented here is based on a U.S. perspective. Do you find the advice to be applicable to your context?
+- In "My Advice on Teamwork," you learn that one of the instructor's mottos is: If everyone at the table is a dog playing poker, be a dog playing poker. What does that advice mean? What motto(s) would you adopt for teamwork?
+- In what ways are you an excellent team member? What about your style of teamwork needs work?
+
+## 📥 Download This Content
+
+Find this file [on our repo](https://raw.githubusercontent.com/alainamb/uic_tr35-business-english-II/main/unit4/week10/teamwork-intro.md) and download it!
+
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try these prompts:
+
+- "What are some additional frameworks for understanding teamwork?"
+- "Please give me practical tips for progressing through Tuckman's model of forming, storming, norming and performing more quickly as a team."
+- "Give me examples of statements that I should accept for their content rather than judging them for their tone."
+- "When working in homogenous teams, what can we do to ensure we have some of the benefits that would have come from having more diversity?"
+- "How do preferences for teamwork differ between culture A and culture B."
+
+---
+
+**Next Activity**: [Understanding Intercultural Competency](intercultural-competency.md)

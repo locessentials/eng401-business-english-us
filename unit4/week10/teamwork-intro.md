@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Advice Working in Teams
+title: Introduction to Teamwork
 parent: Week 10
 grandparnet: Unit 4
 nav_order: 1
 ---
 
-# Advice for Working in Teams from a U.S. Perspective
+# Introduction to Teamwork
 
 The topic of teamwork is vast and can be covered from so many angles. The topic of interculturally competent teamwork cannot be approached without an understanding of culture, or the elements of language, educational and experiential backgrounds, age, gender, sexual orientation, race, ethnicity, and nationality, religious and non-religious beliefs, political ideologies, and customs of groups of people. Interculturally competent teamwork is relevant to both international business environments, in which time zones, different levels of language ability in a common language, and different communication expectations need to be navigated. Interculturally competent teamwork is also relevant in businesses that operate in a single country with a diverse workforce, as is increasingly becoming the case as the world becomes more interconnected.
 
@@ -40,3 +40,21 @@ Next, we'll discuss culturally-tied expectations about Teamwork. Here, please co
 | Contributor | Culture | Perceived Expectation | Navigating the Expectation |
 | ----------- | ------- | --------------------- | -------------------------- |
 | Alaina | White European American | A leader is the person who speaks the most. | To be promoted within White European American spaces, introverts will need to learn to speak up a lot. |
+
+## Teamwork from a U.S. Perspective
+
+Now, let's explore some resources that should help you navigate teamwork in diverse international teams. Please note that the recommendations here are based upon an American (from the United States) perspective.
+
+### Why Diverse Teams Are Smarter
+
+Start the lesson by watching the video "Why Diverse Teams Are Smarter," in which Katherine Phillips, Reuben Mark Professor of Organizational Character at Colombia Business School, shares advice about working in diverse and international teams. A transcript of this talk has been included below.
+
+> Watch the video: [Why Diverse Teams are Smarter](https://youtu.be/1JdDPYFPwUo?si=iie7YQixokWlnL64) via Columbia Business School
+>
+> View the transcript: [Phillips_WhyDiverseTeamsAreSmarter_Transcript.pdf]()
+
+### My Advice for Working in Teams
+
+Then take a look at the "Advice on Teamwork" booklet. This booklet contains advice on a variety of topics associated with working in teams, including team formation, picking leaders, and escalating issues. You can read through the entire booklet or skip around to the topics that most interest you.
+
+## 

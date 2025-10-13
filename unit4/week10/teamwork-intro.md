@@ -51,7 +51,7 @@ Start the lesson by watching the video "Why Diverse Teams Are Smarter," in which
 
 > Watch the video: [Why Diverse Teams are Smarter](https://youtu.be/1JdDPYFPwUo?si=iie7YQixokWlnL64) via Columbia Business School
 >
-> View the transcript: [Phillips_WhyDiverseTeamsAreSmarter_Transcript.pdf]()
+> View the transcript: [Phillips_WhyDiverseTeamsAreSmarter_Transcript.pdf](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week10/references/Phillips_WhyDiverseTeamsAreSmarter_Transcript.pdf)
 
 ### My Advice for Working in Teams
 

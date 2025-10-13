@@ -111,8 +111,8 @@ After reading through the booklet, check your understanding by taking this quiz.
   - If you can't effect change by yourself, and you can’t control the change, you…
 
 2. What is Babble Bias? Select the best answer.
-   - Type of bias that equates leadership with the quantity of time a person speaks rather than the quality of their contributions
-   - Type of response that can be the result of nervousness in which a person answers a question by providing TMI (too much information)
+  - Type of bias that equates leadership with the quantity of time a person speaks rather than the quality of their contributions
+  - Type of response that can be the result of nervousness in which a person answers a question by providing TMI (too much information)
   
 3. According to Nedra Tawwab, what are some acceptable ways to say 'No'? Select all that apply.
   - I think I'll pass.

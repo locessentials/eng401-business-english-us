@@ -46,7 +46,7 @@ This week focuses on internal corporate communication types, communication chann
 
 ## Assessment
 
-- **Corporate Communications Portfolio** (3 points)
+- **Corporate Communications Portfolio - Partial Exam** (10 points)
 - **Class attendance and participation** (2 points)
 
 ---

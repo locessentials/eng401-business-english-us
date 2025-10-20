@@ -177,5 +177,3 @@ Copy the downloaded content and try these prompts:
 ---
 
 **Next Activity**: [Understanding Intercultural Competency](intercultural-competency.md)
-
-*This page is part of Week 11: Internal and Crisis Communication for the Business English II course at Universidad Intercontinental.*

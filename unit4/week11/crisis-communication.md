@@ -195,9 +195,6 @@ If you're interested in learning more about crisis communication beyond layoffs,
 - [**Why Some Diversity, Equity & Inclusion (DEI) Crisis Responses Fail + What to Do Instead**](https://www.inhersight.com/blog/employer-resources/diversity-equity-inclusion-dei-crisis-response) via InHerSight  
   *Examines crisis communication specifically around DEI issues, including common failures and strategies for authentic, accountable responses.*
 
-- [**Layoffs Are Painful But You Can Communicate Them Compassionately**](https://hbr.org/2022/11/layoffs-are-painful-but-you-can-communicate-them-compassionately) via Harvard Business Review  
-  *The foundational article for this lesson, with detailed guidance on communicating layoffs to both departing and remaining employees.*
-
 ---
 
 ## Reflection Questions

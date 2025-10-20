@@ -176,4 +176,4 @@ Copy the downloaded content and try these prompts:
 
 ---
 
-**Next Activity**: [Understanding Intercultural Competency](intercultural-competency.md)
+**Next Activity**: [Corporate DEI Efforts](corporate-dei-efforts.md)

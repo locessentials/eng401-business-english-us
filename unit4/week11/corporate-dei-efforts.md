@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Corporate DEI Efforts
-parent: Week 10
+parent: Week 11
 grandparent: Unit 4
 nav_order: 2
 ---

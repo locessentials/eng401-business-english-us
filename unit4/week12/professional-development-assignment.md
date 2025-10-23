@@ -8,11 +8,23 @@ nav_order: 3
 
 # Professional Development Training Assignment
 
-People don't quit jobs - they quit managers.
 
-People get promotions for being good at their jobs and then are not taught how to be managers.
+---
 
-Performance reviews
+## 📥 Download This Assignment
+
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week12/professional-development-assignment.md) and download it!
+
+### 🤖 GAI Study Prompts
+Use these prompts to enhance your work on this assignment:
+- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 ---
 

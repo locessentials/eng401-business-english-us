@@ -8,7 +8,17 @@ nav_order: 1
 
 # What is leadership?
 
+Leadership is a broad topic.
 
+## What is leadership to you?
+
+Poll: What is leadership to you?
+
+## Research Activity
+
+Research: What are definitions of leadership in the literature
+
+## Self Reflection
 
 ---
 

@@ -16,9 +16,11 @@ Poll: What is leadership to you?
 
 ## Research Activity
 
-Research: What are definitions of leadership in the literature
+Research: What are definitions of leadership in the literature?
 
 ## Self Reflection
+
+[Self reflection prompts on leadership]
 
 ---
 

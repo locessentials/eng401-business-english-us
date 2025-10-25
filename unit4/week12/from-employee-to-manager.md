@@ -14,9 +14,7 @@ Not developing people into managers has profound impact on team performance. Wit
 
 > People don't jobs - they quit managers.
 
-This page collects tips that can help new managers develop their people leading skills, so they do not become a manager that people want to quit.
-
-Specifically, this page covers the shift from employee to manager, one-on-one's and formal performance management documentation. These are three practical areas that new managers will need to navigate almost if not immediately.
+This page collects tips that can help new managers develop their people leading skills, so they can avoid becoming a manager that people want to quit. Specifically, this page covers the shift from employee to manager, one-on-one's and formal performance management documentation. These are three practical areas that new managers will need to navigate almost if not immediately.
 
 ## Tips for New Managers
 

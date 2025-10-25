@@ -12,6 +12,17 @@ Leadership is a broad topic.
 
 ## What is leadership to you?
 
+Our definitions of leadership and the leadership styles were prefer and try to emulate will be largely based on personal experiences and preferences.
+
+- Not playing favorites
+- Helping the people who report to you grow
+- Providing helpful and timely feedback as much as possible
+- Making time for and having direct conversations
+- Making decisions decidedly and communicating them in a way that your expectations are understand
+- Setting realistic goals and leaving room for flexibility within plans
+- Establishing consequences and following through on them
+- Integrating big picture perspective into everyday work
+
 Poll: What is leadership to you?
 
 ## Research Activity

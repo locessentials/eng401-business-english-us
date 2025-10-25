@@ -8,13 +8,15 @@ nav_order: 2
 
 # From Employee to Manager
 
-Organizations sometimes like to promote from within rather go through a hiring process to fill roles that have opened. When they promote, it makes sense that they would promote a key performer within a team. A key performer who consistently meets or exceeds expectations may excel within production roles, but management requires a completely new set of skills. To keep key performers performing in management roles, training and development is necessary. This training and development is a piece that organizations sometimes miss. People get promotions for being good at their jobs and then are not taught how to be managers.
+It's great to think about leadership philosophically. However, in the day-to-day we also need practical leadership skills that we can use and development in both informal and formal leadership roles. Within a workplace setting, becoming a new manager is a common way that people become formal leaders. Generally becoming a new manager is a prerequisite for filling higher levels of organizational management and leadership, so it makes sense to start a discussion on business English related to leadership here.
+
+Organizations sometimes like to promote from within rather go through a hiring process to fill leadership roles that have opened. When they promote, it makes sense that they would promote a key performer from within a team. A key performer who consistently meets or exceeds expectations may excel within production roles, but management requires a completely new set of skills. To keep key performers performing in management roles, training and development is necessary. This training and development is a piece that organizations sometimes miss. That is, people get promotions for being good at their jobs and then are not taught how to be managers.
 
 Not developing people into managers has profound impact on team performance. Within a U.S. context, it is often said that: 
 
-> People don't jobs - they quit managers.
+> People don't quit jobs - they quit managers.
 
-This page collects tips that can help new managers develop their people leading skills, so they can avoid becoming a manager that people want to quit.
+This page collects tips that can help new managers develop their people and leadership skills, so they can avoid becoming a manager that people want to quit.
 
 ## Active Learning for Up-and-Coming Managers
 
@@ -48,11 +50,11 @@ As stated above, even if you are very good at your job, you may not have the ski
 
 ## Employee-Manager One-on-One's
 
-This statement may seem obvious, but as a manager it's your job to manage your employees. Frequently planned opportunities for deeper conversation will help you to keep issues surfaced in a timely manner, thereby making sure that issues will be more addressable. Problems that are left festering too long can become uncontrollable and require greater infrastructure and resources to address than many small issues that are attending to on an ongoing basis.
+This statement may seem obvious, but as a manager it's your job to manage your employees. Frequently planned opportunities for deeper conversation will help you to keep issues surfaced in a timely manner, thereby making sure that issues will be more addressable. Problems that are left festering too long can become uncontrollable and require greater infrastructure and resources to address than many small issues that are attended to on an ongoing basis.
 
-A one-on-one, also known as a 1:1 meeting, is a a meeting that managers typically have once a week with each of their employees. One-on-one's are not just an opportunity to surface issues. One-on-one's also allow managers to get to their employees' career goals, which helps managers to effectively develop their team's skills.
+A one-on-one, also known as a 1:1, is a a meeting that managers typically have once a week with each of their employees. One-on-one's are not just an opportunity to surface issues. One-on-one's also allow managers to get to know their employees' career goals, which helps managers to effectively develop their team's skills.
 
-The articles featured in this section cover topics related to fostering the communication that happens within one-on-one meetings. One key tip from these readings: Try your best not to cancel your one-on-one's.
+The articles featured in this section cover topics related to fostering the communication that happens within one-on-one meetings. One key tip from these readings: Try your best not to cancel or reschedule your one-on-one's.
 
 ### Required Readings
 
@@ -63,9 +65,11 @@ The articles featured in this section cover topics related to fostering the comm
 
 ## Formal Performance Management Procedures
 
-Not only do managers hold regular conversations with their direct reports as an ongoing part of their performance management work, they also do formal performance review activities that are often tied to promotions and salary/wages. Given how the outcomes of the performance review impact a person's role and income, explicit metrics should be esttablished in advance, and performance should be measured against those metrics. That is, an employee should know what is expected of them. Objectives established for employees should be acheivable, and the yearly performance review is where reflection takes place on whether or not those objectives were accomplished. The idea is to uncover why or why not, what went well, and how to keep getting better.
+Not only do managers hold regular conversations with their direct reports as an ongoing part of their performance management work, they also do formal performance review activities that are often tied to promotions and salary/wages. Given how the outcomes of the performance review impact a person's role and income, explicit metrics should be established in advance, and performance should be measured against those metrics. That is, an employee should know what is expected of them. Objectives established for employees should be acheivable, and the yearly performance review is where reflection takes place on whether or not those objectives were accomplished. The idea is to uncover why or why not, what went well, and how to keep getting better.
 
 Any employee benefits that are tied to performance reviews, such as promotions, raises, bonuses, grants, etc. should take into account employee goals. Underperforming employees may need a performance improvement plan, and offboarding employees must be carried out in compliance with local labor laws.
+
+The articles included in this section address performance management from different angles, such as by stressing adaption to employees and identifying types of performance review documentation, and also covering both positive and negative employee communications.
 
 ### Required Readings
 

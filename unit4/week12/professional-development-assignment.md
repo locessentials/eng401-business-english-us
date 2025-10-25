@@ -19,11 +19,10 @@ nav_order: 4
 ## Learning Objectives
 
 By completing this assignment, you will:
-- A
-- B
-- C
-- D
-- E
+- Explore an area of leadership of your choosing
+- Plan the specific types of texts that you'll use to communicate about that area to employees, people managers, or both
+- Develop a training activity suitable for implementation within a larger training program
+- Deliver training materials to our class team, thereby supporting the class in developing what you believe to be important and relevant leadership skills
 
 ---
 

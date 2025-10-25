@@ -87,13 +87,13 @@ The 'why' behind your design:
 - Why did you pick this topic? Why did you design it the way that you did? (2-3 sentences)
 - Who is the audience, and why should they choose to do your training session? (2-3 learning outcomes)
 
-Relevant getting started instructions: How do we get started using your materials? Is there a lesson plan we should follow, for instance?
+Relevant getting started instructions: How do we get started using your materials?
+Is there a lesson plan we should follow, for instance?
 
 Access to your materials:
 - As attachments
 - As links
 - As appropriate
-
 ```
 
 **Once you have made your Teams post, please consider your assignment to have been delivered.** The instructor will review your post and reach out for copies of any specific files that she needs.

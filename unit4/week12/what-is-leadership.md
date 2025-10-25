@@ -18,10 +18,11 @@ Our definitions of leadership and the leadership styles were prefer and try to e
 - Helping the people who report to you grow
 - Providing helpful and timely feedback as much as possible
 - Making time for and having direct conversations
-- Making decisions decidedly and communicating them in a way that your expectations are understand
+- Making decisions decidedly and communicating them in a way that your expectations are understood
 - Setting realistic goals and leaving room for flexibility within plans
 - Establishing consequences and following through on them
-- Integrating big picture perspective into everyday work
+- Focusing on strategy and the big picture
+- Delegating tasks and monitoring work
 
 Poll: What is leadership to you?
 

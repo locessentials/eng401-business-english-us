@@ -35,6 +35,14 @@ When selecting your topic and the media that is most appropriate for communicati
 
 Please get sign-off from the instructor on the topic you'll address and the text types you'll use.
 
+## Assessment Criteria (3 points total)
+
+| Component | Points | Criteria |
+|-----------|--------|----------|
+| **Topic and Modality Instructor Sign-off** | 1 | • You got your topic and the mode for your materials approved by the instructor. |
+| **Audience Awareness & Communication Effectiveness** | 1 | • The materials you've developed have a clear audience.<br>• The materials you've developed have addressed a need of your specific audience.<br>• The materials you've developed are actionable and easy to understand.<br>• The materials you've developed help someone learn how to do something important.<br>• It's clear how to work through the materials.<br>• The different materials created are clearly a part of a cohesive unit. |
+| **Professionalism** | 1 point per document | <br>• Professional formatting appropriate to the text type<br>• Error-free writing with proper grammar, spelling, and punctuation<br>• Appropriate length (No more than 5-6 minutes for a video, a half hour for a podcast, shorter documents are generally getter)<br>• Uses inclusive language |
+| **Total Points** | **3** | |
 
 ---
 

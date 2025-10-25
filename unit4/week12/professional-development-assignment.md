@@ -28,11 +28,66 @@ By completing this assignment, you will:
 
 ## Assignment Overview
 
-Your assignment this week is to take on the role of people manager and to design **leadership training materials** that can be used to develop skills within different role. The materials you develop can be geared to training a people manager or to training the people manager's employees. You could create a role play with discussion questions, a template for a document that is necessary in employee management with instructions for use, or a guide on specific things related to people management that employees and managers should know. 
+Your assignment this week is to take on the role of people manager and to design **leadership training materials** that can be used to develop specific skills within a role of your choosing. Your leadership developoment materials can be geared to training people managers, their employees, or whole teams. You could create a role play with discussion questions, a template for a document that is necessary in employee management with instructions for use, or a guide on specific things related to leadership and people management that employees and leaders should know. 
 
-When selecting your topic and the media that is most appropriate for communicating about it, focus on specific skills you'd like to develop and ways of improving the people management experience for everyone.
+**Assignment tip:** When selecting your topic and the media that is most appropriate for communicating about it, focus on specific skills you'd like to develop and ways of improving the people management experience for everyone.
 
-Please get sign-off from the instructor on the topic you'll address and the text types you'll use.
+**Assignment requirement:** Please get sign-off from the instructor on the topic you'll address and the text types you'll use.
+
+## Step-by-step Instructions
+
+### Step 1: Select your professional development topic
+
+Working individually or in teams, decide what leadership topic you'd like to address, who your training audience will be, and what specific skills or concepts you want them to walk away from your training session with. For instance, the previous page presents an example of a [professional development training exercise](professional-development-example.md) geared to new managers who need to learn how to run good 1:1 meetings with their direct reports, along with managing the team's ongoing professional development.
+
+Some topics that you could explore in your session include:
+
+- Holding Effective Team Meetings
+- Developing Listening Skills as a Leader
+- Navigating Multicultural Views on Leadership
+- Understanding a Modern Leadership Framework
+- Taking Control of Your Professional Development Goals
+- Defining Leadership in General or in a Specific Context
+
+### Step 2: Sketch out your session plan
+
+Decide the most effective media and text types to incorporate into your training session, given the topic, the audience, and your training goals. 
+
+Some media and text types that you could present in your session include:
+
+- Recorded videos of role plays or presentations
+- Podcast of a longer conversation, for example, on philosphical questions
+- Simple documents with templates and instructions for carrying out activities
+- Etc.
+
+✅ Please get the **instructor's approval** on your plan prior to proceeding with content development. 
+
+### Step 3: Develop your training materials
+
+Work together to develop your training materials, working carefully to create a cohesive unit of resources to be used together.
+
+You'll need to create:
+
+- The combination of videos, sound and documents that will be used together to complete the activity
+- A Microsoft Teams post that advertises your professional development activity to the class
+
+You'll share these on Teams when you're ready to deliver.
+
+### Step 4: Share your training materials with the class on Teams
+
+
+
+### Step 5: Do tge professional development activities
+
+Do the professional developoment activities by your classmates that interest you. 
+
+**When you do your classmates activities:**
+
+- Follow the instructions and review the training materials
+- Try to actively learn the concept/skill being taught in the training materials
+- If you would be so kind, provide feedback on what worked and where the training materials could be improved
+
+**As you reflect upon your experiences**
 
 ## Assessment Criteria (3 points total)
 

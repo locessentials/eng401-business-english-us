@@ -16,9 +16,9 @@ Not developing people into managers has profound impact on team performance. Wit
 
 This page collects tips that can help new managers develop their people leading skills, so they can avoid becoming a manager that people want to quit.
 
-## Active Learning for Up-and-coming Managers
+## Active Learning for Up-and-Coming Managers
 
-This page covers the shift from employee to manager, one-on-one's and formal performance management documentation. These are three practical areas that new managers will need to navigate almost if not immediately. The page presents ten articles related to these topics. Pick one, read the article, and then share your takeaways about the article with the class.
+This page covers the shift from employee to manager, one-on-one's and formal performance management documentation. These are three practical areas that new managers will need to navigate almost if not immediately. The page highlights 12 articles related to making the transition from employee to manager. Pick one, read the article, and then share your takeaways about the article with the class.
 
 You can do so in a Teams post or by volunteering information during our class discussion. Your comments could address any of these areas:
 
@@ -28,7 +28,7 @@ You can do so in a Teams post or by volunteering information during our class di
 - Synthesis of ideas from multiple articles
 - Gaps within the materials presented
 
-Please also feel encouraged to do your own research on this topic and to share any resources you find to be particularly compelling.
+Please also feel encouraged to do your own research on this topic and to share any resources you find to be particularly compelling with the class.
 
 ## The Transition to Management
 
@@ -43,7 +43,7 @@ As stated above, even if you are very good at your job, you may not have the ski
 ### Required Readings
 
 - [9 Mistakes to Avoid as a First-Time Manager](https://online.hbs.edu/blog/post/first-time-manager-tips) via Harvard Business School Online
-- [6 Essential Lessons For First-Time Managers To Avoid Common Mistakes](https://www.forbes.com/sites/paolacecchi-dimeglio/2025/02/25/6-essential-lessons-for-first-time-managers-to-avoid-common-mistakes) via Forbes
+- [The Manager’s Guide to Inclusive Leadership — Small Habits That Make a Big Impact](https://review.firstround.com/the-managers-guide-to-inclusive-leadership-small-habits-that-make-a-big-impact) via First Round
 - [New To Management: 20 Tips for New Managers](https://www.indeed.com/career-advice/starting-new-job/new-to-management) via Indeed
 
 ## Employee-Manager One-on-One's
@@ -52,7 +52,7 @@ This statement may seem obvious, but as a manager it's your job to manage your e
 
 A one-on-one, also known as a 1:1 meeting, is a a meeting that managers typically have once a week with each of their employees. One-on-one's are not just an opportunity to surface issues. One-on-one's also allow managers to get to their employees' career goals, which helps managers to effectively develop their team's skills.
 
-The articles featured in this section cover topics related to fostering the communication that happens within one-on-one meetings.
+The articles featured in this section cover topics related to fostering the communication that happens within one-on-one meetings. One key tip from these readings: Try your best not to cancel your one-on-one's.
 
 ### Required Readings
 
@@ -63,17 +63,25 @@ The articles featured in this section cover topics related to fostering the comm
 
 ## Formal Performance Management Procedures
 
+Not only do managers hold regular conversations with their direct reports as an ongoing part of their performance management work, they also do formal performance review activities that are often tied to promotions and salary/wages. Given how the outcomes of the performance review impact a person's role and income, explicit metrics should be esttablished in advance, and performance should be measured against those metrics. That is, an employee should know what is expected of them. Objectives established for employees should be acheivable, and the yearly performance review is where reflection takes place on whether or not those objectives were accomplished. The idea is to uncover why or why not, what went well, and how to keep getting better.
 
+Any employee benefits that are tied to performance reviews, such as promotions, raises, bonuses, grants, etc. should take into account employee goals. Underperforming employees may need a performance improvement plan, and offboarding employees must be carried out in compliance with local labor laws.
 
 ### Required Readings
 
+- [13 Types of employee personalities & how to motivate them](https://www.surfoffice.com/blog/employee-types-personalities) via SurfOffice
 - [Employee review template: How to structure performance conversations that drive growth](https://www.culturemonkey.io/employee-engagement/employee-review-template) via CultureMonkey
 - [Performance Reviews - Employee Guide](https://www.rit.edu/talentdevelopment/sites/rit.edu.talentdevelopment/files/Performance%20Reviews%20-%20Employee%20Guide.pdf) via the Rochester Institute of Technology
 - [What Is a Performance Improvement Plan (PIP) and How Do You Create One?](https://www.uschamber.com/co/run/human-resources/performance-improvement-plan-templates) via the U.S. Chamber of Commerce
+- [How to Fire An Employee Without Burning Bridges & Legally](https://joingenius.com/leadership/how-to-fire-an-employee) via Genius
 
 ## Self Reflection
 
+As you work through these materials for new managers, ask yourself these questions:
 
+1. As we learned in these resources, being a good manager requires tailoring one's approach to each of their employees. That said, what type of employee am I? How do I prefer that my managers communicate with me? How can I share my preferences with them?
+2. Do I want to be a people manager? In what ways would I be a good people manager? What skills and competencies do I need to develop to be a good people manager?
+3. What are professional development goals that I have? How could I tailor formal employee performance management documents to my professional goals? How can I use my understanding of performance management principles to help my peers acheive their professional development goals?
 
 ---
 
@@ -83,15 +91,15 @@ Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-engli
 
 ### 🤖 GAI Study Prompts
 Use these prompts to enhance your work on this assignment:
-- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+- "What is a performance improvement plan, and when might I encounter one?"
+- "Write a summary of [one of the articles on this page]. In three sentences, what are three key takeaways that I should have?"
+- "I've just become a new manager. Help me with a plan to navigate my first week, my first month, my first 90 days, and my first year."
+- "I have identified [these skills] as ones I need to development to become a manager. Help me write a plan for developing these skills."
+- "Would I make a good manager? Help me to develop evaluation materials that would help me to tell whether someone would be a good manager or not."
+- "Please gather together resources written by diverse authors that reflect different voices on [this management principle]."
+- "Please review this page on transitioning from an employee to a manager. What biases are reflected in these contents?"
+- "Help me to find resources on [this topic] related to employee management."
 
 ---
 
-**Next Activity**: [Professional Development Training Assignment](professional-development-assignment.md)
+**Next Activity**: [Professional Development Training Example](professional-development-example.md)

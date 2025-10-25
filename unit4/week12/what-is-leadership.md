@@ -73,4 +73,4 @@ Use these prompts to enhance your work on this assignment:
 
 ---
 
-**Next Activity**: [From Employer to Manager](.md)
+**Next Activity**: [From Employer to Manager](from-employee-to-manager.md)

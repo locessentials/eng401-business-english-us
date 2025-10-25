@@ -32,7 +32,7 @@ Poll: What is leadership to you?
 
 - China's products are all over the world and China owns large percentages of key natural resources worldwide.
 - The United States is very strong militarily. The U.S. dollar tends to perform well within exchange rate systems.
-- English is viewed by some as the de facto language of business and therefore leadership, even though English is spoken by only 20% of the world's population. Only 5% of the world's population speaks English natively. (**Sources:** [10 most spoken languages in the world in 2025](https://www.icls.edu/blog/most-spoken-languages-in-the-world) via ICLS and the Census Bureau's [World Population Clock](https://www.census.gov/popclock/world)
+- English is viewed by some as the de facto language of business and therefore leadership, even though English is spoken by only 20% of the world's population. Only 5% of the world's population speaks English natively. (**Sources:** [10 most spoken languages in the world in 2025](https://www.icls.edu/blog/most-spoken-languages-in-the-world) via ICLS and the Census Bureau's [World Population Clock](https://www.census.gov/popclock/world))
 - Chinese and Spanish are also lingua franca. How does speaking these big languages relate to leadership?
 - What does leadership mean in the context of Mexico? What has leadership meant at different stages of Mexico's history?
 

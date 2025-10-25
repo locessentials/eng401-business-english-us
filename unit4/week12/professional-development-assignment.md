@@ -38,7 +38,7 @@ Your assignment this week is to take on the role of people manager and to design
 
 ### Step 1: Select your professional development topic
 
-Working individually or in teams, decide what leadership topic you'd like to address, who your training audience will be, and what specific skills or concepts you want them to walk away from your training session with. For instance, the previous page presents an example of a [professional development training exercise](professional-development-example.md) geared to new managers who need to learn how to run good 1:1 meetings with their direct reports, along with managing the team's ongoing professional development.
+Working individually or in teams, decide what leadership topic you'd like to address, who your training audience will be, and what specific skills or concepts you want them to walk away from your training session with. For instance, the previous page presents an example of a [professional development training exercise](professional-development-example.md) geared to new managers who need to learn how to run good 1:1 meetings with their direct reports and how to manage the team's ongoing professional development.
 
 Some topics that you could explore in your session include:
 
@@ -96,7 +96,9 @@ Access to your materials:
 - As appropriate
 ```
 
-**Once you have made your Teams post, please consider your assignment to have been delivered.** The instructor will review your post and reach out for copies of any specific files that she needs.
+**Once you have made your Teams post, please consider your assignment to have been delivered.** The instructor will review your post and reach out for copies of any specific files that she needs. Otherwise, you have no other formal delivery to a Teams assignment due this week. 
+
+**Please make one post per team!** Teams are of course encouraged to comment on their posts!
 
 ### Step 5: Do the professional development activities
 
@@ -108,6 +110,8 @@ Do the professional developoment activities by your classmates that interest you
 - Try to actively learn the concept/skill being taught in the training materials
 - If you would be so kind, provide feedback on what worked and where the training materials could be improved
 
+**Your feedback in the form of comments on the post or DMs to the publishers is greatly appreciate.**
+
 ## Reflection
 
 **Once you've finished with this assignment, reflect on leadership based upon your experiences this week.**
@@ -118,6 +122,7 @@ Do the professional developoment activities by your classmates that interest you
 3. What are new leadership skills that I'd like to develop as I think about my current responsibilities and future career transitions?
 4. How can I help more people to development new leadership skills?
 5. Where can I seek help as I go about developing specific leadership skils?
+6. What are my biggest takeaways this week? If I had to identify the biggest 'gem' (or standout idea) that I encountered this week, it would be...
 
 ## Assessment Criteria (3 points total)
 
@@ -127,8 +132,6 @@ Do the professional developoment activities by your classmates that interest you
 | **Audience Awareness & Communication Effectiveness** | 1 | • The materials you've developed have a clear audience.<br>• The materials you've developed have addressed a need of your specific audience.<br>• The materials you've developed are actionable and easy to understand.<br>• The materials you've developed help someone learn how to do something important.<br>• It's clear how to work through the materials.<br>• The different materials created are clearly a part of a cohesive unit. |
 | **Presentation & Professionalism** | 1 | • The assignment demonstrates clear signs of positive collaboration, such as following instructions, nuance in analysis, and generally cooperating to deliver a professional product on time.<br>• Professional formatting appropriate to the text type<br>• Error-free writing with proper grammar, spelling, and punctuation<br>• Appropriate length (No more than 5-6 minutes for a video, a half hour for a podcast, shorter documents are generally getter)<br>• Uses inclusive language |
 | **Total Points** | **3** | |
-
-
 
 ---
 

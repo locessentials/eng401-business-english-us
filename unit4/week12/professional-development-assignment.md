@@ -3,7 +3,7 @@ layout: default
 title: Professional Development Assignment
 parent: Week 12
 grandparent: Unit 4
-nav_order: 3
+nav_order: 4
 ---
 
 # Professional Development Training Assignment
@@ -28,4 +28,4 @@ Use these prompts to enhance your work on this assignment:
 
 ---
 
-**Next Up**: [Professional Development Training Example](professional-development-example.md)
+**Unit 4 Complete!** Reflect on what you've achieved in the [Unit 4 - Conclusion](../unit4-conclusion.md).

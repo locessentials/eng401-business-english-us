@@ -8,7 +8,7 @@ nav_order: 2
 
 # Professional Development Training Example
 
-Welcome to the New Managers Training Academy 🎉! You've been identified as key performers who would make great managers. We're here to help you to suceed on your journey. This training exercise for first-time managers will help you get experience with one-on-one's and employeee development planning conversations.
+Welcome to the **New Managers Training Academy** 🎉! You've been identified as key performers who would make great managers. We're here to help you to suceed on your journey. This training exercise for first-time managers will help you get experience with one-on-one's and employeee development planning conversations.
 
 Working in partners, take turns being the manager and the employee discussing career goals. Start with the general one-on-one conversation, in which you work through the Rose, Thorn, Bud framework for kicking off conversations. Then move on to designing each of your performance development plans for addressing a business challenge that's important to you. Finally, brainstorm together about common performance issues, so that you can develop the ability to respond empathetically to those issues.
 

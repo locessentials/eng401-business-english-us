@@ -75,19 +75,49 @@ You'll share these on Teams when you're ready to deliver.
 
 ### Step 4: Share your training materials with the class on Teams
 
+This week you'll be sharing your work product with the class so that we all have ample opportunity to do a variety of professional development activities. The Teams post with which you share your training materials with the class needs to follow this format:
 
+```
+Re: Subject line for your post, i.e. the Illustrative Title you've given your training session
+By: List the authors' names here
 
-### Step 5: Do tge professional development activities
+Training Descriptions: In 1-2 sentences, describe what the training is about.
+
+The 'why' behind your design:
+- Why did you pick this topic? Why did you design it the way that you did? (2-3 sentences)
+- Who is the audience, and why should they choose to do your training session? (2-3 learning outcomes)
+
+Relevant getting started instructions: How do we get started using your materials? Is there a lesson plan we should follow, for instance?
+
+Access to your materials:
+- As attachments
+- As links
+- As appropriate
+
+```
+
+**Once you have made your Teams post, please consider your assignment to have been delivered.** The instructor will review your post and reach out for copies of any specific files that she needs.
+
+### Step 5: Do the professional development activities
 
 Do the professional developoment activities by your classmates that interest you. 
 
-**When you do your classmates activities:**
+**When you do your classmates' activities:**
 
 - Follow the instructions and review the training materials
 - Try to actively learn the concept/skill being taught in the training materials
 - If you would be so kind, provide feedback on what worked and where the training materials could be improved
 
-**As you reflect upon your experiences**
+## Reflection
+
+**Once you've finished with this assignment, reflect on leadership based upon your experiences this week.**
+
+**Reflection Questions**
+1. What are my leadership skills?
+2. How can I continuing learning about and developing the leadership skills I worked on this week?
+3. What are new leadership skills that I'd like to develop as I think about my current responsibilities and future career transitions?
+4. How can I help more people to development new leadership skills?
+5. Where can I seek help as I go about developing specific leadership skils?
 
 ## Assessment Criteria (3 points total)
 
@@ -97,6 +127,8 @@ Do the professional developoment activities by your classmates that interest you
 | **Audience Awareness & Communication Effectiveness** | 1 | • The materials you've developed have a clear audience.<br>• The materials you've developed have addressed a need of your specific audience.<br>• The materials you've developed are actionable and easy to understand.<br>• The materials you've developed help someone learn how to do something important.<br>• It's clear how to work through the materials.<br>• The different materials created are clearly a part of a cohesive unit. |
 | **Presentation & Professionalism** | 1 | • The assignment demonstrates clear signs of positive collaboration, such as following instructions, nuance in analysis, and generally cooperating to deliver a professional product on time.<br>• Professional formatting appropriate to the text type<br>• Error-free writing with proper grammar, spelling, and punctuation<br>• Appropriate length (No more than 5-6 minutes for a video, a half hour for a podcast, shorter documents are generally getter)<br>• Uses inclusive language |
 | **Total Points** | **3** | |
+
+
 
 ---
 

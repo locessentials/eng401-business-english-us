@@ -3,7 +3,7 @@ layout: default
 title: Professional Development Example
 parent: Week 12
 grandparent: Unit 4
-nav_order: 4
+nav_order: 2
 ---
 
 # Professional Development Training Example
@@ -16,4 +16,4 @@ Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-engli
 
 ---
 
-**Unit 4 Complete!** Reflect on what you've achieved in the [Unit 4 - Conclusion](../unit4-conclusion.md).
+**Next Up**: [Professional Development Training Assignment](professional-development-assignment.md)

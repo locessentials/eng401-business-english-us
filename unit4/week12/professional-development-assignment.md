@@ -19,6 +19,7 @@ nav_order: 4
 ## Learning Objectives
 
 By completing this assignment, you will:
+- Learn by teaching
 - Explore an area of leadership of your choosing
 - Plan the specific types of texts that you'll use to communicate about that area to employees, people managers, or both
 - Develop a training activity suitable for implementation within a larger training program

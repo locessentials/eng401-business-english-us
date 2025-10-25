@@ -14,7 +14,7 @@ nav_order: 4
 
 **Format:** Individual or group work (up to 4 members)
 
-**Submission:** TBD by your team
+**Submission:** TBD by your team and delivered to the class via a Teams post
 
 ## Learning Objectives
 
@@ -142,14 +142,14 @@ Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-engli
 
 ### 🤖 GAI Study Prompts
 Use these prompts to enhance your work on this assignment:
-- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+- "What topics or ideas are commonly missed in discussions on leadership that I could cover for my training session?"
+- "Help me brainstorm 10 ideas for topics I could cover from [this perspective] on leadership in a blog post."
+- "I've shared my topic and design plan with you, along with the assignment instructions. What could I strengthen about my work to ready it for instructor approval?"
+- "Given these instructions, do you think my instructor would approve this idea for a leadership training that I have?"
+- "How have ideas about leadership evolved over time? What practical lessons can we take away from that evolution?"
+- "What is GAI's influence on modern conceptions of leadership? Do managers need to meet new readiness checklists that reflects awareness of responsible AI use?"
+- "Different ways of looking at leadership include identifying people who are seen as leaders, thinking about leadership in international politics, and working on our own professional development as leaders. What are even more ways of thinking about leadership?"
+- "Help me to do a self assessment of myself as a leader. The self assessment should cover common misconceptions and areas of worry and focus upon identifying gaps while confidence building."
 
 ---
 

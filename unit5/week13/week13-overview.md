@@ -46,7 +46,7 @@ This week focuses on international business agreement types and formats, Request
 
 ## Assessment
 
-- **International Business Document Analysis** (10 points)
+- **International Business Document Analysis** (3 points)
 - **Class attendance and participation** (2 points)
 
 ---

@@ -1,3 +1,11 @@
+---
+layout: default
+title: MOUs and SLAs
+parent: Week 13
+grand_parent: Unit 5
+nav_order: 3
+---
+
 # Memoranda of Understanding (MOUs) and Service Level Agreements (SLAs)
 
 ## Understanding MOUs and SLAs

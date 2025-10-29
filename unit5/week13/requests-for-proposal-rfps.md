@@ -66,9 +66,9 @@ This section provides context about the requesting organization and the project'
 
 This section details exactly what services are needed.
 
-> | **Content to be localized:** | - User interface strings: ~15,000 words<br>- Help documentation: ~85,000 words<br>- FAQs: ~20,000 words<br>- Video captions: ~5,000 words |
+> | **Category** | **Specifications** |
 > | ---------------------------- |-------------------------------------------------------------------------------------------------------------------------------------------|
-> 
+> | **Content to be localized:** | - User interface strings: ~15,000 words<br>- Help documentation: ~85,000 words<br>- FAQs: ~20,000 words<br>- Video captions: ~5,000 words |
 > 
 > 
 >

@@ -46,8 +46,6 @@ MOUs commonly appear in several business contexts:
 **And:** Soluciones Lingüísticas Profesionales, S.A. de C.V. (Mexico)  
 **Effective Date:** January 15, 2026
 
----
-
 **Purpose and Scope**
 
 This section establishes why the parties are entering the agreement and what they hope to accomplish together.
@@ -93,8 +91,6 @@ This section clarifies the MOU's legal status and other important terms.
 
 > This MOU represents the mutual understanding and intentions of the parties but does not create legally binding obligations except as specifically stated (confidentiality provisions). This MOU does not preclude either party from entering similar arrangements with other organizations. Individual projects under this framework will be governed by separate project-specific agreements or purchase orders.
 
----
-
 ### Understanding MOU Limitations
 
 MOUs establish frameworks and express intentions, but they typically don't create the same legal obligations as formal contracts. This has both advantages and limitations:
@@ -138,8 +134,6 @@ SLAs are essential in ongoing service relationships where quality, reliability, 
 **Provider:** Professional Translation Services, Inc.  
 **Effective Date:** February 1, 2026  
 **Review Period:** Quarterly
-
----
 
 **Scope of Services**
 
@@ -205,8 +199,6 @@ This section clarifies what's outside the SLA's scope.
 This section establishes how the SLA evolves.
 
 > This SLA will be reviewed quarterly based on performance data and changing business needs. Either party may propose modifications with 30 days notice. Changes require written agreement from both parties. Annual comprehensive review will assess whether metrics and targets remain appropriate for the business relationship.
-
----
 
 ### SLA Best Practices
 

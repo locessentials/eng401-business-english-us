@@ -115,4 +115,4 @@ Copy the downloaded content and try these prompts:
 
 ---
 
-**Next Activity**: [Requests for Proposal (RFPs)](request-for-proposal.md)
+**Next Activity**: [Requests for Proposal (RFPs)](requests-for-proposal-rfps.md)

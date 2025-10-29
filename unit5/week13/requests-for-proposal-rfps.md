@@ -83,23 +83,22 @@ This section details exactly what services are needed.
 
 Clear timeline expectations help vendors assess feasibility and plan resources.
 
-> **Key milestones:**
-> - RFP issued: March 1, 2026
-> - Proposal submission deadline: April 1, 2026 (5:00 PM EST)
-> - Vendor selection and notification: April 15, 2026
-> - Contract finalization: April 30, 2026
-> - Project kickoff: May 15, 2026
-> - Translation completion: July 15, 2026
-> - In-context review: August 1, 2026
-> - Final delivery: August 15, 2026
-> - Go-live: September 1, 2026
+> | Key Milestones | Dates |
+> | -------------- | ----- |
+> | RFP issued: | [Date] |
+> | Proposal submission deadline: | [Date] |
+> | Vendor selection and notification: | [Date] |
+> | Contract finalization: | [Date] |
+> | Project kickoff: | [Date] |
+> | Translation completion: | [Date] |
+> | In-context review: | [Date] |
+> | Final delivery: | [Date] |
+> | Go-live: | [Date] |
 
 **What this section tells vendors:**
 - How much time they have to prepare their proposal
 - When work would begin and end
 - Whether the timeline is realistic for the scope
-
----
 
 #### 4. Evaluation Criteria
 
@@ -119,8 +118,6 @@ This section explains how proposals will be assessed, helping vendors understand
 - What to emphasize in their proposals
 - How much cost matters relative to other factors
 - What evidence and examples to provide
-
----
 
 #### 5. Proposal Submission Requirements
 
@@ -149,8 +146,6 @@ Specific instructions for how to respond to the RFP.
 - How to format and submit their response
 - Any page limits or formatting requirements
 
----
-
 #### 6. Terms and Conditions
 
 Legal and contractual framework for the project.
@@ -167,8 +162,6 @@ Legal and contractual framework for the project.
 - Payment structure
 - Risk and liability considerations
 - Any deal-breakers to consider before investing time in a proposal
-
----
 
 #### 7. Questions and Contact Information
 
@@ -197,8 +190,6 @@ This example demonstrates how a well-structured RFP provides:
 - **Professionalism** in language and organization
 
 When responding to RFPs, vendors must address each section thoroughly while demonstrating how their approach uniquely meets the client's needs.
-
----
 
 ## Challenges with RFPs
 
@@ -329,8 +320,6 @@ This is delicate territory. You want to be helpful and educational without being
 
 Even when RFPs are imperfect, responding professionally and educating clients respectfully can establish you as a trusted advisor. Some of the best client relationships begin with an RFP where the vendor helped the client better understand their own needs.
 
----
-
 ## Reflection Questions
 
 Consider these questions as you learn about RFPs:
@@ -346,8 +335,6 @@ Consider these questions as you learn about RFPs:
 5. **Industry improvement:** How might you contribute to improving RFP quality in your field? Could standardized templates or educational resources help clients write better RFPs?
 
 6. **Your future:** As you build your career, you may find yourself on both sides of the RFP process—as a respondent and potentially as someone writing RFPs for your organization. What lessons from responding to RFPs would you apply when writing them?
-
----
 
 ## Additional Resources
 

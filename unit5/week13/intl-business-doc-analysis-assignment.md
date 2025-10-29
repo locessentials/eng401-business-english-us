@@ -16,8 +16,6 @@ nav_order: 4
 
 **Submission:** One MS Word document via Teams
 
----
-
 ## Learning Objectives
 
 By completing this assignment, you will:
@@ -25,8 +23,6 @@ By completing this assignment, you will:
 - Recognize standard structural elements and vocabulary used in professional business documentation
 - Understand how document format and content serve specific business purposes
 - Develop awareness of documentation practices relevant to your future professional work
-
----
 
 ## Assignment Overview
 
@@ -37,8 +33,6 @@ For this assignment, you will select **one document type** that we have not cove
 **Your deliverable will consist of two parts:**
 1. A **1-2 page analysis** (one page preferred) explaining the document type
 2. **Example documents** (at least one per group member) attached to your analysis
-
----
 
 ## Document Types You May Explore
 
@@ -199,8 +193,6 @@ Ensure professional formatting throughout with consistent fonts, spacing, and he
 - **Upload Location:** Teams Assignment - International Business Document Analysis  
 - **Due Date:** Sunday of Week 13 by 11:59 PM
 
----
-
 ## Assessment Criteria (3 points total)
 
 | Component | Points | Criteria |
@@ -208,8 +200,6 @@ Ensure professional formatting throughout with consistent fonts, spacing, and he
 | **Document Analysis** | 1 point | • Clear explanation of document purpose and business context<br>• Thorough structural analysis identifying standard sections and components<br>• Useful vocabulary section with 5-8 key terms defined<br>• Thoughtful observations comparing examples and noting effectiveness factors<br>• Concise presentation (1-2 pages, one page preferred) |
 | **Example Documents** | 1 point | • Minimum number of examples included (one per group member)<br>• Examples are authentic business documents (not templates)<br>• Examples clearly sourced and attributed<br>• Examples demonstrate the document type effectively<br>• If multiple examples, show useful variety |
 | **Professional Presentation** | 1 point | • Well-organized and easy to navigate<br>• Error-free writing with professional tone<br>• Inclusive language throughout<br>• Appropriate citations for definitions or references<br>• Professional formatting with consistent styling |
-
----
 
 ## Reflection Questions
 

@@ -69,36 +69,15 @@ This section details exactly what services are needed.
 > | **Category** | **Specifications** |
 > | ---------------------------- |-------------------------------------------------------------------------------------------------------------------------------------------|
 > | **Content to be localized:** | - User interface strings: ~15,000 words<br>- Help documentation: ~85,000 words<br>- FAQs: ~20,000 words<br>- Video captions: ~5,000 words |
-> 
-> 
->
-> **Required services:**
-> - Translation (EN-US to ES-419)
-> - Editing and proofreading
-> - Technical review by subject matter expert
-> - In-context review in staging environment
-> - Glossary and style guide development
-> - Ongoing terminology management
->
-> **File formats:**
-> - XML (user interface strings)
-> - Markdown (documentation)
-> - SRT (video captions)
->
-> **Required deliverables:**
-> - Translated content in original file formats
-> - Translation memory (TMX format)
-> - Bilingual glossary (Excel or TBX format)
-> - Quality assurance report
-> - Project completion report
+> | **Required services:** | - Translation (EN-US to ES-419)<br>- Editing and proofreading<br>- Technical review by subject matter expert<br>- In-context review in staging environment<br>- Glossary and style guide development<br>- Ongoing terminology management |
+> | **File formats:** | - XML (user interface strings)<br>- Markdown (documentation)<br>- SRT (video captions) |
+> | **Required deliverables:** | - Translated content in original file formats<br>- Translation memory (TMX format)<br>- Bilingual glossary (Excel or TBX format)<br>- Quality assurance report<br>- Project completion report<br> |
 
 **What this section tells vendors:**
 - Specific tasks and deliverables
 - Technical requirements and file formats
 - Whether specialized expertise is needed
 - What resources the vendor must provide
-
----
 
 #### 3. Timeline / Project Schedule
 

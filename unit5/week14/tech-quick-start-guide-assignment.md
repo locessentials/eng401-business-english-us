@@ -102,7 +102,7 @@ After you've selected your technology and gotten instructor approval, start usin
 > 
 > **Version 2:** [Time Tracking with TopTracker](https://admin.locessentials.com/time-tracking-with-toptracker) (Blog post)
 >
-> **Note:** These work instructions do not correspond to your assignment instructions exactly, so please be sure to read the instructions thoroughly instead of just replicating this guide.
+> **Note:** These work instructions do not correspond to your assignment instructions exactly, so please be sure to read the instructions thoroughly instead of just replicating the structure of these guides.
 >
 > **Flashback:** Remember that one of the principles of [Agile Project Management](https://agilemanifesto.org) is: working software over comprehensive documentation. If it speaks to you, let that principle guide your work!
 

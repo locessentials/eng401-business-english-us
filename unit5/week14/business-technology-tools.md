@@ -30,74 +30,36 @@ Understanding business technology fundamentals helps you participate effectively
 
 ### Cloud Computing Models
 
-**Infrastructure as a Service (IaaS)**
-Computing infrastructure—servers, storage, networks—provided on-demand over the internet. Users manage operating systems, applications, and data while the provider manages the underlying infrastructure.
-- *Examples:* Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform
+| Type | Description | Examples |
+|------|-------------|----------|
+| **Infrastructure as a Service (IaaS)** | Computing infrastructure—servers, storage, networks—provided on-demand over the internet. Users manage operating systems, applications, and data while the provider manages the underlying infrastructure. | Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform |
+| **Platform as a Service (PaaS)** | Development and deployment platforms provided over the internet. Developers can build applications without managing underlying infrastructure. | Heroku, Google App Engine, Red Hat OpenShift |
+| **Software as a Service (SaaS)** | Complete applications delivered over the internet on a subscription basis. Users access software through web browsers without installing or maintaining it locally. | Google Workspace, Microsoft 365, Salesforce, Slack |
 
-**Platform as a Service (PaaS)**
-Development and deployment platforms provided over the internet. Developers can build applications without managing underlying infrastructure.
-- *Examples:* Heroku, Google App Engine, Red Hat OpenShift
+### Business Technology Categories
 
-**Software as a Service (SaaS)**
-Complete applications delivered over the internet on a subscription basis. Users access software through web browsers without installing or maintaining it locally.
-- *Examples:* Google Workspace, Microsoft 365, Salesforce, Slack
-
-### Collaboration and Communication Tools
-
-Platforms that enable teams to communicate, share files, and coordinate work across distances and time zones.
-- *Examples:* Microsoft Teams, Slack, Zoom, Google Meet, Miro
-
-### Project Management Software
-
-Systems for planning, organizing, and tracking project progress, tasks, and resources.
-- *Examples:* Asana, Monday.com, Trello, Jira, Basecamp
-
-### Customer Relationship Management (CRM) Systems
-
-Platforms for managing interactions with current and potential clients, tracking sales pipelines, and organizing customer data.
-- *Examples:* Salesforce, HubSpot, Zoho CRM
-
-### Translation Management Systems (TMS)
-
-Specialized platforms designed for managing translation and localization projects, including translation memory, terminology databases, and workflow automation.
-- *Examples:* Phrase, Smartling, Memsource (now Phrase), SDL Trados Studio, memoQ
-
-### Automation and AI Tools
-
-Technologies that automate repetitive tasks, analyze data, or augment human capabilities through machine learning and artificial intelligence.
-- *Examples:* Zapier, Make (formerly Integromat), machine translation engines, AI writing assistants
+| Type | Description | Examples |
+|------|-------------|----------|
+| **Collaboration and Communication Tools** | Platforms that enable teams to communicate, share files, and coordinate work across distances and time zones. | Microsoft Teams, Slack, Zoom, Google Meet, Miro |
+| **Project Management Software** | Systems for planning, organizing, and tracking project progress, tasks, and resources. | Asana, Monday.com, Trello, Jira, Basecamp |
+| **Customer Relationship Management (CRM) Systems** | Platforms for managing interactions with current and potential clients, tracking sales pipelines, and organizing customer data. | Salesforce, HubSpot, Zoho CRM |
+| **Translation Management Systems (TMS)** | Specialized platforms designed for managing translation and localization projects, including translation memory, terminology databases, and workflow automation. | Phrase, Smartling, Memsource (now Phrase), SDL Trados Studio, memoQ |
+| **Automation and AI Tools** | Technologies that automate repetitive tasks, analyze data, or augment human capabilities through machine learning and artificial intelligence. | Zapier, Make (formerly Integromat), machine translation engines, AI writing assistants |
 
 ## Key Terminology
 
-**API (Application Programming Interface)**
-A set of protocols that allows different software applications to communicate with each other. APIs enable integrations between systems.
-
-**Cloud Storage**
-Data storage services provided over the internet, allowing users to store and access files from any device with internet connectivity.
-
-**Integration**
-The process of connecting different software systems so they can share data and work together seamlessly.
-
-**Scalability**
-The ability of a system to handle increased workload or expand capacity as business needs grow.
-
-**Subscription Model**
-A pricing structure where users pay recurring fees (monthly or annually) to access software rather than purchasing it outright.
-
-**User Interface (UI)**
-The visual elements and controls through which users interact with software.
-
-**User Experience (UX)**
-The overall experience a person has when using a product or service, including ease of use, efficiency, and satisfaction.
-
-**Vendor Lock-in**
-A situation where switching from one service provider to another becomes difficult or costly due to proprietary technologies or data formats.
-
-**Uptime**
-The percentage of time a system or service is operational and accessible to users.
-
-**Data Migration**
-The process of transferring data from one system to another, often when switching software platforms.
+| Term | Definition |
+|------|------------|
+| **API (Application Programming Interface)** | A set of protocols that allows different software applications to communicate with each other. APIs enable integrations between systems. |
+| **Cloud Storage** | Data storage services provided over the internet, allowing users to store and access files from any device with internet connectivity. |
+| **Integration** | The process of connecting different software systems so they can share data and work together seamlessly. |
+| **Scalability** | The ability of a system to handle increased workload or expand capacity as business needs grow. |
+| **Subscription Model** | A pricing structure where users pay recurring fees (monthly or annually) to access software rather than purchasing it outright. |
+| **User Interface (UI)** | The visual elements and controls through which users interact with software. |
+| **User Experience (UX)** | The overall experience a person has when using a product or service, including ease of use, efficiency, and satisfaction. |
+| **Vendor Lock-in** | A situation where switching from one service provider to another becomes difficult or costly due to proprietary technologies or data formats. |
+| **Uptime** | The percentage of time a system or service is operational and accessible to users. |
+| **Data Migration** | The process of transferring data from one system to another, often when switching software platforms. |
 
 ## Opportunities: Benefits of Business Technology
 
@@ -132,60 +94,32 @@ Despite the benefits, business technology platforms also present challenges:
 
 When assessing whether to adopt a new business technology platform, consider these questions:
 
-### Functionality
-- Does this tool solve a real problem or improve an existing process?
-- What specific features does it offer?
-- How does it compare to alternatives?
-
-### Usability
-- How easy is it to learn and use?
-- Does it require extensive training?
-- Is the interface intuitive?
-
-### Integration
-- Does it work with tools we already use?
-- Are APIs available for custom integrations?
-- What data can be imported or exported?
-
-### Security and Compliance
-- What security measures does the provider implement?
-- Where is data stored?
-- Does it comply with relevant data protection regulations?
-
-### Cost
-- What is the total cost of ownership (subscription fees, training, implementation)?
-- How does pricing scale as usage increases?
-- Are there hidden costs or required add-ons?
-
-### Support and Reliability
-- What level of customer support is provided?
-- What is the provider's track record for uptime?
-- How quickly are issues resolved?
-
-### Vendor Considerations
-- How financially stable is the provider?
-- What is their reputation in the industry?
-- Do they have a roadmap for future development?
+| Evaluation Category | Key Questions |
+|---------------------|---------------|
+| **Functionality** | • Does this tool solve a real problem or improve an existing process?<br>• What specific features does it offer?<br>• How does it compare to alternatives? |
+| **Usability** | • How easy is it to learn and use?<br>• Does it require extensive training?<br>• Is the interface intuitive? |
+| **Integration** | • Does it work with tools we already use?<br>• Are APIs available for custom integrations?<br>• What data can be imported or exported? |
+| **Security and Compliance** | • What security measures does the provider implement?<br>• Where is data stored?<br>• Does it comply with relevant data protection regulations? |
+| **Cost** | • What is the total cost of ownership (subscription fees, training, implementation)?<br>• How does pricing scale as usage increases?<br>• Are there hidden costs or required add-ons? |
+| **Support and Reliability** | • What level of customer support is provided?<br>• What is the provider's track record for uptime?<br>• How quickly are issues resolved? |
+| **Vendor Considerations** | • How financially stable is the provider?<br>• What is their reputation in the industry?<br>• Do they have a roadmap for future development? |
 
 ## Building a Cloud Software Typology
 
 In your Tuesday class activity, you'll work in groups to create a typology of cloud software types. Consider organizing your typology around these dimensions:
 
-### By Primary Function
-- What is the main purpose of this category of software?
-- What business problem does it solve?
+Here's the Building a Cloud Software Typology section reformatted as a table:
 
-### By User Type
-- Who are the primary users (individuals, teams, departments, entire organizations)?
-- What level of technical expertise do users need?
+## Building a Cloud Software Typology
 
-### By Industry Application
-- Is this software general-purpose or industry-specific?
-- What industries commonly use this type of software?
+In your Tuesday class activity, you'll work in groups to create a typology of cloud software types. Consider organizing your typology around these dimensions:
 
-### By Integration Patterns
-- Does this software typically work independently or as part of a larger ecosystem?
-- What other systems does it commonly connect with?
+| Dimension | Guiding Questions |
+|-----------|-------------------|
+| **By Primary Function** | • What is the main purpose of this category of software?<br>• What business problem does it solve? |
+| **By User Type** | • Who are the primary users (individuals, teams, departments, entire organizations)?<br>• What level of technical expertise do users need? |
+| **By Industry Application** | • Is this software general-purpose or industry-specific?<br>• What industries commonly use this type of software? |
+| **By Integration Patterns** | • Does this software typically work independently or as part of a larger ecosystem?<br>• What other systems does it commonly connect with? |
 
 ### Examples to Include
 For each category in your typology, provide:

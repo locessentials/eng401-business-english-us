@@ -92,7 +92,7 @@ Before you begin your guide, contact the instructor directly about your technolo
 
 After you've selected your technology and gotten instructor approval, start using the tool yourself, noting where you get confused (these become your troubleshooting tips). Create your guide following the six required sections below, include 4-6 screenshots, and submit your work in MS Word and PDF format.
 
-> TopTracker Example
+> **TopTracker Example**
 >
 > **Example to review:** [Time Tracking with TopTracker Quick Start Guide](references/Time-Tracking-with-TopTracker.pdf)
 >

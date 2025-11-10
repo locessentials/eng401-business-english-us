@@ -96,9 +96,10 @@ After you've selected your technology and gotten instructor approval, start usin
 >
 > Some goals of Help Desk documentation include not over-investing in training material development while also not scaling inefficiency due to a lack of information. That said, the documentation you develop can and should be iterated on over time. Small teams may benefit more from lighter guides and simultaneous chat communication. Larger teams will need much greater levels of documentation to standardize work. The flow of documentation also needs to correspond with product developments.
 >
-> Here, you'll find two versions of the same work instruction that illustrate iterative development. What differences do you note between the two?
+> Here, you'll find two versions of the same work instruction that illustrate iterative development and serve as examples of the documentation that you're required to write for this assignment. What differences do you note between the two?
 > 
 > **Version 1:** [Time Tracking with TopTracker](references/Time-Tracking-with-TopTracker.pdf) (Work Instruction)
+> 
 > **Version 2:** [Time Tracking with TopTracker](https://admin.locessentials.com/time-tracking-with-toptracker) (Blog post)
 >
 > **Note:** These work instructions do not correspond to your assignment instructions exactly, so please be sure to read the instructions thoroughly instead of just replicating this guide.

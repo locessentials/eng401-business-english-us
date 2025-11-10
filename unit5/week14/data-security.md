@@ -129,6 +129,21 @@ Mexico's data protection law, often referred to by its Spanish acronym LFPDPPP (
 | **Key Focus** | Organizational security controls | Individual privacy rights | Consent and transparency |
 | **Enforcement** | Certification body audits | California Attorney General, private lawsuits | INAI (regulatory authority) |
 
+## Key Terminology
+
+| Term | Definition |
+|------|------------|
+| **Non-Public Information (NPI)** | Confidential data that is not available to the general public, including trade secrets, personal information, and proprietary business data |
+| **Personally Identifiable Information (PII)** | Information that can be used to identify a specific individual, either alone or in combination with other data |
+| **Data Breach** | Unauthorized access to or disclosure of confidential information |
+| **Privacy Notice/Aviso de Privacidad** | Document that informs individuals about how their personal data will be collected, used, and protected |
+| **Encryption** | Process of encoding information so that only authorized parties can access it |
+| **Access Control** | Security measures that limit who can view or use specific information or systems |
+| **Data Retention** | Policies governing how long information is kept before being securely deleted |
+| **Incident Response** | Procedures for detecting, responding to, and recovering from security breaches |
+| **Vendor Management** | Systematic process for selecting, monitoring, and maintaining relationships with suppliers |
+| **Contingency Planning** | Preparing backup plans for business disruptions, technology failures, or other crises |
+
 ## Self-Reflection
 
 As you explore data security laws and standards this week, consider:

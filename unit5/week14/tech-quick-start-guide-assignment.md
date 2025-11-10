@@ -94,7 +94,7 @@ After you've selected your technology and gotten instructor approval, start usin
 
 > **TopTracker Case Study: Reiterative Document Development**
 >
-> Some goals of Help Desk documentation include not over-investing in training material development while also not scaling inefficiency due to a lack of information. That said, the documentation you develop can and should be iterated on over time. Small teams may benefit more from lighter guides and simultaneous chat communication. Larger teams will need much greater levels of documentation to standardize work. The flow of documentation also needs to correspond with product developments.
+> Some goals of Help Desk documentation include not over-investing in training material development while also not scaling inefficiency due to a lack of information. That said, the documentation you develop can and should be iterated on over time. Small teams may benefit more from lighter guides and simultaneous chat communication. Larger teams will need much greater levels of documentation to standardize work. The flow of documentation also needs to correspond with product development.
 >
 > Here, you'll find two versions of the same work instruction that illustrate iterative development and serve as examples of the documentation that you're required to write for this assignment. What differences do you note between the two?
 > 

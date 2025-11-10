@@ -235,7 +235,7 @@ Focus on what users need to do first and most frequently, not advanced features.
 
 ---
 
-## Part 3: Helpful Tips for your Workflow
+## Part 3: Helpful Tips for your Drafting Workflow
 
 ### Tip 1: Research the technology thoroughly
 

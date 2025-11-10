@@ -141,8 +141,6 @@ Mexico's data protection law, often referred to by its Spanish acronym LFPDPPP (
 | **Access Control** | Security measures that limit who can view or use specific information or systems |
 | **Data Retention** | Policies governing how long information is kept before being securely deleted |
 | **Incident Response** | Procedures for detecting, responding to, and recovering from security breaches |
-| **Vendor Management** | Systematic process for selecting, monitoring, and maintaining relationships with suppliers |
-| **Contingency Planning** | Preparing backup plans for business disruptions, technology failures, or other crises |
 
 ## Self-Reflection
 

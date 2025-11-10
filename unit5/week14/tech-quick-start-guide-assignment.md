@@ -92,11 +92,18 @@ Before you begin your guide, contact the instructor directly about your technolo
 
 After you've selected your technology and gotten instructor approval, start using the tool yourself, noting where you get confused (these become your troubleshooting tips). Create your guide following the six required sections below, include 4-6 screenshots, and submit your work in MS Word and PDF format.
 
-> **TopTracker Example**
+> **TopTracker Case Study: Reiterative Document Development**
 >
-> **Example to review:** [Time Tracking with TopTracker Quick Start Guide](references/Time-Tracking-with-TopTracker.pdf)
+> Some goals of Help Desk documentation include not over-investing in training material development while also not scaling inefficiency due to a lack of information. That said, the documentation you develop can and should be iterated on over time. Small teams may benefit more from lighter guides and simultaneous chat communication. Larger teams will need much greater levels of documentation to standardize work. The flow of documentation also needs to correspond with product developments.
 >
-> **Note:** This work instruction does not correspond to your assignment instructions exactly, so please be sure to read the instructions thoroughly instead of just replicating this guide.
+> Here, you'll find two versions of the same work instruction that illustrate iterative development. What differences do you note between the two?
+> 
+> **Version 1:** [Time Tracking with TopTracker](references/Time-Tracking-with-TopTracker.pdf) (Work Instruction)
+> **Version 2:** [Time Tracking with TopTracker](https://admin.locessentials.com/time-tracking-with-toptracker) (Blog post)
+>
+> **Note:** These work instructions do not correspond to your assignment instructions exactly, so please be sure to read the instructions thoroughly instead of just replicating this guide.
+>
+> **Flashback:** Remember that one of the principles of [Agile Project Management](https://agilemanifesto.org) is: working software over comprehensive documentation. If it speaks to you, let that principle guide your work!
 
 Your Quick Start Guide must include the following components.
 

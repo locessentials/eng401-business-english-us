@@ -208,7 +208,7 @@ You might express your response through a short essay describing a day in this t
 
 ## Conclusion
 
-The assignment for this week is to contribute to our class zine: Emerging Business Trends, inspired by the DAIR event. You'll be asked to further develop one of the activities you've completed this week—working with an article you identified, building out a more complete authentic-performative fromework, or your unimaginable future vision—to make your own creative point about business innovations. You might combine elements from multiple activities or focus on expanding one thoroughly. The goal is to exercise your imaginative capacity and practice envisioning alternatives to dominant narratives about work, business, and progress.
+The assignment for this week is to contribute to our class zine: Emerging Business Trends, inspired by the DAIR event. You'll be asked to further develop one of the activities you've completed this week—working with an article you identified, building out a more complete authentic-performative fromework, or developing your unimaginable future vision—to make your own creative point about business innovations. You might combine elements from multiple activities or focus on expanding one thoroughly. The goal is to exercise your imaginative capacity and practice envisioning alternatives to dominant narratives about work, business, and progress.
 
 As you prepare your zine contribution, consider: What future are you helping to create by imagining it?
 

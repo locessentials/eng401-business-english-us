@@ -185,6 +185,25 @@ The current trajectory of work—increasing automation, precarity, surveillance,
 
 You might express your response through a short essay describing a day in this transformed world, a mind map showing interconnected systems and relationships, a poem or creative writing piece that captures the feeling of this future, a speculative business scenario detailing how organizations operate, or another format that effectively communicates your vision. Focus on concrete details rather than abstractions—show what this world looks like, feels like, and how it functions in practice.
 
+#### Guidelines for Your Response
+
+**Be specific rather than abstract:**
+- Instead of "people are happier," describe what brings joy
+- Instead of "work is different," show how a day unfolds
+- Instead of "society is more just," demonstrate what justice looks like in practice
+
+**Ground your vision in values:**
+- What matters in this world? What's been deprioritized?
+- How do people relate to each other? To the environment? To technology?
+
+**Acknowledge complexity:**
+- Utopias are often boring. What tensions or challenges still exist?
+- How does this world handle disagreement, scarcity, or change?
+
+**Connect to your position:**
+- How does your identity, experience, and field shape this vision?
+- What perspectives inform your imagination?
+
 ---
 
 ## Conclusion

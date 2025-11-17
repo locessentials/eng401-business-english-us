@@ -62,6 +62,7 @@ Nearly 100 Kenyan data labelers and AI workers who do work for companies like Fa
 **Further Reading:**
 - [The Exploited Labor Behind Artificial Intelligence](https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/) by NOEMA
 - [The Artificial Intelligence illusion: How invisible workers fuel the "automated" economy](https://www.ilo.org/resource/article/artificial-intelligence-illusion-how-invisible-workers-fuel-automated) by the International Labour Organization
+- [The Silicon Chain: How AI’s Architecture Became a Tool of Extraction](https://aylgorith.com/silicon-chain-ai-extraction) via AYLGORITH
 
 ---
 

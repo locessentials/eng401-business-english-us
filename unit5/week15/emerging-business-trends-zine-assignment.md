@@ -41,7 +41,7 @@ All contributions will be compiled into our **TR35 Business English II Emerging 
 
 ## What is a Zine?
 
-A **zine** (short for "magazine" or "fanzine") is a small-circulation, self-published work of original or appropriated texts and images. Zines are typically produced through photocopying or digital printing and are often created to express the author's ideas, politics, or creative vision outside mainstream publishing channels.
+A **[zine](https://guides.lib.purdue.edu/loudonpaper/what-is-a-zine#:~:text=Definition,to%20express%20the%20author%27s%20message.)** (short for "magazine" or "fanzine") is a small-circulation, self-published work of original or appropriated texts and images. Zines are typically produced through photocopying or digital printing and are often created to express the author's ideas, politics, or creative vision outside mainstream publishing channels.
 
 **Key characteristics of zines:**
 - **DIY aesthetic**: Handmade or independently produced quality

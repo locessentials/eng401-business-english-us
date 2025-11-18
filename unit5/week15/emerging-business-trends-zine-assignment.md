@@ -191,6 +191,14 @@ Upload to Teams Assignment - Emerging Business Trends Zine
 
 ---
 
+## Zine Editors: Extra Credit Opportunity
+
+As you may recall, you can earn up to 3 extra credit points for doing some sort of an extra assignment this semester. If you haven't already earned extra credit points this semester, you may do so by volunteering to be an editor of our **TR35 Business English II Emerging Trends Zine**. We're seeking 2-3 volunteers to act as editors of the zine. The role entails putting together all of the contributions into the zine. If you have graphic design skills for doing so, that's a plus.
+
+You'll mostly have full creative control over the cover design and the order in which you present contributions. You'll be named as the editor(s) on the cover of the zine. The publication will be incorporated into our course contents as volume of our class zine.
+
+---
+
 ## Professional Context
 
 ### Why This Matters

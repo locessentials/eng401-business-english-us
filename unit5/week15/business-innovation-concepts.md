@@ -12,7 +12,7 @@ The business world is saturated with terms like "digital transformation," "innov
 
 This week, you'll investigate these concepts critically, moving beyond surface-level definitions to understand what genuinely transformative change looks like versus what amounts to marketing hype.
 
-## Initial Impressions: What Do These Terms Mean to You?
+## First Impressions: What Do These Concepts Mean to You?
 
 Before we dive into research and definitions, let's capture your initial associations with these frequently-used business terms.
 

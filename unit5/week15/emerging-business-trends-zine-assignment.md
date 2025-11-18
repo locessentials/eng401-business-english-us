@@ -176,7 +176,9 @@ You may further develop topics from your mini-presentations or earlier assignmen
 `LastName_zine-contribution.docx` (or appropriate file extension)
 
 **Submission:**
-Upload to Teams Assignment - Emerging Business Trends Zine
+Please upload all assets associated with your contribution (MS Word document, images) to our `Emerging Trends Zine` channel on Teams, along with any comments you'd like to share with the editors about how your work should be presented in our zine.
+
+There's also a Teams assignment where you will receive your grade. You don't need to upload anything to this assignment.
 
 ---
 

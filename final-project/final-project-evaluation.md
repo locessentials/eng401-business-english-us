@@ -56,22 +56,29 @@ Your slides will be evaluated on professional design, content organization, and 
 ### Written Report
 Your report will be assessed on research depth, language proficiency, and professional document standards.
 
-#### Effective (3 points)
+#### Mostly effective (3 points)
 - **Comprehensive information** demonstrating thorough research and analysis
 - **Well-structured** with clear sections, headings, and logical flow
 - **Excellent business vocabulary** with sophisticated, precise terminology
 - **Proper citations** using consistent format (APA recommended)
 - **Error-free writing** with professional tone throughout
 - **Integration of course concepts** from multiple units effectively
-- **Meets word count** requirements (1500-2000 words)
+- **Meets word count** requirements (~1500 words)
+- **Content doesn't leave reader questioning** if ChatGPT wrote all of it, with no human review
+- **No ChatGPT Copy/Paste Errors** in which you includes ChatGPT's specific comments to you
+  - For example: I generated you an essay on [topic]. I made that change for you!
 
-#### Mostly effective/Somewhat ineffective (2 points)
+#### Somewhat ineffective (2 points)
 - **Basic information** with adequate research supporting main points
 - **Adequate structure** with identifiable sections and reasonable organization
 - **Some business vocabulary** with appropriate but limited specialized terms
 - **Minor citation issues** but sources are generally properly attributed
 - **Few language errors** that don't significantly impact comprehension
 - **Some integration** of course concepts with basic application
+- **May reflect some lack of care with GAI** due to various reasons like:
+  - No clear point of view represented
+  - Conflicting points of view presented
+  - Lack of cohesion with the rest of the project materials
 
 #### Ineffective/Incomplete (0-1 points)
 - **Insufficient information** indicating inadequate research or analysis
@@ -80,6 +87,7 @@ Your report will be assessed on research depth, language proficiency, and profes
 - **Numerous errors** in language, grammar, or citation format
 - **Below word count** or significantly exceeds requirements
 - **Little to no integration** of course concepts or terminology
+- **Includes irrelevant content** from copy/pasting from ChatGPT (and similar systems)
 
 ---
 
@@ -92,7 +100,7 @@ Your video presentation will be evaluated on delivery skills, language usage, an
 - **Professional demeanor** with confident body language and eye contact
 - **Effective vocabulary** using specialized business terms appropriately
 - **Equal participation** from all group members with smooth transitions
-- **Adheres to time limits** (15-20 minutes) with well-paced content
+- **Adheres to time limits** (8-12 minutes) with well-paced content
 - **Engaging delivery** that maintains audience interest without reading from script
 
 #### Mostly effective/Somewhat ineffective (2 points)
@@ -111,8 +119,6 @@ Your video presentation will be evaluated on delivery skills, language usage, an
 - **Significantly over/under time limits** or poor pacing throughout
 - **Monotone or disengaged delivery** that fails to maintain audience interest
 
-
-
 ---
 
 ### Overall Professionalism (1 point)
@@ -120,28 +126,28 @@ Your video presentation will be evaluated on delivery skills, language usage, an
 This component evaluates your project management skills, file organization, and adherence to submission requirements.
 
 #### Effective/Mostly effective (1 point)
+- **Materials submitted reflect a cohesive unit** that presents info in complementary ways
 - **All materials submitted on time** with complete components
 - **Professionally organized** with clear file naming and folder structure
-- **Clearly labeled** files that are easy to navigate and identify
-- **Follows all format requirements** including file types, word counts, and specifications
+- **Follows all format requirements** including file types, word counts, and additional specifications
 - **Easy to navigate** with logical organization that facilitates review
-- **Demonstrates project management skills** through coordinated team effort
+- **Demonstrates project management skills** through coordinated team effort that obviously integrated quality reviews
 
 #### Ineffective/Incomplete (0 points)
+- **Difficult to form takeaways** due to lack of cohesion in materials
 - **Late submission** or missing required components
 - **Disorganized materials** with poor file structure or naming
-- **Improper labeling** that makes identification difficult
-- **Fails to follow format requirements** for file types or specifications
-- **Difficult to navigate** due to poor organization or missing elements
+- **Fails to follow major specifications** on file contents and types
+- **Project management needed** to address inconsistencies in style/formatting and obvious mistakes that mean no quality reviews took place
 
 ---
 
 ### Peer Evaluations
 
-When evaluating other groups' presentations, your work is judged base don the criticial analysis it conveys and the quality of the constructive feedback.
+When evaluating other groups' presentations, your work is judged based on the criticial analysis it conveys and the overall quality of the constructive feedback.
 
-#### Effective
-- **Detailed, specific feedback** with concrete examples and evidence
+#### Effective feedback
+- **Detailed and specific** with concrete examples and evidence
 - **Constructive comments** that demonstrate critical analysis skills
 - **Application of course concepts** in evaluation and feedback
 - **Professional tone** that is respectful while being honest
@@ -182,7 +188,7 @@ All components should demonstrate:
 - **Professional presentation** standards throughout all deliverables
 
 ### Grade Conversion
-- **9-10 points:** Exceptional work demonstrating internalization
+- **9-10 points:** Exceptional work demonstrating internalization of course contents
 - **8 points:** Proficient work meeting most expectations
 - **6-7 points:** Adequate work with some deficiencies
 - **Below 6 points:** Inadequate work requiring significant improvement

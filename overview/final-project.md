@@ -46,34 +46,36 @@ By the end of this project, you'll be able to:
 
 ## Project Instructions
 
-Working in groups of 3 students, you will select a contemporary business topic related to the course content, research it thoroughly, create a professional presentation, write a detailed report, record your presentation delivery, and evaluate presentations from your peers.
+Working in groups of 3-5 students, you will select a contemporary business topic related to the course content, research it thoroughly, create a professional presentation, write a detailed report, record your presentation delivery, and (optionally) evaluate presentations from your peers.
 
-### Step 1: Group Formation and Topic Selection (Week 14)
-- Form groups of 3 students
+### Step 1: Group Formation and Topic Selection
+- Form groups of 3-5 students
 - Select a business topic relevant to the course (examples: sustainable business practices, cross-cultural negotiation strategies, digital transformation in traditional industries, ethical leadership in global business)
 - Submit your topic and group members for approval
 
-### Step 2: Research and Content Development (Weeks 14-15)
+### Step 2: Research and Content Development
 - Conduct thorough research using credible sources
 - Organize your findings into a coherent narrative
 - Prepare your presentation slides and written report
 
-### Step 3: Presentation and Report Finalization (Weeks 15-16)
-- Create professional presentation slides (10-12 slides)
-- Write a comprehensive report (1500-2000 words)
-- Record your presentation (15-20 minutes)
+### Step 3: Presentation and Report Finalization
+- Create professional presentation slides (8-10 slides)
+- Write a comprehensive report (~1500 words)
+- Record your presentation (8-12 minutes)
 - Submit all materials by the end of Week 16
+  - Project package to Teams assignment
+  - Post and link to your video in `Final Projects` channel 
 
-### Step 4: Peer Evaluation (Weeks 16-17)
+### Step 4: Peer Evaluation (Optional but recommended)
 - Review two presentations from other groups
-- Complete the provided evaluation rubric for each
-- Submit your evaluations by the end of Week 17
+- Give specific comments on areas for improvement and elements done particularly well
+- Submit your evaluations by the very end of the class
 
 ## Project Components & Evaluation
 
 The final project is worth **10 points total**, distributed across five components:
 
-### Presentation Slides (2 points)
+### Presentation Slides (3 points)
 Your slides should:
 - Be engaging and professional both visually and content-wise
 - Follow a logical structure (introduction, main points, conclusion)
@@ -81,7 +83,7 @@ Your slides should:
 - Contain minimal text (key points only)
 - Be free of grammatical or spelling errors
 
-### Written Report (2 points)
+### Written Report (3 points)
 Your report should:
 - Provide comprehensive information on your topic
 - Be well-structured with clear sections and headings
@@ -90,7 +92,7 @@ Your report should:
 - Be free of grammatical or spelling errors
 - Include proper citations and a bibliography
 
-### Recorded Presentation (2 points)
+### Recorded Presentation (3 points)
 Your recording should demonstrate:
 - Confidence in your delivery of the contents
 - Effective use of business English vocabulary
@@ -99,15 +101,10 @@ Your recording should demonstrate:
 - Adherence to the time limit (8-12 minutes)
 - The presentation should not just be read from a script in monotone
 
-### Peer Evaluations (2 points)
-Your evaluations should:
-- Provide constructive feedback on content and delivery
-- Identify strengths and areas for improvement
-- Be specific, detailed, and respectful
-- Demonstrate critical thinking and application of course concepts
-
-### Organization & Delivery (2 points)
+### Overall Professionalism (1 point)
 Your delivery should:
+- Be a cohesive unit that shares information in complementary ways
+- Use consistent style and formatting and be free from ChatGPT and typography errors
 - Be delivered by the specified deadline with all components complete
 - Include properly named files that clearly identify your group and the component (e.g., "Group3_Presentation.pptx")
 - Organize materials in a logical folder structure that is easy to navigate
@@ -115,13 +112,20 @@ Your delivery should:
 
 ## Evaluation Rubric
 
-| Component | Meets/Exceeds Expectations (2 points) | Meets Most Expectations (1 point) | Does Not Meet Expectations (0 points) |
+| Component | Meets/Exceeds Expectations (Effective) | Meets Most Expectations (Somewhat [in]effective) | Does Not Meet Expectations (Ineffective) |
 |-----------|---------------------------------------|-----------------------------------|---------------------------------------|
 | **Presentation Slides** | Professional design, engaging visuals, concise text, error-free | Adequate design, some visuals, mostly concise text, few errors | Poor design, text-heavy, numerous errors |
 | **Written Report** | Comprehensive, well-structured, excellent business vocabulary, proper citations | Basic information, adequate structure, some business vocabulary, minor citation issues | Insufficient information, poor structure, limited vocabulary, numerous errors |
 | **Recorded Presentation** | Clear articulation, professional delivery, effective vocabulary, equal participation | Adequate articulation, somewhat professional delivery, basic vocabulary, mostly equal participation | Poor articulation, unprofessional delivery, limited vocabulary, dominated by one member |
+| **Overall Professionalism** | Cohesive materials submitted on time, professionally organized, clearly labeled, easy to navigate | Materials submitted on time, adequately organized, mostly labeled properly | Late submission, disorganized materials, improper labeling |
 | **Peer Evaluations** | Detailed, specific, constructive feedback demonstrating critical analysis | Basic observations with somewhat constructive comments | Superficial, vague comments with little constructive value |
-| **Organization & Delivery** | All materials submitted on time, professionally organized, clearly labeled, easy to navigate | Materials submitted on time, adequately organized, mostly labeled properly | Late submission, disorganized materials, improper labeling |
+
+### Peer Evaluations (Optional)
+Your evaluations should:
+- Provide constructive feedback on content and delivery
+- Identify strengths and areas for improvement
+- Be specific, detailed, and respectful
+- Demonstrate critical thinking and application of course concepts
 
 ---
 

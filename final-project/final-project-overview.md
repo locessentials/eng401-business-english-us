@@ -31,7 +31,7 @@ The final project consists of four interconnected components that demonstrate di
 - In-depth analysis with proper citations and specialized vocabulary
 - Professional document suitable for stakeholder circulation
 
-### The Integration Component: Peer Evaluation
+### The Integration Component: Peer Evaluation (Optional but recommended)
 - **Two peer evaluations** using provided rubrics
 - Constructive feedback demonstrating critical analysis skills
 - Application of course concepts to assess presentation effectiveness
@@ -48,11 +48,9 @@ This project integrates learning objectives from all five units:
 
 ## Project Timeline
 
-**Weeks 14-17 (4 weeks total)**
-- Week 14: Group formation and topic selection
-- Weeks 14-15: Research and content development  
-- Week 16: Presentation and report finalization
-- Week 17: Peer evaluation period
+**Weeks 16-17**
+- Weeks 16: Topic selection, research and content development  
+- Week 17: Presentation and report finalization; peer evaluation period
 
 ## Success Criteria
 

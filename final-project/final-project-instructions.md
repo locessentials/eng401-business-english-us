@@ -9,11 +9,11 @@ nav_order: 2
 
 ## Overview
 
-Working in a small group, you will select a contemporary business topic, research it thoroughly, create a professional presentation, write a detailed report, record your presentation delivery, and evaluate presentations from your peers.
+Working in a small group, you will select a contemporary business topic, research it thoroughly, create a professional presentation, write a detailed report, and record your presentation delivery. You may also do peer evaluations of presentations by your peers.
 
 ## Step-by-Step Process
 
-### Step 1: Group Formation and Topic Selection (Week 14)
+### Step 1: Group Formation and Topic Selection
 
 #### Group Formation Guidelines
 - **Form small groups (preferably of 3 students)**
@@ -51,7 +51,7 @@ Your business topic should be:
 - Leadership strategies for diverse, international teams
 
 #### Submission Requirements
-Submit for approval by end of Week 14:
+Submit for approval:
 - **Group member names**
 - **Selected topic with 2-3 sentence rationale**
 - **Preliminary research questions or focus areas**
@@ -59,7 +59,7 @@ Submit for approval by end of Week 14:
 
 ---
 
-### Step 2: Research and Content Development (Weeks 14-15)
+### Step 2: Research and Content Development
 
 #### Research Guidelines
 
@@ -91,7 +91,7 @@ Submit for approval by end of Week 14:
 
 ---
 
-### Step 3: Presentation and Report Finalization (Week 16)
+### Step 3: Presentation and Report Finalization
 
 #### Presentation Slides Requirements (10-12 slides)
 
@@ -153,32 +153,6 @@ Submit for approval by end of Week 14:
 
 ---
 
-### Step 4: Peer Evaluation (Week 17)
-
-#### Evaluation Process
-- Review **two presentations** from other groups (assignments will be provided)
-- Complete detailed evaluation rubric for each presentation
-- Provide **constructive feedback** on both content and delivery
-- Submit evaluations through course platform by end of Week 17
-
-#### Evaluation Criteria
-Focus your evaluations on:
-- **Content quality and depth** of business analysis
-- **Use of specialized vocabulary** from course units
-- **Presentation effectiveness** and professional delivery
-- **Integration of course concepts** across units
-- **Cultural sensitivity** and global business awareness
-
-#### Feedback Guidelines
-Your peer evaluations should:
-- **Be specific and detailed** with concrete examples
-- **Identify strengths** that could be replicated
-- **Suggest improvements** with actionable recommendations
-- **Demonstrate understanding** of course concepts and standards
-- **Maintain professional, respectful tone** throughout
-
----
-
 ## File Organization and Submission
 
 ### File Naming Convention
@@ -210,6 +184,32 @@ Before submission, verify:
 - [ ] All sources are properly cited in APA format
 - [ ] Business vocabulary from course units is effectively integrated
 - [ ] Professional standards are maintained throughout all components
+
+---
+
+### Peer Evaluations (Optional bur recommended)
+
+#### Evaluation Process
+- Review **two presentations** from other groups (assignments will be provided)
+- Complete detailed evaluation rubric for each presentation
+- Provide **constructive feedback** on both content and delivery
+- Submit evaluations through course platform by end of Week 17
+
+#### Evaluation Criteria
+Focus your evaluations on:
+- **Content quality and depth** of business analysis
+- **Use of specialized vocabulary** from course units
+- **Presentation effectiveness** and professional delivery
+- **Integration of course concepts** across units
+- **Cultural sensitivity** and global business awareness
+
+#### Feedback Guidelines
+Your peer evaluations should:
+- **Be specific and detailed** with concrete examples
+- **Identify strengths** that could be replicated
+- **Suggest improvements** with actionable recommendations
+- **Demonstrate understanding** of course concepts and standards
+- **Maintain professional, respectful tone** throughout
 
 ---
 

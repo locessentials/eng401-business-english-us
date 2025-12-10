@@ -1,4 +1,4 @@
-# TR35: Business English II - Universidad Intercontinental
+# TR35: Business English II
 
 ## Motivation
 

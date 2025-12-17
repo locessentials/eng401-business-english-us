@@ -13,8 +13,6 @@ has_children: true
 This week focuses on international business agreement types and formats, Request for Proposal (RFP) components and language, Memorandum of Understanding (MOU) structure and terminology, and Service Level Agreement (SLA) key elements and vocabulary.
 
 ## Topics Covered
-
-### Subtopics
 - **International business agreement types and formats**
 - **Request for Proposal (RFP) components and language**
 - **Memorandum of Understanding (MOU) structure and terminology**
@@ -22,32 +20,26 @@ This week focuses on international business agreement types and formats, Request
 
 ## Class Activities
 
-### Tuesday Class Activities
+### Course Period 1 (2 hours)
+- **Professional Development Day!** Lead us through the training session you developed for class last week.
 - Assignment introduction: International Business Document Analysis
 - Introduction to international business agreements
+
+### Course Period 2 (2 hours)
 - Class activity: Analysis of RFP structure, terminology, and response formats
-- Group work: Identifying key components of effective RFPs
-
-### Thursday Class Activities
 - Workshop: Examining MOUs and SLAs - purpose, structure, and language
-- Comparative analysis of agreement terminology across different document types
+- Class review: Comparative analysis of agreement terminology across different document types
 
-## Independent Activities
-
-### Assignment: International Business Document Analysis
-- Select a type of international business document that has not yet been covered in class
-- Find two to three examples of that document type
-- Write a report explaining its structure and key vocabulary
-- **Due date:** Sunday of Week 13
+### Independent/Group Assignments (and Point Totals)
+- **Assignment: International Business Document Analysis** (3 points)
+    - Select a type of international business document that has not yet been covered in class
+    - Find two to three examples of that document type
+    - Write a report explaining its structure and key vocabulary
+    - **Due date:** End of week
+- **Class attendance and participation** (2 points)
 
 ## Learning Resources
-
 - Examples of RFPs, MOUs, SLAs and additional international document types
-
-## Assessment
-
-- **International Business Document Analysis** (3 points)
-- **Class attendance and participation** (2 points)
 
 ---
 

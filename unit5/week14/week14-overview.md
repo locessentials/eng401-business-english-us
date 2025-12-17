@@ -13,44 +13,34 @@ has_children: true
 This week focuses on digital business tools and platforms, cloud computing and Software-as-a-Service (SaaS) terminology, cybersecurity and data protection vocabulary, and digital transformation concepts and language.
 
 ## Topics Covered
-
-### Subtopics
 - **Digital business tools and platforms**
 - **Cloud computing and Software-as-a-Service (SaaS) terminology**
 - **Cybersecurity and data protection vocabulary**
 - **Digital transformation concepts and language**
 
-## Class Activities
+## Class Activities for the Week
 
-### Tuesday Class Activities
+### Course Period 1 (2 hours)
 - Assignment introduction: Business Technology Quick Start Guide
 - Introduction to digital business tools and technologies
 - Class activity: Exploration of risks and opportunities associated with tools and technologies
 - Group work: Create a typology of cloud software types with examples
-- Proyecto integrador: Introduction, Group Formation and Topic Selection
 
-### Thursday Class Activities
+### Course Period 2 (2 hours)
 - Workshop: Requirements for cybersecurity and data protection measures
 - Case study: Identify a technology company leading in digital transformation
 
-## Independent Activities
-
-### Assignment: Business Technology Quick Start Guide
-- Select a cloud or SaaS technology used commonly in business environments
-- Create a Quick Start Guide to help employees quickly learn to operate the technology
-- Include a clear explanation of the technology and its business applications, instructions for use, key terminology, and troubleshooting tips
-- **Due date:** Sunday of Week 14
+### Independent/Group Assignments (and Point Totals)
+- **Assignment: Business Technology Quick Start Guide** (3 points)
+    - Select a cloud or SaaS technology used commonly in business environments
+    - Create a Quick Start Guide to help employees quickly learn to operate the technology
+    - Include a clear explanation of the technology and its business applications, instructions for use, key terminology, and troubleshooting tips
+    - **Due date:** End of week
+- **Class attendance and participation** (2 points)
 
 ## Learning Resources
-
 - ISO 27001 on data security
 - Examples of user guides
-
-## Assessment
-
-- **Business Technology Quick Start Guide** (3 points)
-- **Proyecto integrador: Group Formation and Topic Selection** (0 points)
-- **Class attendance and participation** (2 points)
 
 ---
 

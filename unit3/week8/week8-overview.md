@@ -13,42 +13,34 @@ has_children: true
 This week focuses on production process terminology and workflow concepts, project management methodologies (Waterfall, Agile, Scrum, Kanban), project documentation and communication, and specialized vocabulary for project planning and execution.
 
 ## Topics Covered
-
-### Subtopics
 - **Production process terminology and workflow concepts**
 - **Project management methodologies** (Waterfall, Agile, Scrum, Kanban)
 - **Project documentation and communication**
 - **Specialized vocabulary for project planning and execution**
 
-## Class Activities
+## Class Activities for the Week
 
-### Tuesday Class Activities
+### Course Period 1 (2 hours)
 - Assignment introduction: Project Management Plan
 - Introduction to production processes and project management frameworks
 - Comparison of traditional vs. agile project management approaches
 - Group activity: Communication analysis for different project management methodologies
 
-### Thursday Class Activities
+### Course Period 2 (2 hours)
 - Project documentation across different methodologies (Gantt charts, query trackers, kanban boards)
 - Group activity: Selection of project management framework
 
-## Independent Activities
-
-### Assignment: Project Management Plan
-- Select a business project scenario for which you will develop a project management approach
-- Write a plan for communicating the project management approach your team will follow to develop the project
-- **Due date:** Sunday of Week 8
+### Independent/Group Assignments (and Point Totals)
+- **Assignment: Project Management Plan**  (3 points)
+    - Select a business project scenario for which you will develop a project management approach
+    - Write a plan for communicating the project management approach your team will follow to develop the project
+    - **Due date:** End of week
+- **Class attendance and participation** (2 points)
 
 ## Learning Resources
-
 - Articles on project management approaches
 - Sample project management documentation
 - Templates for different project management methodologies
-
-## Assessment
-
-- **Project Management Plan** (3 points)
-- **Class attendance and participation** (2 points)
 
 ---
 

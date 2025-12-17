@@ -18,7 +18,7 @@ This week focuses on regulatory frameworks for businesses in Mexico and the US, 
 - **Comparative regulatory analysis**
 - **Technical vocabulary in business regulations**
 
-## Class Activities
+## Class Activities for the Week
 
 ### Course Period 1 (2 hours)
 - Assignment introduction: Cross-Border Regulatory Comparison Report

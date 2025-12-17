@@ -18,7 +18,7 @@ This week focuses on ethical frameworks in business decision-making, corporate s
 - **Communicating ethical standards and policies**
 - **Cross-cultural perspectives on business ethics**
 
-## Class Activities
+## Class Activities for the Week
 
 ### Preparation
 - Read the HBR article ["Is Business Bluffing Ethical?"](https://hbr.org/1968/01/is-business-bluffing-ethical) before our Tuesday class

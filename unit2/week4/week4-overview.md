@@ -18,7 +18,7 @@ This week focuses on legal document structures and conventions, contract termino
 - **Non-disclosure agreements and confidentiality clauses**
 - **Privacy policies and data protection language**
 
-## Class Activities
+## Class Activities for the Week
 
 ### Course Period 1 (2 hours)
 - Assignment introduction: Contract Negotiation

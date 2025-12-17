@@ -18,7 +18,7 @@ This week focuses on financial statements and reports structure and purpose, bal
 - **Income statement (profit/loss) components and terminology**
 - **Financial performance indicators**
 
-## Class Activities
+## Class Activities for the Week
 
 ### Course Period 1 (2 hours)
 - Assignment introduction: Company Financial Report (Partial Exam 1)

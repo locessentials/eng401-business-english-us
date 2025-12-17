@@ -23,4 +23,4 @@ The TR35 Business English course was first commissioned to be taught in the unde
 
 ---
 
-**Next:** Learn [How to Use these Course Contents](how-to-use-this-course.md) so as to take full advantage of course materials that were designed to be used with GAI.
+**Next:** Learn [How to Use these Course Contents](how-to-use.md) so as to take full advantage of course materials that were designed to be used with GAI.

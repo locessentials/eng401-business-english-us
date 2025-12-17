@@ -18,7 +18,7 @@ This week focuses on international business agreement types and formats, Request
 - **Memorandum of Understanding (MOU) structure and terminology**
 - **Service Level Agreement (SLA) key elements and vocabulary**
 
-## Class Activities
+## Class Activities for the Week
 
 ### Course Period 1 (2 hours)
 - **Professional Development Day!** Lead us through the training session you developed for class last week.

@@ -7,7 +7,7 @@ nav_order: 6
 
 # How to Use these Course Contents
 
-This course has been designed to minimize educational barriers and embrace open access to knowledge in the era of generative artificial intelligence (GAI) 
+This course has been designed to minimize educational barriers and embrace open access to knowledge in the era of generative artificial intelligence (GAI).
 
 ---
 

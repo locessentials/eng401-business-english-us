@@ -144,7 +144,7 @@ This component evaluates your project management skills, file organization, and 
 
 ### Peer Evaluations
 
-When evaluating other groups' presentations, your work is judged based on the criticial analysis it conveys and the overall quality of the constructive feedback.
+When evaluating other groups' presentations, your work is judged based on the critical analysis it conveys and the overall quality of the constructive feedback.
 
 #### Effective feedback
 - **Detailed and specific** with concrete examples and evidence

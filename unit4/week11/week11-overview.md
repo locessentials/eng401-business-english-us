@@ -13,41 +13,33 @@ has_children: true
 This week focuses on internal corporate communication types, communication channels and their appropriate uses, language register in organizational contexts, and crisis communication terminology and protocols.
 
 ## Topics Covered
-
-### Subtopics
 - **Internal corporate communication types**
 - **Communication channels and their appropriate uses**
 - **Language register in organizational contexts**
 - **Crisis communication terminology and protocols**
 
-## Class Activities
+## Class Activities for the Week
 
-### Tuesday Class Activities
-- Assignment introduction: Corporate Communications Portfolio
+### Course Period 1 (2 hours)
+- Assignment introduction: Corporate Communications Portfolio (Partial Exam 2)
 - Introduction to internal corporate communications
 - Class activity: Analysis of communication formats across different organizational contexts
 - Group work: Identifying appropriate channels and registers for different messages
 
-### Thursday Class Activities  
+### Course Period 2 (2 hours)
 - Workshop: Guidelines for effective internal communications
 - Case study: Crisis communication analysis
 
-## Independent Activities
-
-### Assignment: Corporate Communications Portfolio
-- Create three to four internal communication documents for a fictional organization
-- Each document should demonstrate appropriate tone, format, and terminology
-- Include a brief reflection (250-300 words) on language choices and translation considerations
-- **Due date:** Sunday of Week 11
+### Independent/Group Assignments (and Point Totals)
+- **Assignment: Corporate Communications Portfolio (Partial Exam 2)** (10 points)
+    - Create three to four internal communication documents for a fictional organization
+    - Each document should demonstrate appropriate tone, format, and terminology
+    - Include a brief reflection (250-300 words) on language choices and translation considerations
+    - **Due date:** End of week
+- **Class attendance and participation** (2 points)
 
 ## Learning Resources
-
 - Examples of corporate communications and guidelines
-
-## Assessment
-
-- **Corporate Communications Portfolio - Partial Exam** (10 points)
-- **Class attendance and participation** (2 points)
 
 ---
 

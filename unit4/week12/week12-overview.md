@@ -13,41 +13,34 @@ has_children: true
 This week focuses on leadership styles and personalities, performance management frameworks, giving feedback and performing evaluations, and professional development communication.
 
 ## Topics Covered
-
-### Subtopics
 - **Leadership styles and personalities**
 - **Performance management frameworks**
 - **Giving feedback and performing evaluations**
 - **Professional development communication**
 
-## Class Activities
+## Class Activities for the Week
 
-### Tuesday Class Activities
+### Course Period 1 (2 hours)
 - Assignment introduction: Professional Development Training
 - Introduction to communicating about leadership
 - Group activity: What makes an ideal leader?
 - Discussion: Cultural expectations about the demonstration of leadership
 
-### Thursday Class Activities  
+### Course Period 2 (2 hours)
 - Workshop: Performance Management Frameworks
 - Role-play: Delivering constructive feedback across cultures
 
-## Independent Activities
-
-### Assignment: Professional Development Training
-- Create training materials related to professional development for a skill or competency area related to leadership that you believe employees should develop
-- Your materials should include a training plan, an activity, and an article or presentation that are appropriate for a corporate environment
-- **Due date:** Sunday of Week 12
+### Independent/Group Assignments (and Point Totals)
+- **Assignment: Professional Development Training** (3 points)
+    - Create training materials related to professional development for a skill or competency area related to leadership that you believe employees should develop
+    - Your materials should include a training plan, an activity, and an article or presentation that are appropriate for a corporate environment
+    - **Next week, you can present your training in our Professional Development Day!**
+    - **Due date:** End of week
+- **Class attendance and participation** (2 points)
 
 ## Learning Resources
-
 - Profiles of well-respected leaders
 - Examples of documentation related to performance management
-
-## Assessment
-
-- **Professional Development Training** (3 points)
-- **Class attendance and participation** (2 points)
 
 ---
 

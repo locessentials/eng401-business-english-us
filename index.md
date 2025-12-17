@@ -48,10 +48,9 @@ The course concludes with a **"Show and Tell"** project that simulates authentic
 
 ## 💡 Success Tips
 - **6-8 hours weekly** work expected outside class
-- **Review materials before Tuesday classes** for effective participation
+- **Review materials before class meetings** for effective participation
 - **Start assignments early** to have time for questions
-- **30-minute rule**: Research independently, consult classmates, then contact professor
-- **Active communication**: Professor responds to Teams/email during business days
+- **30-minute rule**: Research independently, consult peers, then contact an expert
 
 ---
 

@@ -5,7 +5,25 @@ parent: Overview
 nav_order: 2
 ---
 
-# Course Policies
+# Suggested Course Policies
+
+TR35 is a four month long course designed to get you actively using language that corresponds to specific areas of business. Working week by week, you'll learn about the text types, stylistic conventions, cultural expectations, and specialized terminology used to communicate about a specific topic. You'll end the course with a Show & Tell project.
+
+## Course Flow
+The course assumes that you're working week by week. Each week's contents begin with an overview, which are followed by lectures and exercises you can do to build up your communication capabilities. The lectures would usually be read before class, and the exercises would be completed during class meetings. The week's materials end with an assignment, or a short communication portfolio project that is related to the topic at hand.
+
+There are 3 partial exams over the four months of the course. The course ends with a final Show & Tell project, in which you'll share with the class your business presentation and reporting skills.
+
+## Overall Grading Structure
+
+| Category | Percentage of Grade | Detailed description of points available |
+| -------- | ------------------- | ---------------------------------------- | 
+| **Attendance & Participation** | 30% | 1 point per class, 2 days a week, 15 weeks required<br>2 extra credit points available for attending more than 30 classes | 
+| **General Assignments** | 30% | 10 assignments x 3 points each<br>3 extra credit points available for completing the 11 available assignments | 
+| **Partial Exams** | 30% | 3 exams × 10 points each | 
+| **Final Project** | 10% | 1 project × 10 points | 
+
+**A great goal:** Get between 95-100 points to get a grade of Excellent!
 
 ## Attendance and Participation
 
@@ -18,18 +36,18 @@ A great deal of success is measured just in showing up where one needs to be at 
   - Attending but clearly unprepared
   - Not attending class
 
-**Absence Policy:**  
-You may miss up to two classes without losing points, provided you have justified your absence in advance or in cases of medical or family emergencies. In case of emergency, you must notify the professor by email as soon as possible.
+**Class Meeting Details:**  
+- **More than 30 total meetings available** during this course
+- **Perfect attendance:** An excellent foundation to success that is rewarded in this class. Attend all available class meetings and get up to **2 extra credit points.**
 
 ## Late Assignment Policy
 
-You may submit up to two assignments late without affecting your grade, provided you have previously agreed with the course professor to submit late, or in cases of emergency. 
+Late assignments are not generally accepted in this course. For people taking the course who have justified absences or if you have arranged in advance for an absence, you may turn in a limited number of late assignments.
 
 **Late Submission Guidelines:**
-- Assignments submitted late must be submitted within **five business days** from the original due date to receive full or partial credit
-- If late submission has not been previously agreed upon:
-  - **General assignments:** Lose 1 point from the total available points every two days
-  - **Partial exams:** Lose 20% of total available points per day
+- Late assignments should be submitted within the new time frame established by the student and approved by the instructor.
+- **General assignments:** Not accepted without prior arrangements.
+- **Partial exams:** Lose 20% of total available points per day
 
 ## Group Work Policy
 
@@ -45,6 +63,36 @@ Group work is an essential component of this course, particularly for the final 
 - Should you fail to contribute to a group assignment, you will receive **0 points** for that assignment
 - **Repeated offenses** may result in you being removed from a group and **failing the class**
 - Repeatedly missing group meetings without valid justification will be treated as non-participation
+
+## Extra Credit Policy
+
+Extra credit is designed to reward exceptional effort and consistency, not to replace missed regular coursework. Students who consistently attend and complete assignments should not need extra credit to succeed.
+
+**Perfect Attendance Extra Credit (2 points):**
+- Students who attend **over 30 class meetings** can earn up to **2 extra credit points**
+
+**Extra Credit for Completing all General Assignments (3 points):**
+- This course has **11 general assignments available** worth 3 points each
+- Anyone who completes all 11 assignments can earn up to **3 extra credit points**
+- You can also skip 1 general assignment entirely and still claim the 30 available points for this part of your grade.
+
+**Custom Assignment Extra Credit (3 points):**
+- Students may design their own course assignment equivalent in scope to regular assignments
+- Assignment must connect to course content and include clear deliverables
+- Must be submitted for approval by **Week 10**
+- Must be completed by **Week 15** (no extra credit during final project weeks)
+- Student provides self-assessment rubric to minimize professor workload
+
+**Emerging Trends Zine Editor Extra Credit Opportunity (3 points)**
+- In week 15, the final partial exam requires students to make a creative contribution to our class zine.
+- Be one of the editors who puts these contributions together into a zine, and you can earn up to 3 extra credit points.
+
+**Extra Credit Limitations:**
+- Maximum 5 points total (5% of final grade)
+- Cannot exceed 100% in the course
+- No extra credit available during weeks 16-18 (final project period)
+
+For detailed information about custom assignment options, see the [Extra Credit Assignment](extra-credit.md) page.
 
 ## AI Usage Policy
 
@@ -63,29 +111,6 @@ Being able to form your own opinion without AI influence and then strengthen it 
 - Use AI as a revision and enhancement tool, not as a starting point
 - Always maintain your authentic voice and perspective in final submissions
 
-## Extra Credit Policy
-
-Extra credit is designed to reward exceptional effort and consistency, not to replace missed regular coursework. Students who consistently attend and complete assignments should not need extra credit to succeed.
-
-**Perfect Attendance Extra Credit (2 points):**
-- Attendance tracking begins Week 2 (32 total class meetings)
-- Students can miss up to 2 classes without losing points, since we have 32 classes and attendance is worth 30 total points
-- Students who attend all 32 remaining classes earn 2 extra credit points
-
-**Custom Assignment Extra Credit (3 points):**
-- Students may design their own course assignment equivalent in scope to regular assignments
-- Assignment must connect to course content and include clear deliverables
-- Must be submitted for approval by **Week 10**
-- Must be completed by **Week 15** (no extra credit during final project weeks)
-- Student provides self-assessment rubric to minimize professor workload
-
-**Extra Credit Limitations:**
-- Maximum 5 points total (5% of final grade)
-- Cannot exceed 100% in the course
-- No extra credit available during Weeks 16-17 (final project period)
-
-For detailed information about custom assignment options, see the [Extra Credit Assignment](extra-credit.md) page.
-
 ## Academic Integrity
 
 In this course you must submit original work. This means that, while you can and should cite your sources, the work must reflect your own analysis and perspective. For many assignments, the use of generative AI is permitted following the AI usage guidelines above.
@@ -99,14 +124,9 @@ Plagiarism of work from other students or online resources, as well as submissio
 ## Success Tips
 
 - The course requires **6-8 hours of weekly work** outside of class. Generally you will have one assignment per week.
-
-- **Review materials before Tuesday classes** to participate effectively.
-
+- **Review materials before class meetings** to participate effectively.
 - **Start assignments early** to have time to resolve questions.
-
-- **30-minute rule:** First research independently, then consult with classmates, and if after 30 minutes you don't find a solution, contact the professor.
-
-- The professor responds to messages during business days via Teams or email.
+- **30-minute rule:** First research independently, then consult with peers, and if after 30 minutes you don't find a solution, contact an expert.
 
 ---
 

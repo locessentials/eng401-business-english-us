@@ -2,7 +2,7 @@
 layout: default
 title: Takeaways
 parent: Final Project
-nav_order: 4
+nav_order: 5
 ---
 
 # Takeaways from the Final Project

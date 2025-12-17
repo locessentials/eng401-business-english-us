@@ -6,7 +6,7 @@ nav_order: 1
 
 # TR35: Business English
 
-Welcome to Business English, a course designed to deepen your understanding of business language and documentation in English across different professional contexts. This course builds on the foundation established in Business English I, focusing on specialized vocabulary, communication strategies, and document types essential for international business environments.
+Welcome to Business English, a course designed to deepen your understanding of business language and documentation in English across different professional contexts. This course focuses on specialized vocabulary, communication strategies, and document types essential for international business environments, particularly in the United States.
 
 ## 📱 Course Designer
 **Professor**: Alaina Brandt  

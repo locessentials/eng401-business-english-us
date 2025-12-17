@@ -13,39 +13,31 @@ has_children: true
 This week focuses on written business communication formats, audience awareness and purpose-driven communication, and digital communication etiquette.
 
 ## Topics Covered
-
-### Subtopics
 - **Written business communication formats** (emails, memos, reports)
 - **Audience awareness and purpose-driven communication**
 - **Digital communication etiquette**
 
-## Class Activities
+## Class Activities for the Week
 
-### Tuesday Class Activities
+### Course Period 1 (2 hours)
 - Course introduction and overview of the learning guide
-- Introduction to final project (proyecto integrador): Show & Tell
+- Introduction to final project: Show & Tell
 - Group discussion on communication challenges when communicating via email
 - Interactive analysis of effective vs. ineffective business emails
 
-### Thursday Class Activities  
+### Course Period 2 (2 hours)
 - Workshop: Drafting professional emails for different scenarios
 - Peer review activity using business writing evaluation criteria
 - Preview of what's ahead in week 2
 
-## Independent Activities
-
-### Assignment
-- Review the learning guide and familiarize yourself with the final project for the course
+### Independent Assignment (and Point Totals)
+- Familiarize yourself with the Course Overview and the Final Project
+- **Class attendance and participation** (2 points)
 
 ## Learning Resources
-
 - Course learning guide
 - Examples of effective vs. ineffective business emails
 - Scenarios for drafting professional emails
-
-## Assessment
-
-- There are no assessments this week.
 
 ---
 

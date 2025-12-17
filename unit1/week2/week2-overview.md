@@ -13,45 +13,37 @@ has_children: true
 This week focuses on the structure of effective business presentations, visual aids and data visualization, and delivery techniques and body language.
 
 ## Topics Covered
-
-### Subtopics
 - **Structure of effective business presentations**
 - **Visual aids and data visualization**
 - **Delivery techniques and body language**
 
-## Class Activities
+## Class Activities for the Week
 
 ### Preparation
 - Please find an example of an exemplary business presentation to bring to class on Tuesday
-- Please do the readings associated with Tuesday's activities
+- Please do the readings associated with Tuesday’s activities
 
-### Tuesday Class Activities
+### Course Period 1 (2 hours)
 - Assignment introduction: Mini-Presentation
 - Analysis of exemplary business presentations
 - Techniques for organizing content effectively
 - Creating compelling visual aids for business audiences
 - Planning session for mini-presentations
 
-### Thursday Class Activities
+### Course Period 2 (2 hours)
 - Workshop on delivery techniques and managing presentation anxiety
 - Practice sessions with peer feedback
 
-## Independent Activities
-
-### Assignment: Mini-Presentation
-- Prepare a 3-minute mini-presentation on a business trend or innovation
-- Create 3-5 professional slides to support your presentation
-- **Due date:** Sunday of Week 2
+### Independent/Group Assignments (and Point Totals)
+- **Assignment: Mini-Presentation** (3 points)
+    - Prepare a 3-minute mini-presentation on a business trend or innovation
+    - Create 3-5 professional slides to support your presentation
+    - **Due date:** End of week
+- **Class attendance and participation** (2 points)
 
 ## Learning Resources
-
 - Examples of exemplary business presentations
 - Show & Tell (Presentation & Report) format for business communications
-
-## Assessment
-
-- **Mini-Presentation** (3 points)
-- **Class attendance and participation** (2 points)
 
 ---
 

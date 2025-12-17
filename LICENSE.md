@@ -1,7 +1,7 @@
 ---
 layout: default
 title: License
-nav_order: 10
+nav_order: 11
 ---
 
 # Creative Commons Attribution 4.0 International License

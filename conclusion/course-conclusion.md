@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Course Conclusion
-nav_order: 9
+nav_order: 10
 ---
 
 # Course Conclusion: Your Business English Journey

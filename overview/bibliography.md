@@ -112,4 +112,7 @@ Copy the downloaded bibliography and try these prompts:
 - "How can I evaluate if a business article is credible and current?"
 - "Create a research strategy for finding resources about [specific business topic]"
 
+---
+
+**Next:** Learn about the [Course Designer: Alaina Brandt](about-the-course-designer.md)
 

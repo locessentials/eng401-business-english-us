@@ -89,4 +89,4 @@ This is real professional practice—translators in the industry collaborate exa
 
 ---
 
-**Congratulations!** You've completed the Course Overview section. Ready to dive into [Unit 1: Business Communication & Ethics](../unit1/unit1-overview.md)?
+**Congratulations!** You've completed the Course Overview section. Next, please check out our class [Emerging Trends Zine](../emerging-trends-zine/zine-page.md). You'll contribute to a class issue or a special individual release in week 15. :)

@@ -13,8 +13,6 @@ has_children: true
 This week focuses on regulatory frameworks for businesses in Mexico and the US, industry-specific compliance requirements, comparative regulatory analysis, and technical vocabulary in business regulations.
 
 ## Topics Covered
-
-### Subtopics
 - **Regulatory frameworks for businesses in Mexico and the US**
 - **Industry-specific compliance requirements**
 - **Comparative regulatory analysis**
@@ -22,33 +20,27 @@ This week focuses on regulatory frameworks for businesses in Mexico and the US, 
 
 ## Class Activities
 
-### Tuesday Class Activities
+### Course Period 1 (2 hours)
 - Assignment introduction: Cross-Border Regulatory Comparison Report
 - Comparative analysis: Mexican vs. US regulatory approaches
 - Class activity: Matching industries with their primary regulatory considerations
 - Group work: Identifying key compliance vocabulary and points in authentic regulatory documents
 
-### Thursday Class Activities
+### Course Period 2 (2 hours)
 - Case study: US startup entering the Mexican market - regulatory challenges
 - Workshop: Researching regulatory requirements across borders
 
-## Independent Activities
-
-### Assignment: Cross-Border Regulatory Comparison Report
-- Select a specific industry/product for a hypothetical US startup entering Mexico
-- Research one key Mexican business regulation affecting their chosen industry/product
-- Compare this regulation with the corresponding regulation in the United States
-- **Due date:** Sunday of Week 6
+### Independent/Group Assignments (and Point Totals)
+- **Assignment: Cross-Border Regulatory Comparison Report** (3 points)
+    - Select a specific industry/product for a hypothetical US startup entering Mexico
+    - Research one key Mexican business regulation affecting their chosen industry/product
+    - Compare this regulation with the corresponding regulation in the United States
+    - **Due date:** End of week
+- **Class attendance and participation** (2 points)
 
 ## Learning Resources
-
 - Regulatory terminology glossaries
 - Template: Structure and language for comparative regulatory reports
-
-## Assessment
-
-- **Cross-Border Regulatory Comparison Report** (3 points)
-- **Class attendance and participation** (2 points)
 
 ---
 

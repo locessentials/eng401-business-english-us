@@ -13,8 +13,6 @@ has_children: true
 This week focuses on legal document structures and conventions, contract terminology and commonly used phrases, non-disclosure agreements and confidentiality clauses, and privacy policies and data protection language.
 
 ## Topics Covered
-
-### Subtopics
 - **Legal document structures and conventions**
 - **Contract terminology and commonly used phrases**
 - **Non-disclosure agreements and confidentiality clauses**
@@ -22,32 +20,26 @@ This week focuses on legal document structures and conventions, contract termino
 
 ## Class Activities
 
-### Tuesday Class Activities
+### Course Period 1 (2 hours)
 - Assignment introduction: Contract Negotiation
 - Introduction to legal English in business contexts
 - Comparison of legal language across different business documents
 - Group activity: Analysis of key components and specialized terminology in contracts, terms and conditions, and privacy policies
 
-### Thursday Class Activities
+### Course Period 2 (2 hours)
 - Workshop: Understanding NDAs
 - Group activity: Negotiating an NDA
 
-## Independent Activities
-
-### Assignment: Contract Negotiation
-- Annotate a business contract so that the terms within are agreeable to you
-- Comment on your annotations explaining your position
-- **Due date:** Sunday of Week 4
+### Independent/Group Assignments (and Point Totals)
+- **Assignment: Contract Negotiation (3 points)**
+    - Annotate a business contract so that the terms within are agreeable to you
+    - Comment on your annotations explaining your position
+- **Due date:** End of week
+- **Class attendance and participation** (2 points)
 
 ## Learning Resources
-
 - Example contracts
-- 9 Clauses to Include in Every NDA by Axial
-
-## Assessment
-
-- **Contract Negotiation** (3 points)
-- **Class attendance and participation** (2 points)
+- [9 Clauses to Include in Every NDA by Axial](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week4/references/Axial_9-Clauses-to-Include-in-Every-NDA.pdf)
 
 ---
 

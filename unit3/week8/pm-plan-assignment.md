@@ -169,12 +169,11 @@ Consider these questions as you develop your plan:
 
 ---
 
-## 📥 Download This Assignment
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit3/week8/project-management-plan-assignment.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit3/week8/project-management-plan-assignment.md) and download it!
-
-### 🤖 AI Study Prompts
-After creating your project management plan, enhance your learning with these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Review my project management plan and suggest improvements to my risk register"
 - "What project management methodology would work best for [describe your project], and why?"
 - "Help me identify additional risks I should consider for a project involving [describe your project type]"

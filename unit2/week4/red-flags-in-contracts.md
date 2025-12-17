@@ -246,12 +246,11 @@ Contract lawyers often include as many restrictive clauses as possible, knowing 
 
 ---
 
-## 📥 Download This Activity
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week4/red-flags-in-contracts.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week4/red-flags-in-contracts.md) and download it!
-
-### 🤖 AI Study Prompts
-After reviewing these contract red flags, deepen your analysis with these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Based on these contract examples, what are the most important clauses for new translation professionals to negotiate?"
 - "How can I build leverage to avoid accepting unfair contract terms early in my career?"
 - "What are ethical alternatives to problematic industry practices in translation contracts?"

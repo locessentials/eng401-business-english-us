@@ -161,9 +161,16 @@ The lessons learned have been incorporated into training materials and are now s
 
 ---
 
-## 📥 Download This Content
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit3/week9/quality-improvement-example.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit3/week9/quality-improvement-example.md) and download it!
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
+- "How in the world is it possible that companies are releasing products with issues as bad as this?"
+- "What are some basic tips that could be given to help organizations avoid ending up on Localization Fails lists?"
+- "Could you explain some of the major differences between Spanish for Spain and Spanish for Latin America?"
+- "Is there such as thing as Spanish for Latin America?"
+- "Explain why there's no such thing as International or a neutral Spanish."
 
 ---
 

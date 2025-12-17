@@ -215,14 +215,11 @@ As you work through the DDR self-evaluation, consider these questions:
 
 ---
 
-## 📥 Download This Content
-
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week14/due-diligence-reviews.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week14/due-diligence-reviews.md) and download it.
 
 ### 🤖 GAI Study Prompts
-
-Use these prompts to enhance your learning about due diligence reviews:
-
+Copy the downloaded content and try it with these prompts:
 - "I completed a DDR self-evaluation and identified these security gaps: [list gaps]. Help me create a realistic action plan to address these issues, prioritized by risk level and ease of implementation."
 - "Explain the difference between encryption, password protection, and access controls. When should I use each one?"
 - "Help me create a simple privacy policy appropriate for a freelance. What key elements must it include?"

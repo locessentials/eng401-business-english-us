@@ -110,11 +110,11 @@ Plagiarism of work from other students or online resources, as well as submissio
 
 ---
 
-## 📥 Download Course Policies
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/overview/policies.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/overview/policies.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded policies and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Explain the difference between appropriate and inappropriate AI usage for this course"
 - "What strategies can I use to be better prepared for class participation?"
 - "How should I organize my group work to ensure equal contribution from all members?"

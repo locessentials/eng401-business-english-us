@@ -265,12 +265,11 @@ Create a brief analysis (300-500 words) that includes:
 
 ---
 
-## 📥 Download This Activity
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week4/understanding-typical-contracts.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week4/understanding-typical-contracts.md) and download it!
-
-### 🤖 AI Study Prompts
-After analyzing typical contracts, enhance your understanding with these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Based on these contract examples, what are the key differences between fair and exploitative agreements in the translation industry?"
 - "How can I prepare to negotiate contract terms that protect my interests as a freelance translator?"
 - "What questions should I ask before signing any professional agreement in the language services industry?"

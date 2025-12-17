@@ -179,12 +179,11 @@ Through this peer review process, you will:
 
 ---
 
-## 📥 Download Peer Review Instructions
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week1/email-peer-review.md) and download it.
 
-**Activity Instructions:** Find these instructions [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week1/email-peer-review.md) and download it!
-
-### 🤖 AI Study Prompts
-After completing your peer reviews, deepen your understanding with these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Based on the emails I reviewed, what are 3 patterns I should notice in effective business communication?"
 - "How can I apply the feedback strategies I used today to improve my own professional writing?"
 - "What are the most common mistakes in business email writing that I should avoid?"

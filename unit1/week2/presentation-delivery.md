@@ -132,12 +132,11 @@ Remember: Even experienced presenters feel nervous. The goal isn't to eliminate 
 
 ---
 
-## 📥 Download This Activity
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week2/presentation-delivery.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week2/presentation-delivery.md) and download it!
-
-### 🤖 AI Study Prompts
-After completing this lesson and reflection, enhance your skills with these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Based on my personal confidence strategy, what are 3 additional techniques for managing presentation anxiety specific to non-native English speakers?"
 - "How do presentation delivery expectations differ across business cultures, and how can I adapt my style accordingly?"
 - "What are effective recovery strategies when technical difficulties or mistakes occur during important business presentations?"

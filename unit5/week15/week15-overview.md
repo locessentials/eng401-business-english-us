@@ -50,11 +50,11 @@ This week focuses on business innovation terminology and concepts, sustainable b
 
 ---
 
-## 📥 Download Week 15 Content
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week15/week15-overview.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week15/week15-overview.md) and download it.
 
 ### 🤖 GAI Study Prompts
-Copy the downloaded week content and try these prompts:
+Copy the downloaded content and try it with these prompts:
 - "Explain what a zine is and the text types that one is likely to find in a zine"
 - "Use the following digital transformation terminology in common business contexts"
 - "Create examples of ESG reporting vocabulary with real business applications"

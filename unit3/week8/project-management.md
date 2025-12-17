@@ -174,13 +174,11 @@ If you haven't used project management platforms before, research one of the too
 
 ---
 
-## 📥 Download This Content
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit3/week8/project-management.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit3/week8/project-management.md) and download it!
-
-### 🤖 AI Study Prompts
-Copy the downloaded content and try these prompts:
-
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me create a Gantt chart for [describe your project type]"
 - "What are the most critical risks I should consider for [specific project type] and how should I document them?"
 - "Generate a query tracker template customized for [your industry or project type]"

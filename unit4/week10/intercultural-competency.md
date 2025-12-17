@@ -87,13 +87,11 @@ Pick one of these areas, review the contents associated with that skill, and the
 | [Building Relationships](https://ecampusontario.pressbooks.pub/interculturalcompetence/chapter/building-relationships%e2%80%af) | - What intentional steps can you take to move beyond superficial interactions and develop deeper relationships with people from different cultural backgrounds?<br>- How might relationship-building practices differ across cultures (pace, directness, appropriate topics, role of humor)? How can you remain authentic while adapting to these differences?<br>- In your professional context (translation/interpretation), how can you build trust and rapport with clients from diverse backgrounds while maintaining professional boundaries? |
 | [Developing Empathy](https://ecampusontario.pressbooks.pub/interculturalcompetence/chapter/developing-empathy%e2%80%af) | - Reflect on the difference between empathy and sympathy in intercultural contexts. When might trying to "relate" to someone's experience actually create distance rather than connection?<br>- How can you develop empathy for cultural experiences or perspectives that are completely outside your own frame of reference?<br>- In your work as a language professional, how might cultural empathy enhance your ability to capture not just the words, but the emotional and cultural context of a message? |
 
-## 📥 Download This Content
-
-Find this file [on our repo](https://raw.githubusercontent.com/alainamb/uic_tr35-business-english-II/main/unit4/week10/intercultural-competency.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://raw.githubusercontent.com/alainamb/uic_tr35-business-english-II/main/unit4/week10/intercultural-competency.md) and download it.
 
 ### 🤖 GAI Study Prompts
-Copy the downloaded content and try these prompts:
-
+Copy the downloaded content and try it with these prompts:
 - "Help me create a personal development plan for improving my intercultural skills based on Deardorff's model."
 - "I sometimes struggle with [specific intercultural challenge]. Suggest three concrete pratices I could try to improve in this area."
 - "Create a role-play scenario that would help me practice intercultural competence in a professional translation/interpretation context."

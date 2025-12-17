@@ -150,7 +150,7 @@ The global business community needs skilled professionals who can bridge communi
 Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/conclusion/course-conclusion.md) and download it.
 
 ### 🤖 GAI Study Prompts
-Copy the downloaded conclusion and try these prompts:
+Copy the downloaded content and try it with these prompts:
 - "Help me create a professional development plan based on my Business English II completion"
 - "How can I effectively showcase my business English specialization to potential employers?"
 - "Create a timeline for implementing the next steps suggested in the course conclusion"

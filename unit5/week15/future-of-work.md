@@ -214,13 +214,11 @@ As you prepare your zine contribution, consider: What future are you helping to 
 
 ---
 
-## 📥 Download This Content
-
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week15/future-of-work.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week15/future-of-work.md) and download it.
 
 ### 🤖 GAI Study Prompts
-Copy the downloaded content and try these prompts:
-
+Copy the downloaded content and try it with these prompts:
 - "Help me develop my 'ideal work scenario' into a more detailed speculative fiction piece"
 - "What are examples of successful worker cooperatives or alternative business models around the world?"
 - "Generate questions that help me think more deeply about what makes work meaningful to me"

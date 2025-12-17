@@ -158,14 +158,11 @@ As you explore data security laws and standards this week, consider:
 
 ---
 
-## 📥 Download This Content
-
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week14/data-security.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week14/data-security.md) and download it.
 
 ### 🤖 GAI Study Prompts
-
-Use these prompts to enhance your learning about data security laws and standards:
-
+Copy the downloaded content and try it with these prompts:
 - "Explain the key differences between ISO 27001 (an international standard) and laws like CCPA/CPRA and LFPDPPP. Why would an organization pursue ISO 27001 certification if they're already complying with data protection laws?"
 - "I'm reviewing Section [X] of ISO 27001 Annex A. Help me understand what these controls mean in practical terms and how businesses could implement them."
 - "What is 'personal information' or 'personal data' under California and Mexico laws? Give me 10 examples that might appear in content, ranging from obvious (like names) to less obvious."

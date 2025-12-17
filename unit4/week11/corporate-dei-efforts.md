@@ -130,11 +130,11 @@ Consider these questions as you think about navigating authenticity and politica
 
 ---
 
-## 📥 Download This Content
-Find this file [on our repo](https://raw.githubusercontent.com/alainamb/uic_tr35-business-english-II/main/unit4/week11/navigating-authenticity-dei.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://raw.githubusercontent.com/alainamb/uic_tr35-business-english-II/main/unit4/week11/navigating-authenticity-dei.md) and download it.
 
 ### 🤖 GAI Study Prompts
-Copy the downloaded content and try these prompts:
+Copy the downloaded content and try it with these prompts:
 - "What are some additional examples of organizations successfully addressing DEI issues through internal communication?"
 - "How might tone policing manifest differently in different cultural or organizational contexts?"
 - "What communication strategies can help surface difficult topics like discrimination without requiring individuals to risk their credibility or career?"

@@ -149,11 +149,11 @@ After completing the glossary, we'll discuss:
 
 ---
 
-## 📥 Download This Content
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week5/financial-terminology.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week5/financial-terminology.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded content and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me understand the difference between [specific financial term] and [another term]"
 - "What are the most challenging translation issues for financial terminology between English and Spanish?"
 - "Create practice sentences using financial vocabulary in business contexts"

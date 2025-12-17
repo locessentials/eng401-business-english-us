@@ -115,11 +115,11 @@ After completing the research table, we'll discuss:
 
 ---
 
-## 📥 Download This Content
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week6/industry-specific-frameworks.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week6/industry-specific-frameworks.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded content and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me research regulatory requirements for [specific industry] in Mexico and the United States"
 - "What are the main government agencies that regulate [industry] in both countries?"
 - "Explain the key compliance challenges for companies in [industry] operating across the Mexico-U.S. border"

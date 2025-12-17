@@ -52,11 +52,11 @@ Each week builds upon the previous one, introducing increasingly specialized voc
 
 ---
 
-## 📥 Download Unit 3 Overview
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit3/unit3-overview.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit3/unit3-overview.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded unit overview and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me understand how technical specifications, production processes, and quality management connect"
 - "Create a study plan for mastering Unit 3 objectives over 3 weeks"  
 - "What are key technical vocabulary terms I should focus on as a future translator?"

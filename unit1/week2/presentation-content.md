@@ -105,12 +105,11 @@ Found excellent resources during your research? Please share them in our Teams c
 
 ---
 
-## 📥 Download This Activity
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week2/presentation-content.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week2/presentation-content.md) and download it!
-
-### 🤖 AI Study Prompts
-After working through these resources, deepen your understanding with these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Based on these content organization techniques, what are 3 additional frameworks for structuring business presentations in my field?"
 - "How should visual design principles differ when presenting to international vs. domestic business audiences?"
 - "What are emerging trends in business presentation design that incorporate accessibility and inclusion?"

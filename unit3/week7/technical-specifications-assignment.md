@@ -113,12 +113,11 @@ Consider these questions as you work:
 
 ---
 
-## 📥 Download This Assignment
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit3/week7/technical-specifications-assignment.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit3/week7/technical-specifications-assignment.md) and download it!
-
-### 🤖 AI Study Prompts
-After completing your technical specifications, enhance your learning with these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me identify potential gaps or missing parameters in my specifications template for [your chosen industry]"
 - "What do I do when I learn that the specifications I have for a project need to change?"
 - "Generate realistic client scenarios that would require modifications to my specifications template"

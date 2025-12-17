@@ -78,11 +78,11 @@ Rate your confidence (1-5 scale) in these Unit 2 competencies:
 
 ---
 
-## 📥 Download Unit 2 Conclusion
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/unit2-conclusion.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/unit2-conclusion.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded conclusion and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me reflect on my Unit 2 learning and create a personalized legal/financial vocabulary study plan"
 - "How do legal and financial frameworks connect to production and quality management?"
 - "Generate practice scenarios combining contract analysis, financial reporting, and regulatory compliance"

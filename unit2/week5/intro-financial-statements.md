@@ -74,11 +74,11 @@ Throughout this week, we'll use real company examples to see how these concepts 
 
 ---
 
-## 📥 Download This Content
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week5/intro-financial-statements.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week5/intro-financial-statements.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded content and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Explain the difference between balance sheets and income statements in simple terms"
 - "What types of business decisions would require understanding financial statements?"
 - "Create a scenario where a translation professional needs to understand these documents"

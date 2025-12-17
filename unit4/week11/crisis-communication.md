@@ -217,11 +217,11 @@ Consider these questions as you think about crisis communication and organizatio
 
 ---
 
-## 📥 Download This Content
-Find this file [on our repo](https://raw.githubusercontent.com/alainamb/uic_tr35-business-english-II/main/unit4/week11/crisis-communication.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://raw.githubusercontent.com/alainamb/uic_tr35-business-english-II/main/unit4/week11/crisis-communication.md) and download it.
 
 ### 🤖 GAI Study Prompts
-Copy the downloaded content and try these prompts:
+Copy the downloaded content and try it with these prompts:
 - "What are additional examples of organizations that handled crisis communication well or poorly? Analyze what made the difference."
 - "How should crisis communication strategies differ for different types of crises (layoffs vs. data breaches vs. workplace safety incidents)?"
 - "Create a crisis communication template for [specific scenario] that incorporates the principles discussed in this lesson."

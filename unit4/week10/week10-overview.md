@@ -51,11 +51,11 @@ This week focuses on interculturally competent teamwork, technical documentation
 
 ---
 
-## 📥 Download Week 10 Content
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week10/week10-overview.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week10/week10-overview.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded week content and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me understand cultural differences in teamwork expectations"
 - "Create a framework for analyzing intercultural team dynamics"
 - "What are the key components of an effective team charter?"

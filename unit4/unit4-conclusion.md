@@ -78,11 +78,11 @@ Rate your confidence (1-5 scale) in these Unit 4 competencies:
 
 ---
 
-## 📥 Download Unit 4 Conclusion
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/unit4-conclusion.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/unit4-conclusion.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded conclusion and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me reflect on my Unit 4 learning and identify areas for improvement"
 - "Create a study plan to reinforce my Unit 4 skills while preparing for global business contexts"
 - "How do the Unit 4 people skills prepare me for international business scenarios?"

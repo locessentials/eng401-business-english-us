@@ -134,12 +134,11 @@ Follow the report format outlined below to create a professional consulting docu
 
 ---
 
-## 📥 Download This Assignment
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week6/regulatory-comparison-assignment.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week6/regulatory-comparison-assignment.md) and download it!
-
-### 🤖 AI Study Prompts
-Use these prompts to help with your research and writing:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me research [specific regulation] requirements in Mexico for [industry]"
 - "Compare regulatory requirements between Mexico and the US for [specific business activity]"
 - "What are the key compliance steps for a US company entering the Mexican [industry] market?"

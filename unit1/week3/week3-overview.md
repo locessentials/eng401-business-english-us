@@ -58,11 +58,11 @@ This week focuses on ethical frameworks in business decision-making, corporate s
 
 ---
 
-## 📥 Download Week 3 Content
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week3/week3-overview.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week3/week3-overview.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded week content and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me analyze an ethical business dilemma using different frameworks"
 - "What are key differences in business ethics across cultures?"
 - "Create scenarios for practicing ethical communication in business"

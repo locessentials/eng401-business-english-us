@@ -79,11 +79,11 @@ Rate your confidence (1-5 scale) in these Unit 3 competencies:
 
 ---
 
-## 📥 Download Unit 3 Conclusion
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit3/unit3-conclusion.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit3/unit3-conclusion.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded conclusion and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me reflect on my Unit 3 learning and identify areas for improvement"
 - "Create a study plan to reinforce my Unit 3 skills while learning Unit 4"
 - "How do the Unit 3 skills prepare me for people management and business relationships?"

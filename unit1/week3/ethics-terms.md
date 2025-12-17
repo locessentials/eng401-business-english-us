@@ -77,12 +77,11 @@ As you learn these formal terms, think about how they apply to these real-world 
 
 ---
 
-## 📥 Download This Activity
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week3/ethics-terms.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week3/ethics-terms.md) and download it!
-
-### 🤖 AI Study Prompts
-After completing your ethics vocabulary work, deepen your understanding with these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Based on the ethical terms I studied, what are additional ethical frameworks that apply specifically to translation and localization work?"
 - "How do these formal ethical concepts relate to real dilemmas that language professionals face?"
 - "What ethical terminology should I know when discussing professional standards with clients or colleagues?"

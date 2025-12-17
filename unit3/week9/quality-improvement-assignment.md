@@ -229,12 +229,11 @@ Consider these questions as you develop your plan:
 
 ---
 
-## 📥 Download This Assignment
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit3/week9/quality-improvement-assignment.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit3/week9/quality-improvement-assignment.md) and download it!
-
-### 🤖 AI Study Prompts
-After creating your quality improvement plan, enhance your learning with these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Review my root cause analysis and suggest whether I've gone deep enough to identify true root causes or just symptoms"
 - "Help me ensure my preventive actions address the root causes I identified—check for any gaps"
 - "Critique my quality improvement plan: are my corrective and preventive actions realistic and implementable?"

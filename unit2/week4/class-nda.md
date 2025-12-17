@@ -174,12 +174,11 @@ This NDA analysis develops skills you'll use throughout your career:
 
 ---
 
-## 📥 Download This Activity
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week4/class-nda.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week4/class-nda.md) and download it!
-
-### 🤖 AI Study Prompts
-After analyzing the class NDA, enhance your understanding with these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Based on my analysis of this NDA, what are the most important clauses to negotiate in translation and localization contracts?"
 - "How can I prepare to discuss contract concerns professionally with clients or employers?"
 - "What additional legal protections should freelance translators consider when reviewing NDAs?"

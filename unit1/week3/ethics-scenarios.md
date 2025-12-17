@@ -100,12 +100,11 @@ You notice that the CAT tool your team uses consistently provides lower quality 
 
 ---
 
-## 📥 Download This Activity
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week3/ethics-scenarios.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week3/ethics-scenarios.md) and download it!
-
-### 🤖 AI Study Prompts
-After reviewing these scenarios, develop your analytical thinking with these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "What additional ethical scenarios might emerge in the language industry as AI technology continues to develop?"
 - "How do power imbalances in the translation industry create or complicate these ethical dilemmas?"
 - "What professional frameworks or industry guidelines help address these types of ethical challenges?"

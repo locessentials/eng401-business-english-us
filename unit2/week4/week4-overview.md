@@ -51,11 +51,11 @@ This week focuses on legal document structures and conventions, contract termino
 
 ---
 
-## 📥 Download Week 4 Content
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week4/week4-overview.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week4/week4-overview.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded week content and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me understand the key components of business contracts and their terminology"
 - "What are the most important clauses to look for when reviewing an NDA?"
 - "Create practice scenarios for annotating and negotiating contract terms"

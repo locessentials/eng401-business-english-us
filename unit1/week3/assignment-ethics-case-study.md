@@ -188,12 +188,11 @@ You could also look at *culture considerations*, like:
 
 ---
 
-## 📥 Download This Assignment
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week3/assignment-ethics-case-study.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week3/assignment-ethics-case-study.md) and download it!
-
-### 🤖 AI Study Prompts
-After completing your ethics case study, enhance your learning with these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Based on my analysis of this ethical scenario, what are additional strategies for building ethical decision-making skills in professional contexts?"
 - "How can I prepare for ethical dilemmas I might encounter early in my translation/localization career?"
 - "What ongoing practices help professionals maintain ethical standards under workplace pressure?"

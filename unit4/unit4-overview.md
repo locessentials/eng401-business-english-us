@@ -52,11 +52,11 @@ Each week builds upon the previous one, with teamwork competencies supporting ef
 
 ---
 
-## 📥 Download Unit 4 Overview
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/unit4-overview.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/unit4-overview.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded unit overview and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me understand how teamwork, communication, and leadership connect in business contexts"
 - "Create a study plan for mastering Unit 4 objectives over 3 weeks"  
 - "What are key intercultural communication skills I should focus on as a future translator?"

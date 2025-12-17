@@ -52,11 +52,11 @@ This week focuses on production process terminology and workflow concepts, proje
 
 ---
 
-## 📥 Download Week 8 Content
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit3/week8/week8-overview.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit3/week8/week8-overview.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded week content and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me compare Waterfall vs. Agile project management approaches for translation projects"
 - "Create a project management plan template for a business translation project"
 - "What are key differences between Scrum and Kanban methodologies?"

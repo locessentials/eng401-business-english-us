@@ -54,11 +54,11 @@ This week focuses on digital business tools and platforms, cloud computing and S
 
 ---
 
-## 📥 Download Week 14 Content
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week14/week14-overview.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week14/week14-overview.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded week content and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me create a comprehensive Quick Start Guide for [specific SaaS technology]"
 - "What are essential cybersecurity concepts I should understand for business contexts?"
 - "Create examples of digital transformation vocabulary with business applications"

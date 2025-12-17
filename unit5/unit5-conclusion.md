@@ -101,11 +101,11 @@ Your skills in business English, combined with your cultural and linguistic expe
 
 ---
 
-## 📥 Download Unit 5 Conclusion
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/unit5-conclusion.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/unit5-conclusion.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded conclusion and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me create a professional development plan based on my Unit 5 learning"
 - "How can I stay current with emerging business technologies and terminology?"
 - "Create a portfolio outline showcasing my business English specialization skills"

@@ -161,11 +161,11 @@ Consider these questions as you think about the readings and your own experience
 
 ---
 
-## 📥 Download This Content
-Find this file [on our repo](https://raw.githubusercontent.com/alainamb/uic_tr35-business-english-II/main/unit4/week11/internal-communication-foundations.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://raw.githubusercontent.com/alainamb/uic_tr35-business-english-II/main/unit4/week11/internal-communication-foundations.md) and download it.
 
 ### 🤖 GAI Study Prompts
-Copy the downloaded content and try these prompts:
+Copy the downloaded content and try it with these prompts:
 - "What are some additional frameworks for understanding internal organizational communication beyond the three directions discussed?"
 - "Give me practical examples of how to encourage upward communication from employees who may be hesitant to share feedback with management."
 - "What are the key differences between emotional culture and cognitive culture in organizations? How do they interact?"

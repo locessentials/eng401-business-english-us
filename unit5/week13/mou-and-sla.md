@@ -269,13 +269,11 @@ Consider these questions as you learn about MOUs and SLAs:
 
 ---
 
-## 📥 Download This Content
-
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week13/mou-and-sla.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week13/mou-and-sla.md) and download it.
 
 ### 🤖 GAI Study Prompts
-Copy the downloaded content and try these prompts:
-
+Copy the downloaded content and try it with these prompts:
 - "Help me draft an MOU between [describe parties and purpose] that establishes a framework for collaboration"
 - "What SLA metrics would be most appropriate for [specific service type]? Help me define realistic targets."
 - "I'm reviewing an SLA with penalties that seem excessive/insufficient. How should I approach renegotiation?"

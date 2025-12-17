@@ -124,13 +124,11 @@ The goal of investigations into non-conforming outputs are two-fold: we need to 
 
 While the focus of this module is investigating outputs that do not meet acceptable quality thresholds, outputs that exceed acceptable quality thresholds need to be addressed as well. When outputs exceed expectations, it may be that the level of quality provided is too far above the rates being paid for the output. Or an excellent team combination or a better way of running a process may have been discovered, and that excellence is something you’d like to investigate and replicate!
 
-## 📥 Download This Content
-
-Find this file [on our repo](https://raw.githubusercontent.com/alainamb/uic_tr35-business-english-II/main/unit3/week9/quality-mgmt-systems.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://raw.githubusercontent.com/alainamb/uic_tr35-business-english-II/main/unit3/week9/quality-mgmt-systems.md) and download it.
 
 ### 🤖 GAI Study Prompts
-Copy the downloaded content and try these prompts:
-
+Copy the downloaded content and try it with these prompts:
 - "What are the key responsibilities of a quality manager versus a project manager in a production workflow?"
 - "Compare quality management approaches in translation/localization to quality management in [industry of your choice]."
 - "Create a scenario where I need to decide between 'start from scratch,' 'rework,' or 'use as is' for a non-conforming output, and walk me through the decision-making process."

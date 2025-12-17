@@ -333,14 +333,11 @@ As you work on this assignment, consider:
 
 ---
 
-## 📥 Download This Assignment
-
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week14/tech-quick-start-guide-assignment.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week14/tech-quick-start-guide-assignment.md) and download it.
 
 ### 🤖 GAI Study Prompts
-
-Use these prompts to enhance your work on this assignment:
-
+Copy the downloaded content and try it with these prompts:
 - "Help me evaluate whether these tasks I've identified are truly 'essential' for a Quick Start Guide about [technology]"
 - "Review my instructions for [specific task] and suggest how to make them clearer and more concise"
 - "I'm explaining [technical concept] in my guide. Help me find simpler language that a non-technical person would understand"

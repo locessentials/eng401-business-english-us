@@ -20,12 +20,11 @@ We all need to understand that while we operate within many types of narratives 
 
 Do you have any comments about these conclusions about the Interculturally Competent Teamwork topic? Are there any additional resources or experiences you’d like to share to help shape our understanding of this big topic?
 
-## 📥 Download This Content
-
-Find this file [on our repo](https://raw.githubusercontent.com/alainamb/uic_tr35-business-english-II/main/unit4/week10/icc-teamwork-conclusions.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://raw.githubusercontent.com/alainamb/uic_tr35-business-english-II/main/unit4/week10/icc-teamwork-conclusions.md) and download it.
 
 ### 🤖 GAI Study Prompts
-Copy the downloaded content and try these prompts:
+Copy the downloaded content and try it with these prompts:
 
 - "Help me understand intersectionality and how it relates to workplace teamwork"
 - "What are some practical strategies for avoiding cultural stereotypes while still acknowledging cultural differences?"

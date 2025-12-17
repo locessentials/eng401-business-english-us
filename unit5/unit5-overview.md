@@ -52,11 +52,11 @@ This final unit builds on all previous learning and synthesizes your business En
 
 ---
 
-## 📥 Download Unit 5 Overview
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/unit5-overview.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/unit5-overview.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded unit overview and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me understand how international business documentation connects to digital transformation"
 - "Create a study plan for mastering Unit 5 objectives over 3 weeks"
 - "What are key global business skills I should focus on as a future translator in the digital age?"

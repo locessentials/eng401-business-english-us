@@ -112,11 +112,11 @@ Respond thoughtfully to at least one classmate's post
 
 ---
 
-## 📥 Download This Content
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week6/big-regulatory-framework.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week6/big-regulatory-framework.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded content and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me understand the key differences between NAFTA and USMCA/T-MEC"
 - "Explain how Rules of Origin work in trade agreements and why they matter"
 - "What are the most significant changes in labor provisions between the old and new trade agreements?"

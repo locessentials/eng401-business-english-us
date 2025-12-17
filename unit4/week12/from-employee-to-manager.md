@@ -85,16 +85,15 @@ As you work through these materials for new managers, ask yourself these questio
 
 1. As we learned in these resources, being a good manager requires tailoring one's approach to each of their employees. That said, what type of employee am I? How do I prefer that my managers communicate with me? How can I share my preferences with them?
 2. Do I want to be a people manager? In what ways would I be a good people manager? What skills and competencies do I need to develop to be a good people manager?
-3. What are professional development goals that I have? How could I tailor formal employee performance management documents to my professional goals? How can I use my understanding of performance management principles to help my peers acheive their professional development goals?
+3. What are professional development goals that I have? How could I tailor formal employee performance management documents to my professional goals? How can I use my understanding of performance management principles to help my peers achieve their professional development goals?
 
 ---
 
-## 📥 Download This Assignment
-
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week12/from-employee-to-manager.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week12/from-employee-to-manager.md) and download it.
 
 ### 🤖 GAI Study Prompts
-Use these prompts to enhance your work on this assignment:
+Copy the downloaded content and try it with these prompts:
 - "What is a performance improvement plan, and when might I encounter one?"
 - "Write a summary of [one of the articles on this page]. In three sentences, what are three key takeaways that I should have?"
 - "I've just become a new manager. Help me with a plan to navigate my first week, my first month, my first 90 days, and my first year."

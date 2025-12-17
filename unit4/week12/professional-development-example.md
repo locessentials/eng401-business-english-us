@@ -86,9 +86,16 @@ Your final activity in partners is to brainstorm answers together to questions a
 
 ---
 
-## 📥 Download This Content
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week12/professional-development-example.md) and download it.
 
-That's it! You've completed this activity. Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week12/professional-development-example.md) and download it!
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
+- "I'd like to build upon these management skills as a new manager. What are 3 topics you'd suggest that I study next?"
+- "Please explain the motivation behind having difficult conversations."
+- "What **do** we do if a team member is demonstrating a common performance issue?"
+- "What are constructive ways of having these types of conversations that avoid tone policing?"
+- "Please generate 5 different scenarios in which a person is being tone policed. Write a 3-5 sentence narrative story that illustrates each scenario. Also include discussion questions that help guide a person toward understanding that a behavior may be tone policing."
 
 ---
 

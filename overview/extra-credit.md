@@ -140,11 +140,11 @@ Contact Professor Brandt via Teams or email if you need help:
 
 ---
 
-## 📥 Download Extra Credit Information
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/overview/extra-credit.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/overview/extra-credit.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded extra credit information and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me brainstorm a custom assignment idea that matches my career interests in [field]"
 - "Create a timeline for completing my extra credit project by Week 15"
 - "Help me develop a self-assessment rubric for my proposed assignment"

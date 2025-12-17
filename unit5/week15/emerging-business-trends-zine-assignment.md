@@ -248,14 +248,11 @@ You'll mostly have full creative control over the cover design and the order in 
 
 ---
 
-## 📥 Download This Assignment
-
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week15/emerging-business-trends-zine-assignment.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week15/emerging-business-trends-zine-assignment.md) and download it.
 
 ### 🤖 GAI Study Prompts
-
-Use these prompts to enhance your work on this assignment:
-
+Copy the downloaded content and try it with these prompts:
 - "Help me brainstorm statements I could make about [business trend] through a creative zine contribution"
 - "I want to critique [business concept]. What format would be most effective: blackout poetry, manifesto, speculative scenario, or something else?"
 - "Review my draft zine contribution and tell me if my statement about [topic] comes through clearly"

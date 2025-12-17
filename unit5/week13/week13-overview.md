@@ -51,11 +51,11 @@ This week focuses on international business agreement types and formats, Request
 
 ---
 
-## 📥 Download Week 13 Content
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week13/week13-overview.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week13/week13-overview.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded week content and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me identify key components of effective RFPs for international business"
 - "Create practice scenarios for analyzing different types of international business agreements"
 - "What are the main differences between MOUs, SLAs, and RFPs in structure and purpose?"

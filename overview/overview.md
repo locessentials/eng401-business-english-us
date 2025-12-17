@@ -65,7 +65,7 @@ These course contents are designed to be worked through week by week. You're enc
 Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/overview/overview.md) and download it.
 
 ### 🤖 GAI Study Prompts
-Copy the downloaded overview and try these prompts:
+Copy the downloaded content and try it with these prompts:
 - "Help me create a study schedule for this 17-week course"
 - "Explain how these units build on each other progressively"  
 - "What skills from Unit 1 will I need for success in Unit 5?"

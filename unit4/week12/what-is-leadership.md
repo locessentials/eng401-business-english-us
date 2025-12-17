@@ -233,14 +233,11 @@ As you work through the materials in this unit, consider these questions about y
 
 ---
 
-## 📥 Download This Content
-
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week12/what-is-leadership.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week12/what-is-leadership.md) and download it.
 
 ### 🤖 GAI Study Prompts
-
-Use these prompts to enhance your learning about leadership:
-
+Copy the downloaded content and try it with these prompts:
 - "Help me understand the difference between [Framework A] and [Framework B] leadership theories. What situations might favor one over the other?"
 - "I'm researching [specific leadership framework]. Can you help me find examples of organizations or leaders who have explicitly used this approach?"
 - "Generate a scenario where a leader in a translation/localization company faces an ethical dilemma. Walk me through how different leadership frameworks might approach this situation."

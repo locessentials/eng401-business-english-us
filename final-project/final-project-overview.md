@@ -67,11 +67,11 @@ Ready to demonstrate your business English mastery? This final project represent
 
 ---
 
-## 📥 Download Final Project Overview
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/final-project/final-project-overview.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/final-project/final-project-overview.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded project overview and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me understand how to integrate concepts from all 5 units in my final project"
 - "Create a timeline for completing this project effectively over 4 weeks"
 - "What are the key differences between the 'Show' and 'Tell' components and how do they complement each other?"

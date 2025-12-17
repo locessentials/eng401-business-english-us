@@ -219,12 +219,11 @@ Consider these questions as you work on your analysis:
 
 ---
 
-## 📥 Download This Assignment
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week13/intl-business-doc-analysis-assignment.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week13/intl-business-doc-analysis-assignment.md) and download it!
-
-### 🤖 AI Study Prompts
-Use these prompts to enhance your work on this assignment:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me understand the business purpose of [document type I selected] and when it's typically used"
 - "What are the key differences between [document type A] and [document type B] in international business?"
 - "I found these examples of [document type]. Help me identify the common structural elements across them"

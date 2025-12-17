@@ -229,11 +229,11 @@ Your peer evaluations should:
 
 ---
 
-## 📥 Download Final Project Instructions
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/final-project/final-project-instructions.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/final-project/final-project-instructions.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded instructions and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me create a project timeline with specific deadlines for each step"
 - "Generate ideas for dividing responsibilities among 3 team members effectively"
 - "Create a quality checklist for each project component"

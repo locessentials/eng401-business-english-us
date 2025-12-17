@@ -99,13 +99,11 @@ These principles apply across all types of international business documentation,
 
 ---
 
-## 📥 Download This Content
-
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week13/intl-business-documentation.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week13/intl-business-documentation.md) and download it.
 
 ### 🤖 GAI Study Prompts
-Copy the downloaded content and try these prompts:
-
+Copy the downloaded content and try it with these prompts:
 - "What are the key differences between government contracting documentation and private sector business proposals?"
 - "Help me understand why business classifications (women-owned, small business, etc.) matter in government contracting"
 - "What are best practices for organizing complex service documentation for international clients?"

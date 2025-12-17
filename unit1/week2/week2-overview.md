@@ -55,11 +55,11 @@ This week focuses on the structure of effective business presentations, visual a
 
 ---
 
-## 📥 Download Week 2 Content
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week2/week2-overview.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week2/week2-overview.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded week content and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me structure a 3-minute business presentation on [topic]"
 - "What makes business presentations effective vs. ineffective?"
 - "Create ideas for compelling visual aids on business trends"

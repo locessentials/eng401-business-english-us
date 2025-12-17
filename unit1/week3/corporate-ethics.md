@@ -124,12 +124,11 @@ Provide:
 
 ---
 
-## 📥 Download This Activity
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week3/corporate-ethics.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week3/corporate-ethics.md) and download it!
-
-### 🤖 AI Study Prompts
-After completing your analysis, explore further with these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Based on Carr's arguments about business bluffing, what are the ethical boundaries for strategic communication in international business?"
 - "How do different cultural values create ethical challenges for professionals working across borders?"
 - "What ethical frameworks help resolve conflicts between personal values and professional obligations in business?"

@@ -348,13 +348,11 @@ Consider these questions as you learn about RFPs:
 
 ---
 
-## 📥 Download This Content
-
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week13/request-for-proposal.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week13/request-for-proposal.md) and download it.
 
 ### 🤖 GAI Study Prompts
-Copy the downloaded content and try these prompts:
-
+Copy the downloaded content and try it with these prompts:
 - "Help me analyze this RFP [paste RFP text] and identify any unclear requirements or potential problems"
 - "I'm responding to an RFP where the client seems to misunderstand [specific issue]. How can I address this tactfully in my proposal?"
 - "Create a checklist for evaluating whether an RFP is worth responding to"

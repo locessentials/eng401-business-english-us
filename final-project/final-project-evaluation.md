@@ -211,11 +211,11 @@ Your peer evaluations can contribute to your learning by:
 
 ---
 
-## 📥 Download Final Project Evaluation
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/final-project/final-project-evaluation.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/final-project/final-project-evaluation.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded evaluation criteria and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me create a self-assessment checklist based on these evaluation criteria"
 - "What are the key differences between 'meets expectations' and 'exceeds expectations' for each component?"
 - "How can I ensure my project demonstrates integration of all course units?"

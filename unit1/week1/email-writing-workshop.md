@@ -121,12 +121,11 @@ Your completed email drafts will be evaluated by other groups using a business e
 
 ---
 
-## 📥 Download These Workshop Materials
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week1/email-writing-workshop.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week1/email-writing-workshop.md) and download it!
-
-### 🤖 AI Study Prompts
-After completing your group work, enhance your skills with these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "What are 3 additional strategies for handling [your specific scenario type] in business communication?"
 - "How might this email need to be adapted for different cultural business contexts?"
 - "What follow-up communication might be needed after sending this type of email?"

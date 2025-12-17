@@ -10,7 +10,7 @@ nav_order: 4
 **Project Manager:** Alaina Brandt
 
 ## Project Description
-*Action Items Professional* aka *Action Items Pro* is a web application for tracking one's todo list. Todos can be organized according to filters like project and status. The app features both list and schedule views. Estimated and actual completion times can be added to the todos recorded in the app - useful for understanding estimation accuracy and task completion rates.
+[*Action Items Professional*](https://action-items-pro.locessentials.com/) aka *Action Items Pro* is a web application for tracking one's todo list. Todos can be organized according to filters like project and status. The app features both list and schedule views. Estimated and actual completion times can be added to the todos recorded in the app - useful for understanding estimation accuracy and task completion rates.
 
 ## People Involved
 Here is the contact list for the project, along with information about who to contact in specific circumstances.
@@ -87,9 +87,19 @@ All team members have access to these boards and are expected to update their ta
 
 ---
 
-## 📥 Download This Content
+## 📥 Download this Content
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit3/week8/pm-plan-example.md) and download it!
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit3/week8/pm-plan-example.md) and download it.
+
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
+- "What makes this project management plan effective? What gaps does it have?"
+- "What level of team maturity would you say that this team has based on their PM plan?"
+- "What kinds of team projects would it be good to have a project management plan for?"
+- "What do we do when team members don't follow the project management plan?"
+- "What do you think about the Action Items Pro app? Do you think a system like that is good for project organization?"
+- "How can a project management plan be best distributed and maintained?"
+- "What ideas do you have for completely new ways of managing projects? Can you come up with anything that hasn't been tried before?"
 
 ---
 

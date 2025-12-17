@@ -229,12 +229,11 @@ Consider these questions as you develop your portfolio:
 
 ---
 
-## 📥 Download This Assignment
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week11/corporate-communication-portfolio-assignment.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week11/corporate-communication-portfolio-assignment.md) and download it!
-
-### 🤖 AI Study Prompts
-Use these prompts to enhance your work on this assignment:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me identify which stakeholder groups would be most affected by [your change scenario] and what their primary concerns might be"
 - "Review my email announcement and suggest how to make it more empathetic while still being clear and direct"
 - "What are the key differences between writing an FAQ document versus a team meeting script for communicating change?"

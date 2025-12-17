@@ -210,12 +210,11 @@ See the [MercadoLibre Financial Analysis Example](mercadolibre-financial-report.
 
 ---
 
-## 📥 Download This Assignment
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week5/assignment-financial-report.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week5/assignment-financial-report.md) and download it!
-
-### 🤖 AI Study Prompts
-Use these prompts to help with your report:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me turn this screenshot of a balance sheet into an editable table for my report"
 - "Explain what [specific financial term] means in simple business English"
 - "Based on this financial data, help me understand if the company's performance is improving or declining"

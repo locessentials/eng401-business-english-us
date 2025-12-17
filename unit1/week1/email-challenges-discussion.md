@@ -70,12 +70,11 @@ Our discussion today will inform Thursday's workshop where you'll practice draft
 
 ---
 
-## 📥 Download This Activity
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week1/email-challenges-discussion.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week1/email-challenges-discussion.md) and download it!
-
-If you'd like to explore further after our class discussion, try these prompts with your preferred AI tool:
-
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Based on our class discussion about [specific challenge we identified], what are 3 additional strategies for improvement?"
 - "How do email communication expectations differ across cultures in international business?"
 - "What are emerging best practices for business email in remote work environments?"

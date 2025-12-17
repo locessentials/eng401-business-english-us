@@ -49,11 +49,11 @@ This week focuses on written business communication formats, audience awareness 
 
 ---
 
-## 📥 Download Week 1 Content
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week1/week1-overview.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week1/week1-overview.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded week content and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me identify common email communication challenges in business contexts"
 - "Create practice scenarios for writing professional emails to different audiences"
 - "What are the key differences between effective and ineffective business emails?"

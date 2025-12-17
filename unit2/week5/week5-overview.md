@@ -52,11 +52,11 @@ This week focuses on financial statements and reports structure and purpose, bal
 
 ---
 
-## 📥 Download Week 5 Content
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week5/week5-overview.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week5/week5-overview.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded week content and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me analyze a company's financial statements and identify key terminology"
 - "What are the main differences between balance sheets and income statements?"
 - "Create a study guide for financial performance indicators and their meanings"

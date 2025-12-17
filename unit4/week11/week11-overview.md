@@ -51,11 +51,11 @@ This week focuses on internal corporate communication types, communication chann
 
 ---
 
-## 📥 Download Week 11 Content
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week11/week11-overview.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week11/week11-overview.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded week content and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me identify appropriate communication channels for different business messages"
 - "What are the key differences in language register for various organizational contexts?"
 - "Create examples of effective internal corporate communications"

@@ -78,11 +78,11 @@ Rate your confidence (1-5 scale) in these Unit 1 competencies:
 
 ---
 
-## 📥 Download Unit 1 Conclusion
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/unit1-conclusion.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/unit1-conclusion.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded conclusion and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me reflect on my Unit 1 learning and identify areas for improvement"
 - "Create a study plan to reinforce my Unit 1 skills while learning Unit 2"
 - "How do the Unit 1 skills prepare me for legal and financial business contexts?"

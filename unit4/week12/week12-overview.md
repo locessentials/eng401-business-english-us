@@ -51,11 +51,11 @@ This week focuses on leadership styles and personalities, performance management
 
 ---
 
-## 📥 Download Week 12 Content
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week12/week12-overview.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week12/week12-overview.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded week content and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me analyze different leadership styles and their cultural contexts"
 - "What are effective frameworks for performance management across cultures?"
 - "Create scenarios for practicing constructive feedback delivery"

@@ -136,12 +136,11 @@ Do the professional developoment activities by your classmates that interest you
 
 ---
 
-## 📥 Download This Assignment
-
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week12/professional-development-assignment.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week12/professional-development-assignment.md) and download it.
 
 ### 🤖 GAI Study Prompts
-Use these prompts to enhance your work on this assignment:
+Copy the downloaded content and try it with these prompts:
 - "What topics or ideas are commonly missed in discussions on leadership that I could cover for my training session?"
 - "Help me brainstorm 10 ideas for topics I could cover from [this perspective] on leadership in a blog post."
 - "I've shared my topic and design plan with you, along with the assignment instructions. What could I strengthen about my work to ready it for instructor approval?"

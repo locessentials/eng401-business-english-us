@@ -52,11 +52,11 @@ These specialized skills are particularly valuable for translators and interpret
 
 ---
 
-## 📥 Download Unit 2 Overview
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/unit2-overview.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/unit2-overview.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded unit overview and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me understand the connection between legal language, financial reporting, and regulatory compliance"
 - "Create a study plan for mastering specialized business vocabulary in Unit 2"
 - "What legal and financial terminology should I prioritize as a future business translator?"

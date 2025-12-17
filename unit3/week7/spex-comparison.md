@@ -132,12 +132,11 @@ Link or Attachment: Share a link to the specifications or include them as an att
 
 ---
 
-## 📥 Download This Content
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week6/spex-comparison.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week6/spex-comparison.md) and download it!
-
-### 🤖 AI Study Prompts
-Copy the downloaded content and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 
 - "What is an industry for which I can find solid examples of specifications?"
 - "Please generate some typical specifications for products/services in [this industry]."

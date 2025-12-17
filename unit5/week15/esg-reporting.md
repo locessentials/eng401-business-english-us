@@ -296,13 +296,11 @@ As future professionals in translation, localization, and interpretation, you wi
 
 ---
 
-## 📥 Download This Activity
-
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week15/esg-reporting.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week15/esg-reporting.md) and download it.
 
 ### 🤖 GAI Study Prompts
-Copy the downloaded content and try these prompts:
-
+Copy the downloaded content and try it with these prompts:
 - "Help me understand the difference between Scope 1, 2, and 3 emissions and why Scope 3 is often excluded from corporate reporting"
 - "Analyze this excerpt from [company name]'s ESG report for signs of greenwashing or authentic commitment"
 - "What are the most credible third-party ESG rating systems, and what do they measure?"

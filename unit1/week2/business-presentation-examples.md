@@ -75,12 +75,11 @@ As you research, please share any excellent resources you discover about busines
 
 ---
 
-## 📥 Download This Activity
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week2/business-presentation-examples.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week2/business-presentation-examples.md) and download it!
-
-### 🤖 AI Study Prompts
-After completing the class analysis, enhance your understanding with these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Based on the presentation examples I analyzed, what are 5 additional characteristics that make business presentations memorable and persuasive?"
 - "How do effective presentation strategies differ when presenting to technical vs. non-technical business audiences?"
 - "What are common presentation mistakes that professionals should avoid in international business contexts?"

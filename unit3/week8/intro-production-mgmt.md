@@ -107,13 +107,11 @@ Feel free to explore additional methodologies such as Waterfall, Scrum, or other
 
 ---
 
-## 📥 Download This Content
-
-Find this file [on our repo](https://raw.githubusercontent.com/alainamb/uic_tr35-business-english-II/main/unit3/week8/intro-production-mgmt.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://raw.githubusercontent.com/alainamb/uic_tr35-business-english-II/main/unit3/week8/intro-production-mgmt.md) and download it.
 
 ### 🤖 GAI Study Prompts
-Copy the downloaded content and try these prompts:
-
+Copy the downloaded content and try it with these prompts:
 - "Explain the input-process-output model with examples from different industries."
 - "Compare Agile, Six Sigma, Lean, and Kanban methodologies for [specific project type]."
 - "Quiz me on production management concepts and project management definitions."

@@ -149,13 +149,11 @@ Now that you've worked through the first activities on teamwork for this week, d
 - In "My Advice on Teamwork," you learn that one of the instructor's mottos is: If everyone at the table is a dog playing poker, be a dog playing poker. What does that motto mean? What motto(s) would you adopt for teamwork?
 - In what ways are you an excellent team member? What about your style of teamwork needs work?
 
-## 📥 Download This Content
-
-Find this file [on our repo](https://raw.githubusercontent.com/alainamb/uic_tr35-business-english-II/main/unit4/week10/teamwork-intro.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://raw.githubusercontent.com/alainamb/uic_tr35-business-english-II/main/unit4/week10/teamwork-intro.md) and download it.
 
 ### 🤖 GAI Study Prompts
-Copy the downloaded content and try these prompts:
-
+Copy the downloaded content and try it with these prompts:
 - "What are some additional frameworks for understanding teamwork?"
 - "Please give me practical tips for progressing through Tuckman's model of forming, storming, norming and performing more quickly as a team."
 - "Give me examples of statements that I should accept for their content rather than judging them for their tone."

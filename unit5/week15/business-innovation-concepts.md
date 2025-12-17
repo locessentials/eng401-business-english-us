@@ -190,13 +190,11 @@ As you work through this topic, consider:
 4. How can professionals balance enthusiasm for new possibilities with realistic assessment of what's actually changing?
 5. What role does language play in shaping expectations around business change? How does this relate to your work as language professionals?
 
-## 📥 Download This Content
-
-Find this file [on our repo](https://raw.githubusercontent.com/alainamb/uic_tr35-business-english-II/main/unit5/week15/business-innovation-concepts.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://raw.githubusercontent.com/alainamb/uic_tr35-business-english-II/main/unit5/week15/business-innovation-concepts.md) and download it.
 
 ### 🤖 GAI Study Prompts
-Copy the downloaded content and try these prompts:
-
+Copy the downloaded content and try it with these prompts:
 - "Help me analyze [specific company or technology] to determine if it represents genuine innovation or incremental improvement"
 - "What are examples of actual business disruption from the past 20 years that fundamentally changed how industries operate?"
 - "Generate a framework for evaluating whether a change initiative is truly transformative"

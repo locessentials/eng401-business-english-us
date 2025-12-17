@@ -51,11 +51,11 @@ This week focuses on the structure and format of technical specifications, stand
 
 ---
 
-## 📥 Download Week 7 Content
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit3/week7/week7-overview.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit3/week7/week7-overview.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded week content and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me understand the key components of technical specifications for translation services"
 - "Create practice scenarios for writing technical specifications for different industries"
 - "What are the differences between technical specifications and regular business documentation?"

@@ -53,11 +53,11 @@ This week focuses on quality management terminology and concepts, PDCA (Plan-Do-
 
 ---
 
-## 📥 Download Week 9 Content
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit3/week9/week9-overview.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit3/week9/week9-overview.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded week content and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me understand the PDCA cycle and how to apply it to quality improvement"
 - "Create a root cause analysis template for translation quality issues"
 - "What are the key components of an effective quality improvement plan?"

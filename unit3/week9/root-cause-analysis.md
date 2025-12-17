@@ -185,13 +185,11 @@ This systematic approach, detailed in both required articles, ensures that quali
 
 ---
 
-## 📥 Download This Content
-
-Find this file [on our repo](https://raw.githubusercontent.com/alainamb/uic_tr35-business-english-II/main/unit3/week9/root-cause-analysis.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://raw.githubusercontent.com/alainamb/uic_tr35-business-english-II/main/unit3/week9/root-cause-analysis.md) and download it.
 
 ### 🤖 GAI Study Prompts
-Copy the downloaded content and try these prompts:
-
+Copy the downloaded content and try it with these prompts:
 - "Walk me through conducting a 5 Whys analysis for [describe a quality problem]"
 - "Help me create a fishbone diagram for analyzing why [specific translation/localization problem occurred]"
 - "Explain the difference between corrective and preventive action with examples from [industry of your choice]"

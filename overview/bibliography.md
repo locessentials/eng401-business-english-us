@@ -102,11 +102,11 @@ Accessible: Available through HBR online - 2 free articles can be viewed a month
 
 ---
 
-## 📥 Download Bibliography
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/overview/bibliography.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/overview/bibliography.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded bibliography and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me find credible business resources for [specific unit topic]"
 - "What databases should I prioritize for business English research?"
 - "How can I evaluate if a business article is credible and current?"

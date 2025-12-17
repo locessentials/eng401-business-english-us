@@ -150,12 +150,11 @@ Contact your instructor or post questions in the Teams channel. Your classmates'
 
 ---
 
-## 📥 Download This Activity
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week2/assignment-mini-presentation.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit1/week2/assignment-mini-presentation.md) and download it!
-
-### 🤖 AI Study Prompts
-After completing your mini-presentation, reflect and improve with these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Based on the feedback I received on my presentation, what are 3 specific areas I should focus on improving for future business presentations?"
 - "How can I better adapt my presentation style when communicating translation/localization concepts to non-technical business stakeholders?"
 - "What are advanced presentation techniques that would help me stand out as a professional in the language services industry?"

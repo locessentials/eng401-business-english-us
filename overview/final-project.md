@@ -129,11 +129,11 @@ Your evaluations should:
 
 ---
 
-## 📥 Download Final Project Information
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/overview/final-project.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/overview/final-project.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded final project details and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me brainstorm contemporary business topics for this project"
 - "Create a timeline for completing this project over 4 weeks"
 - "What are the key differences between the 'Show' and 'Tell' components?"

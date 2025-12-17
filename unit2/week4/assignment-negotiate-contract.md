@@ -181,12 +181,11 @@ Key insights for contract discussions:
 
 ---
 
-## 📥 Download This Assignment
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week4/assignment-negotiate-contract.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week4/assignment-negotiate-contract.md) and download it!
-
-### 🤖 AI Study Prompts
-After completing your contract negotiation, enhance your learning with these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Based on my contract negotiation experience, what are the most important principles for protecting my interests in professional agreements?"
 - "How can I prepare for contract discussions that balance assertiveness with maintaining good professional relationships?"
 - "What questions should I always ask before signing any professional agreement in the translation industry?"

@@ -95,11 +95,11 @@ Your final project represents not just the culmination of this course, but the b
 
 ---
 
-## 📥 Download Final Project Introduction
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/final-project/final-project-intro.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/final-project/final-project-intro.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded introduction and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me understand the professional relevance of the Show and Tell approach"
 - "How can I apply course concepts from Units 1-5 in my final project?"
 - "What makes this project different from typical academic assignments?"

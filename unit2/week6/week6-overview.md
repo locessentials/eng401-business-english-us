@@ -52,11 +52,11 @@ This week focuses on regulatory frameworks for businesses in Mexico and the US, 
 
 ---
 
-## 📥 Download Week 6 Content
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week6/week6-overview.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week6/week6-overview.md) and download it.
 
-### 🤖 AI Study Prompts
-Copy the downloaded week content and try these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Help me compare regulatory frameworks between Mexico and the US for [specific industry]"
 - "What are key compliance considerations for companies operating across borders?"
 - "Create a template for analyzing regulatory differences between countries"

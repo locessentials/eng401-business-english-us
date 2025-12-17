@@ -143,12 +143,11 @@ Consider these questions as you develop your charter:
 
 ---
 
-## 📥 Download This Assignment
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week10/team-charter-assignment.md) and download it.
 
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week10/team-charter-assignment.md) and download it!
-
-### 🤖 AI Study Prompts
-After completing your team charter, enhance your learning with these prompts:
+### 🤖 GAI Study Prompts
+Copy the downloaded content and try it with these prompts:
 - "Review my team charter and identify any vague commitments that should be made more specific"
 - "What important team agreements might I have missed in my charter for [describe your project type]?"
 - "How can I make my team charter more inclusive of different cultural communication styles?"

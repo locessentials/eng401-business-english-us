@@ -137,14 +137,11 @@ As you explore business technology tools and platforms this week, consider these
 
 ---
 
-## 📥 Download This Content
-
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week14/business-technology-tools.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit5/week14/business-technology-tools.md) and download it.
 
 ### 🤖 GAI Study Prompts
-
-Use these prompts to enhance your learning about business technology:
-
+Copy the downloaded content and try it with these prompts:
 - "Explain the difference between IaaS, PaaS, and SaaS using examples relevant to the translation and localization industry."
 - "I'm trying to decide between [Tool A] and [Tool B] for [specific purpose]. Help me create a comparison framework that considers functionality, cost, integration, and security."
 - "What are the most important questions to ask a SaaS vendor before committing to their platform? Create a checklist for me."

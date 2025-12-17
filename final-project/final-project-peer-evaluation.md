@@ -2,7 +2,7 @@
 layout: default
 title: Evaluation
 parent: Final Project
-nav_order: 3
+nav_order: 4
 ---
 
 # Final Project Evaluation
@@ -223,4 +223,4 @@ Copy the downloaded content and try it with these prompts:
 
 ---
 
-**Next:** Complete your learning journey with the [Course Conclusion](../conclusion/course-conclusion.md) that celebrates your achievements and outlines next steps.
+**Thank you for your help with our peer reviews!** Next, you can learn about the [Final Project Takeaways](final-project-conclusions.md) that are great to have in mind about your work.

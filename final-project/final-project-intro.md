@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: The Show & Tell Approach
 parent: Final Project
 nav_order: 1
 ---
@@ -107,4 +107,4 @@ Copy the downloaded content and try it with these prompts:
 
 ---
 
-**Next:** Review the detailed [Project Instructions](final-project-instructions.md) for step-by-step guidance on completing each component.
+**Learn about the final project topic:** [The Job Search](final-project-topic.md) - we'll explore how effectively search for and land jobs in our modern day and age.

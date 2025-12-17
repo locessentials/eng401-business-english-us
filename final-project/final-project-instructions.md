@@ -2,7 +2,7 @@
 layout: default
 title: Instructions
 parent: Final Project
-nav_order: 2
+nav_order: 3
 ---
 
 # Final Project Instructions
@@ -241,4 +241,4 @@ Copy the downloaded content and try it with these prompts:
 
 ---
 
-**Next:** Review the [Evaluation Criteria](final-project-evaluation.md) to understand how your project will be assessed.
+**All finished? Why not get your work peer reviewed?** Here's some [Evaluation Criteria](final-project-peer-evaluation.md) against which you can request that your work be assessed by a peer.

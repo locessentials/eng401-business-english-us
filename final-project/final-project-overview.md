@@ -79,4 +79,4 @@ Copy the downloaded content and try it with these prompts:
 
 ---
 
-**Ready to begin?** Start with the [Final Project Introduction](final-project-intro.md) to understand the project's purpose and approach.
+**Ready to begin?** Start with the [Final Project Introduction](final-project-intro.md) to understand the project's Show & Tell purpose and approach.

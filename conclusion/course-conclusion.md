@@ -8,7 +8,7 @@ nav_order: 9
 
 ## Congratulations!
 
-**Congratulations on completing Business English II!** You have successfully navigated a comprehensive 17-week journey that has transformed you from a student of business English into a competent professional communicator equipped with specialized skills for the global business environment.
+**Congratulations on completing Business English!** You have successfully navigated a comprehensive 4-month course that has transformed you from a student of business English into a competent professional communicator equipped with specialized skills for the global business environment.
 
 Your completion of this course represents not just academic achievement, but the development of practical, real-world competencies that will serve you throughout your career as a translator, interpreter, or business communication specialist.
 
@@ -146,10 +146,10 @@ The global business community needs skilled professionals who can bridge communi
 
 ---
 
-## 📥 Download Course Conclusion
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/conclusion/course-conclusion.md) and download it!
+## 📥 Download this Content
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/conclusion/course-conclusion.md) and download it.
 
-### 🤖 AI Study Prompts
+### 🤖 GAI Study Prompts
 Copy the downloaded conclusion and try these prompts:
 - "Help me create a professional development plan based on my Business English II completion"
 - "How can I effectively showcase my business English specialization to potential employers?"

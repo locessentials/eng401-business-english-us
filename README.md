@@ -4,7 +4,7 @@
 
 This course site represents a new approach to educational content delivery in the age of AI. Rather than fighting the reality that students increasingly use generative AI systems for tutoring and learning support, this project embraces it.
 
-### Designing for Human and GAI Consumption
+### Designed for Human and GAI Use
 
 All instructional content is written in Markdown and made freely available for several key reasons:
 

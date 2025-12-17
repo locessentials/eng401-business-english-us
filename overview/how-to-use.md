@@ -1,5 +1,11 @@
+---
+layout: default
+title: How to Use these Course Contents
+parent: Overview
+nav_order: 6
+---
 
-
+# How to Use these Course Contents
 
 ---
 

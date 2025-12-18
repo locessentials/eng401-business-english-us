@@ -174,13 +174,9 @@ Contract lawyers often include as many restrictive clauses as possible, knowing 
 **Post your analysis to the Contracts discussion forum**
 
 1. **Most Shocking Example:** Which contract problem from the video or article surprised you most? Why?
-
 2. **Personal Risk Assessment:** Looking at the red flags list, which issues would you be most concerned about encountering in your future career?
-
 3. **Negotiation Strategy:** How would you approach a situation where you were asked to sign a contract with problematic clauses but really needed the work?
-
 4. **Industry Perspective:** Based on these examples, what changes do you think the translation industry needs to make regarding contract practices?
-
 5. **Professional Development:** What steps can you take now to prepare for evaluating and negotiating contracts in your career?
 
 ---
@@ -235,13 +231,9 @@ Contract lawyers often include as many restrictive clauses as possible, knowing 
 ## Reflection Questions
 
 1. **How do these contract examples change your understanding of professional relationships in the translation industry?**
-
 2. **What role does economic necessity play in translators' willingness to accept unfair contract terms?**
-
 3. **How might new professionals balance the need for experience and income with protecting their long-term interests?**
-
 4. **What responsibility do established professionals have to push back against industry-wide problematic practices?**
-
 5. **How do cultural differences in business practices affect international translation contracts?**
 
 ---

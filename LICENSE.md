@@ -17,4 +17,4 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 
 **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-**Full license text:** https://creativecommons.org/licenses/by/4.0/legalcode
+**Full license text:** [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode)

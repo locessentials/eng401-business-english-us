@@ -34,7 +34,7 @@ By the end of this assignment, you will be able to:
 
 ### Step 1: Form your team and select a quality failure scenario
 
-You may work individually or in groups of up to **3 people**. Working in a team allows you to discuss different perspectives on root causes and develop more comprehensive corrective and preventive action plans.
+You may work individually or in groups. Working in a team allows you to discuss different perspectives on root causes and develop more comprehensive corrective and preventive action plans.
 
 **Select a quality failure** for which you'll develop your quality improvement plan. You have two options:
 
@@ -192,22 +192,15 @@ Before submitting, ensure your plan:
 
 ### Step 5: Submit your Quality Improvement Plan
 
+**File format:** One MS Word document in .docx format
+
 **File naming conventions:**
-- For individual submissions: `LastNames_quality-improvement-plan.docx`
-- For team submissions: `LastNames1_LastNames2_quality-improvement-plan.docx` (list all team members' last names separated by underscores)
+- For individual submissions: `LastNames_quality-plan.docx`
+- For team submissions: `LastNames1_LastNames2_quality-plan.docx` (list all team members' last names separated by underscores)
 
 Make sure your Word document includes all required sections and meets the specifications outlined above.
 
----
-
-## Submission Details
-
-- **File format:** One MS Word document in .docx format
-- **File naming:**
-  - Individual: `LastName_quality-improvement-plan.docx`
-  - Team: `LastName1_LastName2_quality-improvement-plan.docx` or `LastName1_LastName2_LastName3_quality-improvement-plan.docx`
 - **Due date:** End of week
-- **Submission location:** Teams Assignment: Quality Improvement Plan
 
 ---
 

@@ -101,7 +101,7 @@ Each student must **comment on at least one rehearsal** (not your own group's):
 ## Final Submission (End of week)
 
 ### File Naming Convention
-`LastNames1_LastNames2_TopicAbbreviation.pdf`
+`LastNames1_LastNames2_TopicAbbreviation.pdf` (list all team members' last names separated by underscores)
 
 **Examples:**
 - `Brandt_MartínezWilliams_PresentationSkills.pdf`

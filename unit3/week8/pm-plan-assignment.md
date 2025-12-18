@@ -33,7 +33,7 @@ By the end of this assignment, you will be able to:
 
 ### Step 1: Form your team and select a project scenario
 
-You may work individually or in groups of up to **3 people**. Working in a team allows you to simulate the collaborative nature of real project management and share the workload.
+You may work individually or in teams. Working in a team allows you to simulate the collaborative nature of real project management and share the workload.
 
 **Select a business project** for which you'll develop your project management plan. Consider these guidelines:
 
@@ -133,22 +133,18 @@ Before submitting, ensure your plan:
 
 ### Step 5: Submit your Project Management Plan
 
+**File format:** One MS Word document in .docx format
+
 **File naming conventions:** 
-- For individual submissions: `LastName_pm-plan.docx`
-- For team submissions: `LastName1_LastName2_pm-plan.docx` (list all team members' last names separated by underscores)
+- For individual submissions: `LastNames_pm-plan.docx`
+- For team submissions: `LastNames1_LastNames2_pm-plan.docx` (list all team members' last names separated by underscores)
+- For example: 
+  - `MartínezWilliams_Chen_Brandt_EthicsCaseStudy.docx`
+  - `Chen_EthicsCaseStudy.docx`
 
 Make sure your Word document includes all required sections and meets the specifications outlined above.
 
----
-
-## Submission Details
-
-- **File format:** One MS Word document in .docx format
-- **File naming:** 
-  - Individual: `LastName_pm-plan.docx`
-  - Team: `LastName1_LastName2_pm-plan.docx` or `LastName1_LastName2_LastName3_pm-plan.docx`
-- **Due date:** End of week
-- **Submission location:** Teams Assignment: Project Management Plan
+**Due date:** End of week
 
 ---
 

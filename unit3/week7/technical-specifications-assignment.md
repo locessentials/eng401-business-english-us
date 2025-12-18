@@ -92,8 +92,8 @@ Over the course of this unit, you'll study project management, production proces
 
 As a reminder, here is a delivery summary:
 - **File format:** Two matching MS Word documents in .docx format
-  - **Template file naming:** `LastNames_LastNames_[ProductType]-Specifications-template.docx`
-  - **Filled-in specifications file naming:** `LastNames_LastNames_[ProductType]-Specifications-Project1.docx`
+  - **Template file naming:** `LastNames1_LastNames2_[ProductType]-Specifications-template.docx`
+  - **Filled-in specifications file naming:** `LastNames1_LastNames2_[ProductType]-Specifications-Project1.docx`
 - **Due date:** End of week
 - **Teams Assignment:** Technical Specifications
 

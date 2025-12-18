@@ -134,8 +134,8 @@ You could also look at *culture considerations*, like:
 - How different cultural contexts affect the perspectives with which key stakeholders view the issue
 - How your approach to resolving this issue might change if you were in another context
 
-### File Naming Convention
-`LastNames1_LastNames2_EthicsCaseStudy.docx`
+### File Naming Conventions
+`LastNames1_LastNames2_EthicsCaseStudy.docx` (list all team members' last names separated by underscores)
 
 **Examples:**
 - `Brandt_MartínezWilliams_EthicsCaseStudy.docx`

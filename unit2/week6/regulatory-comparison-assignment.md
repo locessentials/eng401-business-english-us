@@ -11,7 +11,7 @@ nav_order: 4
 
 **Format:** Individual or group work
 
-## Assignment Overview
+## Overview
 
 You just reviewed an example of a Cross-Border Regulatory Comparison Report for the U.S. and Mexico in the realm of tech companies. Now you'll create your own report as a consultant to a U.S. organization wanting to enter the Mexican market.
 
@@ -110,6 +110,20 @@ Follow the report format outlined below to create a professional consulting docu
 ### 6. Works Consulted
 - List all sources used for regulatory research
 - Include government websites, official documents, and industry resources
+
+---
+
+## Submission Requirements
+
+### File Naming Conventions
+`LastNames1_LastNames2_CrossBorderReport.docx` (list all team members' last names separated by underscores)
+
+**Examples:**
+- `Brandt_MartínezWilliams_CrossBorderReport.docx`
+- `MartínezWilliams_Chen_Brandt_CrossBorderReport.docx`
+- `Chen_CrossBorderReport.docx`
+
+**Please deliver your document in MS Word format so that it can be easily commented on and edited using track changes.**
 
 ---
 

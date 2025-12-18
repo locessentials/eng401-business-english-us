@@ -107,6 +107,8 @@ Key insights for contract discussions:
 - `MartínezWilliams_Chen_Brandt_NDA-negotiation.docx`
 - `Chen_NDA-negotiation.docx`
 
+**Please deliver your document in MS Word format so that your track changes and comments can be easily engaged with.**
+
 **Answer Key:** If you read "7 Clauses to Include in Every NDA", you should be able to find the areas you should have negotiated easily. You can also reach out to the instructor for an answer key.
 
 ---

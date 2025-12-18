@@ -11,6 +11,12 @@ nav_order: 3
 
 **Format:** Individual or group work
 
+## Overview
+
+You will write a 2-3 page financial analysis report about a publicly traded company using their most recent quarterly financial statements. This assignment builds on our Week 5 work with financial terminology and prepares you for translating business documents in your future career.
+
+**Remember:** This is your first partial exam, so focus on clear communication and demonstrating your understanding of financial concepts we've studied in class.
+
 ## Learning Objectives
 
 By completing this assignment, you will:
@@ -19,14 +25,6 @@ By completing this assignment, you will:
 - Compare financial performance between time periods
 - Write a professional business report in English
 - Build vocabulary essential for business translation work
-
----
-
-## Assignment Overview
-
-You will write a 2-3 page financial analysis report about a publicly traded company using their most recent quarterly financial statements. This assignment builds on our Week 5 work with financial terminology and prepares you for translating business documents in your future career.
-
-**Remember:** This is your first partial exam, so focus on clear communication and demonstrating your understanding of financial concepts we've studied in class.
 
 ---
 
@@ -159,14 +157,12 @@ Follow the instructions on report structure above to write a report containing t
 - Synthesis of Your Analysis
 - Conclusion
 - Works Consulted
----
 
-## Submission Details
+### Last step: Submit your report
 
-- **File Format:** MS Word (.docx)  
-- **File Name:** `GroupMembersFirstLastNames_[Company]-Financial-Report.docx`
-  - **For example:** `Reyes-Brandt_MercadoLibre-Financial-Report.docx`
-- **Upload Location:** Teams Assignment - Financial Report (Primer Parcial)  
+- **File Format:** MS Word (.docx)
+- **File Name:** `LastNames1_LastNames2_[Company]-Financial-Report.docx` (list all team members' last names separated by underscores)
+  - **For example:** `Brandt_MartínezWilliams_MercadoLibre-Financial-Report.docx`
 - **Due Date:** End of week
 
 ---

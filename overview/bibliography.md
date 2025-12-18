@@ -60,6 +60,23 @@ This bibliography is the collection of references that the course designer consi
 - MercadoLibre, Inc.: Form 10-Q for the quarterly period ended June 30, 2025. U.S. Securities and Exchange Commission
 
 #### Week 6: Business Regulations & Compliance
+- [The History of the NAFTA Agreement](https://worldhistoryjournal.com/2025/07/16/the-history-of-the-nafta-agreement)
+- [USMCA Agreement Text](https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement/agreement-between) - U.S. Trade Representative
+- [Textos Finales del T-MEC](https://www.gob.mx/t-mec/acciones-y-programas/textos-finales-del-tratado-entre-mexico-estados-unidos-y-canada-t-mec-202730) - Gobierno de México
+- [Observatory of Economic Complexity data on Mexico and U.S. trade](https://oec.world/en/profile/bilateral-country/mex/partner/usa?selector538id=HS4&selector539id=tradeOption)
+- [Gobierno de México](https://www.gob.mx/) - Main government portal
+- [Secretaría de Economía](https://www.gob.mx/se) - Economic affairs and trade
+- [COFEPRIS](https://www.gob.mx/cofepris) - Health regulation (pharmaceuticals, food)
+- [SEMARNAT](https://www.gob.mx/semarnat) - Environmental regulation
+- [USA.gov](https://www.usa.gov/business) - Business regulation portal
+- [Department of Commerce](https://www.commerce.gov/) - Trade and business development
+- [FDA](https://www.fda.gov/) - Food, drug, and medical device regulation
+- [EPA](https://www.epa.gov/) - Environmental protection
+- [Data Protection Laws and Regulations Mexico 2025](https://iclg.com/practice-areas/data-protection-laws-and-regulations/mexico) by ICLG
+[Data Protection in Mexico: Federal Law for the Protection of Personal Data Held by Private Parties (FLPPDHPP)](https://intellectual-property-helpdesk.ec.europa.eu/news-events/news/data-protection-mexico-federal-law-protection-personal-data-held-private-parties-flppdhpp-2024-07-03_en) by the European Commission
+- [Ley Federal de Protección de Datos Personales en Posesión de los Particulares](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf) by Mexico's Federal Government
+- [What is the California Consumer Privacy Act (CCPA)?](https://www.ibm.com/think/topics/ccpa-compliance) via IBM
+- [California Consumer Privacy Act (CCPA)](https://www.oag.ca.gov/privacy/ccpa) via the State of California Department of Justice
 
 ### Unit 3: Production & Quality Processes
 

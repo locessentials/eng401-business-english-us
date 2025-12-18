@@ -24,7 +24,7 @@ Your plan will serve as a communication document that helps your team understand
 By the end of this assignment, you will be able to:
 - Develop comprehensive project management documentation that establishes clear communication protocols for diverse teams
 - Apply project management concepts including workflow sequencing, risk mitigation, and query management to realistic business scenarios
-- Create professional documentation that balances detail with scannability for busy stakeholders
+- Create professional documentation that balances detail with scan-ability for busy stakeholders
 - Demonstrate understanding of the project manager's role in facilitating team coordination and success
 
 ---

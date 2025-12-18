@@ -81,10 +81,44 @@ This bibliography is the collection of references that the course designer consi
 ### Unit 3: Production & Quality Processes
 
 #### Week 7: Specifications & Technical Documentation
+- [ASTM F2575: Standard Practice for Language Translation](https://store.astm.org/f2575-23e02.html) by ASTM International
+- Tranquality's [Standards-Based Structured Translation Specifications](https://www.tranquality.info/specs/)
+- ["Translation and localization project and process managers"](https://www.degruyterbrill.com/document/doi/10.1515/9783110716047-008/html) chapter by Alaina Brandt
+- [ASTM International website](https://www.astm.org)
+- "[Form and Style for ASTM Standards](https://store.astm.org/media/pdf/bluebook_FormStyle.pdf)" (AKA the "Blue Book")
+- Definition of [Fair Use](https://www.lib.uchicago.edu/copyrightinfo/fairuse.html) by The University of Chicago
 
 #### Week 8: Production Processes & Project Management
+- [What is Agile Project Management (APM)?](https://www.geeksforgeeks.org/software-engineering/agile-project-management) via Geeks for Geeks
+- [Six Sigma and Lean Model of Project Management](https://www.geeksforgeeks.org/blogs/six-sigma-and-lean-model-of-project-management) via Geeks for Geeks
+- [Kanban and its purpose in project management?](https://www.geeksforgeeks.org/business-studies/kanban-and-its-purpose-in-project-management) via Geeks for Geeks
+- [Gantt Chart 101: How to Build and Use Them Effectively](https://slack.com/blog/productivity/gantt-chart-101-how-to-build-and-use-them-effectively) by Slack
+- [The Hard Side of Project Management](https://universidaduic.sharepoint.com/:v:/s/TR35-BusinessEnglishII-2026-1/EU6_s_n9dmhCsFQTiKZmvuEBNrH3B-W0RIUWPftqcf6ibA?e=7w2OmJ) by Carina Balbo
+- [ISO 31000 Risk Management Guidelines](https://www.iso.org/obp/ui/en/#iso:std:iso:31000:ed-2:v1:en)
+- [What is a risk register: a project manager's guide (and example)](https://asana.com/resources/risk-register) by Asana
+- [Query Sheet Management for Project Managers and Translators](https://terralocalizations.com/wp-content/uploads/2024/01/ENG-Query-Sheet-Management-for-Project-Managers-and-Translators-Marina-Ilari.pdf) by Marina Ilari
+- [Are you Trapped in The Translation Query Management Maze?](https://slator.com/trapped-in-translation-query-management-maze-heres-how-to-escape) by Kaleidoscope
+- **[GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)** platform
+- **[Notion](https://www.notion.com/)** platform
+- **[Trello](https://trello.com/)** platform
+- **[Airtable](https://www.airtable.com)** platform
+- **[Asana](https://asana.com)** platform
+- **[Monday.com](https://monday.com)** platform
+- [*Action Items Professional*](https://action-items-pro.locessentials.com/) aka *Action Items Pro* - web application
 
 #### Week 9: Quality Management Systems
+- ISO 9001 family of standards on Quality Management Systems
+- [Preparing to Measure Process Work with a Time Study](https://www.isixsigma.com/business-process-management-bpm/preparing-measure-process-work-time-study/) by Larry Holpp
+- **[Mastering CAPA: Your Guide to Corrective and Preventive Actions](https://iso-docs.com/blogs/iso-concepts/mastering-capa-your-guide-to-corrective-and-preventive-actions)** by Sneha Naskar
+- **[Corrective and Preventive Action (CAPA): Definition, Example & Template](https://web.archive.org/web/20220528052805/https://pmstudycircle.com/corrective-and-preventive-action-capa/)** by Fahad Usmani, PMP
+- ["BEFORE You Do A 5 WHYS Root Cause Analysis Watch This..." by The Agile Business Analyst (2021)](https://youtu.be/zZRmCs7Dag8?si=onmSqGBpME_autAw)
+- ["Fishbone Diagrams" by The Western Region Public Health Training Center (2013)](https://youtu.be/2rLB-1z9cPY?si=3BSI8YxzVVL306uQ)
+- [TheMQM.org Root Cause Errors](https://themqm.org/resources/root-causes)
+- [Pokemon Criticized For Inappropriate Latin-American Spanish Localization](https://comicbook.com/gaming/news/pokemon-localization-latin-america-issues/) via ComicBook.com
+- [Pokémon in Latin America](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_in_Latin_America) via Bulbapedia
+- [Gamers Petition Pokemon to Localize Games for Latin American Spanish Market](https://slator.com/gamers-petition-pokemon-localize-games-latin-american-spanish/) via Slator
+[Pokémon Scarlet and Violet: A Comparative Analysis of the Localization in the English and Spanish Versions](https://dspace.uib.es/xmlui/handle/11201/165294) via Universitat de les Illes Balears
+[Pokemon Has Good News for Fans in Latin America](https://gamerant.com/pokemon-latin-american-spanish-language/) via Game Rant
 
 ### Unit 4: People & Relationships
 

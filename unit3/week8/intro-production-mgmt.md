@@ -11,7 +11,7 @@ nav_order: 1
 
 This page introduces the fundamentals of production management, exploring production workflows, the essential tasks involved when taking on the project manager's role, and specific project management methodologies used across various industries.
 
-Last week, you received access to the chapter "Translation and localization project and process managers" by Alaina Brandt, which has been shared with you privately [here](https://universidaduic.sharepoint.com/:b:/s/TR35-BusinessEnglishII-2026-1/EVm-Rwbyl9NEhv1MO9yqYMoBKMhIB_WAznAKrDxKqiOAPg?e=c7WNMz) in keeping with [fair use](https://www.lib.uchicago.edu/copyrightinfo/fairuse.html) provisions defined in U.S. copyright law. Please do not share this resource outside of our class.
+Last week, you may have received access to the chapter "Translation and localization project and process managers" by Alaina Brandt, shared with you privately in keeping with [fair use](https://www.lib.uchicago.edu/copyrightinfo/fairuse.html) provisions defined in U.S. copyright law. Please do not share this resource outside of our class.
 
 The first two sections of today's lesson draw from that chapter. Students interested in learning more are encouraged to read the complete chapter.
 
@@ -64,7 +64,7 @@ Meanwhile, dedicated project managers focus on delivering overall project requir
 - product management
 - assigning work based on specialization and capacity
 - managing and documenting change
-- monitoring key performace indicators
+- monitoring key performance indicators
 
 ### Reflection Questions
 

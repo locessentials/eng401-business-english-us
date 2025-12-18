@@ -130,7 +130,7 @@ The Multidimensional Quality Metrics (MQM) framework includes a comprehensive li
 
 #### Before You Begin
 
-Visit [TheMQM.org Root Cause Errors]([https://themqm.org](https://themqm.org/resources/root-causes)) and review the complete root cause error list. As you review:
+Visit [TheMQM.org Root Cause Errors](https://themqm.org/resources/root-causes) and review the complete root cause error list. As you review:
 
 1. **Identify unfamiliar errors:** Which root cause errors are new to you? Research their meanings and implications.
 2. **Consider missing errors:** What root cause errors might be missing from this list based on your understanding of translation production?

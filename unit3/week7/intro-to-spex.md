@@ -15,7 +15,7 @@ Typically, the word "specifications" is used in the plural form. The word "speci
 
 As you'll read in the chapter "Translation and localization project and process managers" by Alaina Brandt, the term "specifications" is defined as an “explicit set of requirements to be satisfied by a material, product, system, or service” by ASTM International.
 
-A [copy of that chapter](https://universidaduic.sharepoint.com/:b:/s/TR35-BusinessEnglishII-2026-1/EVm-Rwbyl9NEhv1MO9yqYMoBKMhIB_WAznAKrDxKqiOAPg?e=c7WNMz) has been provided to you privately. This chapter has been shared with you in keeping with [fair use](https://www.lib.uchicago.edu/copyrightinfo/fairuse.html) provisions defined in U.S. copyright law. Please do not share this resource outside of the class. 
+A copy of that chapter can be provided to you privately in keeping with [fair use](https://www.lib.uchicago.edu/copyrightinfo/fairuse.html) provisions defined in U.S. copyright law. If you receive a copy with this class, please do not share this resource outside of the class. 
 
 *Note: Any instructors who are interested in teaching that chapter can reach out to Alaina Brandt for a copy.*
 
@@ -24,7 +24,7 @@ Read section 3 (3 pages), "Defining the scope for translation and localization" 
 **Questions for Consideration**
 
 - Why are specifications needed? That is, what are the goals of writing specifications?
-- The section presents the types of requirements that should be defined in translation and localization specficiations. Based on that discussion, what generalizations can you make about the types of requirements that should be defined in specifications (no matter the industry)? Why?
+- The section presents the types of requirements that should be defined in translation and localization specifications. Based on that discussion, what generalizations can you make about the types of requirements that should be defined in specifications (no matter the industry)? Why?
 - Once established, how are specifications used?
 
 ## Specifications: Topics Covered and Technical Precision

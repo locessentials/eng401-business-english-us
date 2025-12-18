@@ -26,9 +26,9 @@ The goal is twofold: to understand quality standards in your chosen profession a
 > 
 > In the ISO 9000 family of standards on quality management systems (QMS), quality is defined as the “degree to which a set of inherent characteristics of an object fulfills requirements” (ISO 9000 QMS - Fundamentals and vocabulary, Section 3.6.2). An overall QMS consists of many parts, and quality management is the combination of quality planning, quality control and quality audits (among other activities), which when combined can produce continual quality improvement. These activities embody the Plan-Do-Check-Act cycles recommended in ISO 9001 - QMS Requirements (Section 0.3.1), in which production is planned, production is carried out according to the plan, the product that is the result of production is checked against the plan and any opportunities or gaps within the plan and how the plan was carried out are acted upon as the cycle begins again. Overall, quality managers should be thought of as process managers’ best source of information about whether production as configured is producing intended results.
 > 
-> _Adapted from Alaina Brandt, "Translation and Localization Project and Process Mangement" in the Handbook of the Language Industry, De Gruyter_
+> _Adapted from Alaina Brandt, "Translation and Localization Project and Process Management" in the Handbook of the Language Industry, De Gruyter_
 
-Note: You have access to the chapter "Translation and localization project and process managers" by Alaina Brandt, which has been shared with you privately [here](https://universidaduic.sharepoint.com/:b:/s/TR35-BusinessEnglishII-2026-1/EVm-Rwbyl9NEhv1MO9yqYMoBKMhIB_WAznAKrDxKqiOAPg?e=c7WNMz) in keeping with [fair use](https://www.lib.uchicago.edu/copyrightinfo/fairuse.html) provisions defined in U.S. copyright law. Please do not share this resource outside of our class.
+Note: You may have access to the chapter "Translation and localization project and process managers" by Alaina Brandt if it has been shared with you privately in keeping with [fair use](https://www.lib.uchicago.edu/copyrightinfo/fairuse.html) provisions defined in U.S. copyright law. If you have this free access, please do not share this resource outside of our class.
 
 ### Making Connections: From Translation Quality to QMS
 

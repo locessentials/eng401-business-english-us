@@ -285,13 +285,9 @@ As future professionals in translation, localization, and interpretation, you wi
 ## Reflection Questions
 
 1. **How did analyzing an actual ESG report change your understanding of corporate responsibility claims?**
-
 2. **What role does language play in making greenwashing or virtue signaling effective? How might you resist being complicit in performative reporting?**
-
 3. **Given what you've learned about cobalt mining and AI labor exploitation, how will this affect your relationship with technology?**
-
 4. **If most affordable products depend on exploitative supply chains, what responsibility do individual consumers have? What about businesses? Governments?**
-
 5. **In your future career, how might you advocate for more authentic corporate responsibility while working within systems that often prioritize performance over substance?**
 
 ---

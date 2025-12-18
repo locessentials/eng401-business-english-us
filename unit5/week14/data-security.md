@@ -147,13 +147,9 @@ Mexico's data protection law, often referred to by its Spanish acronym LFPDPPP (
 As you explore data security laws and standards this week, consider:
 
 1. **Legal Awareness**: Before this class, how aware were you of data protection laws like CCPA/CPRA or LFPDPPP? When you sign up for online services or handle documents, do you typically read privacy policies or terms of service?
-
 2. **Personal Data Footprint**: Think about the personal information you share online daily—through social media, email, cloud storage, shopping sites. What rights do you have under California (U.S.) and Mexico's laws regarding this data? Have you ever exercised these rights (e.g., requesting deletion of your data)?
-
 3. **ISO 27001 Sections**: After reviewing assigned sections of ISO 27001 Annex A, which security controls seem most achievable for you to implement as an individual professional? Which seem designed for larger organizations and might need to be adapted?
-
 4. **Cultural Perspectives**: Mexico and California approach data protection somewhat differently—Mexico emphasizes consent and transparency (aviso de privacidad), while California emphasizes consumer rights (access, deletion, opt-out). Why might these different emphases exist? What cultural or legal traditions might influence these approaches? 
-
 5. **Realistic Standards**: The security controls in ISO 27001 represent ideal practices, but individuals and small businesses face resource constraints. How can language professionals balance practical limitations with ethical obligations to protect client data?
 
 ---

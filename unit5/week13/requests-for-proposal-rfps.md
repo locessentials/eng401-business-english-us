@@ -325,15 +325,10 @@ Even when RFPs are imperfect, responding professionally and educating clients re
 Consider these questions as you learn about RFPs:
 
 1. **Understanding client needs:** What can you do if you don't understand what the requestor wants from an RFP? What if it's clear the requestor doesn't understand what they need?
-
 2. **Ethics and honesty:** If you notice that a client's specifications would lead to poor outcomes (wrong language variant, insufficient timeline, inappropriate methodology), what's your responsibility? How do you balance winning business with providing honest guidance?
-
 3. **Investment decisions:** How do you decide whether an RFP is worth the time and effort to respond? What red flags would make you choose not to bid?
-
 4. **Competitive advantage:** When multiple vendors are responding to the same RFP, what can you emphasize to differentiate your proposal?
-
 5. **Industry improvement:** How might you contribute to improving RFP quality in your field? Could standardized templates or educational resources help clients write better RFPs?
-
 6. **Your future:** As you build your career, you may find yourself on both sides of the RFP process—as a respondent and potentially as someone writing RFPs for your organization. What lessons from responding to RFPs would you apply when writing them?
 
 ## Additional Resources

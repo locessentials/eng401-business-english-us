@@ -185,10 +185,41 @@ This bibliography is the collection of references that the course designer consi
 ### Unit 5: Global Business & Technology
 
 #### Week 13: International Business Documentation
+- [GSA eLibrary - Language Services Contractors](https://www.gsaelibrary.gsa.gov/ElibMain/sinDetails.do?scheduleNumber=MAS&specialItemNumber=541930&executeQuery=YES) database of U.S government contracts
+- [Writing a Request for Proposal (RFP): How-tos, Templates, and Tips](https://www.canva.com/docs/request-for-proposal) by Canva
+- [Guidebook: Crafting a Driven Request for Proposals (RFP)](https://govlab.hks.harvard.edu/wp-content/uploads/2021/02/gpl_rfp_guidebook_2021.pdf) via Harvard's Government Performance Lab
 
 #### Week 14: Digital Business Tools & Technology
+- ISO 27001 on Information Security - Annex A Security Controls Reference
+- [California Attorney General - California Consumer Privacy Act (CCPA)](https://www.oag.ca.gov/privacy/ccpa)
+- [INAI - Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales](https://home.inai.org.mx/)
+- *Vendor Management: An Insider's Strategies to Win and Create Long Lasting Change* book by Agostino Carrideo
+- [Top 10 Tech Security Basics Every Person Should Follow](https://lifehacker.com/top-10-tech-security-basics-every-person-should-follow-1767148925?test_uuid=02DN02BmbRCcASIX6xMQtY9&test_variant=B) via Lifehacker 
+- [Why You Should Change the Default Password on a Wi-Fi Router](https://www.lifewire.com/changing-default-password-on-wifi-network-816567) by Bradley Mitchell via Lifewire
+- [How To Change Your Router SSID & Why You Should](https://helpdeskgeek.com/how-to-change-your-router-ssid-and-why-you-should) by Elsie Otachi via Help Desk Geek
+- Boxcryptor quote: "There is no cloud. It's just someone else's computer."
+- [ISO 24495 on Plain Language](https://www.iso.org/standard/78906.html)
+- [Time Tracking with TopTracker](references/Time-Tracking-with-TopTracker.pdf) (Work Instruction)
+- [Time Tracking with TopTracker](https://admin.locessentials.com/time-tracking-with-toptracker) (Blog post)
+- [Agile Project Management Manifesto](https://agilemanifesto.org)
 
 #### Week 15: Business Innovation & Adaptation to Change
+- [Why Sentence-by-Sentence Translation Won’t Deliver Hyper-Personalization](https://alainambrandt.locessentials.com/why-sentence-translation-wont-deliver) by Alaina Brandt
+- [The Environmental Impacts of Cobalt Mining in Congo](https://earth.org/cobalt-mining-in-congo) by Earth.Org
+- [How 'modern-day slavery' in the Congo powers the rechargeable battery economy](https://www.npr.org/sections/goatsandsoda/2023/02/01/1152893248/red-cobalt-congo-drc-mining-siddharth-kara) - NPR interview with Siddharth Kara
+- [The Exploited Labor Behind Artificial Intelligence](https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/) by NOEMA
+- [The Artificial Intelligence illusion: How invisible workers fuel the "automated" economy](https://www.ilo.org/resource/article/artificial-intelligence-illusion-how-invisible-workers-fuel-automated) by the International Labour Organization
+- [The Silicon Chain: How AI’s Architecture Became a Tool of Extraction](https://aylgorith.com/silicon-chain-ai-extraction) via AYLGORITH
+- ISO IWA 48:2024 - ESG Implementation Principles
+- [ISO's ESG Implementation Principles](https://www.iso.org/standard/89240.html)
+- [Building a sustainable path to ESG reporting](https://www.iso.org/climate-change/esg-reporting) via ISO
+- [All 17 of the UN's SDGs](https://sdgs.un.org/goals)
+- [Distributed AI Research Institute (DAIR)](https://www.dair-institute.org/)'s "[Imagining Possible Futures](https://www.dair-institute.org/imagining-possible-futures)"
+- [DAIR Institute blog](https://www.dair-institute.org/blog/)
+- [DAIR Possible Futures Zine Issue 1](references/DAIR_PossibleFuturesZine_Issue1.pdf)
+- [Imagination Battle](https://radicaldiscipleship.net/2020/04/01/imagination-battle) by Adrienne Maree Brown
+- [Emerging Business Trends Zine - ISSUE 1 by the fall 2025 class of TR35](../../emerging-trends/issues/EMERGING-TRENDS-ZINE-1.pdf)
+- [Zine](https://guides.lib.purdue.edu/loudonpaper/what-is-a-zine#:~:text=Definition,to%20express%20the%20author%27s%20message.) definition via Purdue
 
 ---
 

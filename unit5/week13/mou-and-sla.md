@@ -256,15 +256,10 @@ Two universities want to establish a semester exchange program for translation s
 Consider these questions as you learn about MOUs and SLAs:
 
 1. **Choosing the right document:** When would an MOU be more appropriate than an SLA, and vice versa? Can you think of situations where both might be used together?
-
 2. **Balancing accountability and flexibility:** How can organizations create SLAs that ensure accountability without making the relationship overly rigid or adversarial?
-
 3. **Cultural considerations:** How might expectations around MOUs and SLAs differ across cultures? What challenges might arise when negotiating these agreements with partners from different legal and business traditions?
-
 4. **Metric selection:** If you were developing an SLA for translation services, what metrics would you prioritize? How would you ensure the metrics reflect quality and service without being easy to "game"?
-
 5. **Trust and documentation:** MOUs rely heavily on trust and good faith. At what point does a relationship need to transition from an MOU to more binding agreements? What signs indicate this transition is necessary?
-
 6. **Your perspective:** As a future language services professional, would you prefer working under clearly defined SLAs or more flexible arrangements? What are the advantages and disadvantages of each from the service provider's perspective?
 
 ---

@@ -204,13 +204,9 @@ After completing this self-evaluation:
 As you work through the DDR self-evaluation, consider these questions:
 
 1. **Future Preparedness**: What specific security measures do you need to implement before you can ethically accept professional translation work involving confidential information? Create a prioritized list of steps to take in the next 6-12 months.
-
 2. **Resource Constraints**: Many of the "best practices" described assume access to resources (multiple devices, paid software, private servers). How can you balance ideal security practices with practical constraints as a student or emerging professional?
-
 3. **Professional Standards**: After reviewing what clients look for in vendors, how does your current setup compare? What investments (time, money, learning) would give you the best return in terms of professional readiness?
-
 4. **Client Communication**: If a potential client asked about your data security practices today, how would you respond? Would you feel confident explaining your measures, or would you need to defer work until you improved your systems?
-
 5. **Continuous Improvement**: Security isn't a one-time achievement but an ongoing practice. How can you build regular security reviews into your professional routine? What triggers should prompt you to update your practices?
 
 ---

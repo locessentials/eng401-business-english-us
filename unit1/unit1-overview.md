@@ -62,4 +62,4 @@ Copy the downloaded content and try it with these prompts:
 
 ---
 
-**Ready to begin?** Start with [Week 1: Business Communication Styles](week1-overview.md) to master professional written communication formats.
+**Ready to begin?** Start with [Week 1: Business Communication Styles](week/week1-overview.md) to master professional written communication formats.

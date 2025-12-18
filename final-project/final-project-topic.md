@@ -28,17 +28,17 @@ Understanding how to navigate these dynamics positions you for success in today'
 
 Your group can select from among the subtopics given for in-depth exploration. Each offers rich opportunities for research, analysis, and practical recommendations:
 
-| Topic | Description |
-| ----- | ----------- |
-| **Assessing Job Postings** | Develop frameworks for critically evaluating job advertisements to identify red flags, assess cultural fit, determine realistic qualification requirements, and distinguish between essential and aspirational job criteria. Explore how to read between the lines of corporate language to understand what positions actually entail. |
-| **Where to Find Jobs** | Investigate the evolving landscape of job discovery platforms, from traditional job boards to AI-powered matching systems, industry-specific networks, and hidden job markets. Analyze which channels prove most effective for different industries and career stages, including strategies for accessing unadvertised opportunities. |
-| **Resume and Application Hacks** | Examine contemporary best practices for creating application materials that successfully navigate both AI screening systems and human reviewers. Explore formatting strategies, keyword optimization, achievement quantification, and customization techniques that increase application success rates. |
-| **The Low Down on Networking** | Analyze effective networking strategies in an increasingly digital professional world. Investigate how to build authentic professional relationships, leverage informational interviews, utilize networking platforms strategically, and maintain professional connections over time. |
-| **Answering Interview Questions on the Spot** | Develop frameworks for responding effectively to unexpected interview questions, including behavioral questions, situational judgment scenarios, and technical assessments. Explore techniques for buying processing time, structuring coherent responses under pressure, and recovering from difficult questions. |
-| **The Elevator Speech** | Investigate the art of crafting and delivering compelling personal introductions in various professional contexts. Analyze successful elevator pitch structures, customization strategies for different audiences, and techniques for memorable self-presentation without appearing rehearsed. |
-| **Building a Portfolio** | Examine strategies for developing professional portfolios that effectively showcase skills and accomplishments for translation, localization, and business communication roles. Explore what to include, how to organize materials, platform choices, and techniques for keeping portfolios current. |
-| **Establishing Your Professional Presence** | Analyze approaches to building credible professional identities across LinkedIn, personal websites, professional associations, and industry platforms. Investigate content strategies, engagement approaches, and methods for demonstrating expertise while maintaining appropriate professional boundaries. |
-| **Custom Topics (Instructor Approval Recommended)** | If your group identifies another job search-related topic that would benefit your cohort, you may propose it for approval. Submit your proposed topic with a clear rationale explaining its relevance and potential for substantive research. |
+- **Assessing Job Postings**
+- **Where to Find Jobs**
+- **Resume and Application Hacks**
+- **The Low Down on Networking**
+- **Answering Interview Questions on the Spot**
+- **The Elevator Speech** 
+- **Building a Portfolio**
+- **Establishing Your Professional Presence**
+- **Custom Topics (Instructor Approval Recommended)**
+
+You'll learn more about these subtopics on the next page.
 
 ---
 

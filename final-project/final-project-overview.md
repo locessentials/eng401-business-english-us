@@ -9,48 +9,51 @@ has_children: true
 
 ## Welcome
 
-Welcome to the culminating experience of Business English II - your final project that demonstrates comprehensive mastery of business English through an integrated "Show and Tell" approach. This capstone project synthesizes all the knowledge, skills, and specialized vocabulary you've developed throughout the five course units, preparing you for real-world professional communication scenarios.
+Welcome to the culminating experience of Business English II - your final project that demonstrates comprehensive business English skills through a **"Show & Tell"** approach. This capstone project synthesizes all the knowledge, skills, and specialized vocabulary you've developed throughout the five course units, preparing you for real-world professional communication scenarios.
 
-## Introduction
+## Our Topic: The Job Search
 
-This final project represents the integration of everything you've learned in Business English II. You will work in teams to create both a professional business presentation and a comprehensive written report on a contemporary business topic, mirroring the dual communication formats frequently required in international business environments.
+You will work in teams to create both a professional business presentation and a comprehensive written report exploring an aspect of **"The Job Search"**—a topic immediately relevant as you prepare to enter the professional world.
 
-The project challenges you to apply the communication skills from Unit 1, the specialized terminology from Unit 2, the production and quality control concepts from Unit 3, the leadership and intercultural competencies from Unit 4, and the global business and technology knowledge from Unit 5 in a cohesive, professional deliverable.
+Your project will mirror the dual communication formats (spoken and written) frequently required in international business environments while addressing practical challenges you'll face in finding meaningful employment. The predetermined focus on job search strategies ensures your research serves double duty: demonstrating your business English competency while building knowledge you'll apply in your immediate career transition.
 
 ## Project Components
 
 The final project consists of four interconnected components that demonstrate different aspects of your business English competency:
 
 ### The "Show" Component: Business Presentation
-- **Professional presentation slides** (10-12 slides)
-- **Recorded presentation delivery** (15-20 minutes)
-- Focus on visual storytelling and executive-level communication
+- **Professional presentation slides** (8-10 slides)
+- **Recorded presentation delivery** (8-12 minutes)
+- Focus on actionable job search strategies and practical recommendations
 
 ### The "Tell" Component: Comprehensive Report
-- **Written business report** (1500-2000 words)
-- In-depth analysis with proper citations and specialized vocabulary
-- Professional document suitable for stakeholder circulation
+- **Written business report** (~1500 words)
+- In-depth analysis of job search subtopic with proper citations
+- Professional document demonstrating specialized vocabulary
 
 ### The Integration Component: Peer Evaluation (Optional but recommended)
-- **Two peer evaluations** using provided rubrics
+- **Peer evaluations** using provided rubrics
 - Constructive feedback demonstrating critical analysis skills
-- Application of course concepts to assess presentation effectiveness
+- Can invite colleagues, mentors, or professional contacts to evaluate your work
 
 ## Learning Integration
 
-This project integrates learning objectives from all five units:
+This project integrates learning objectives from all five units.
 
-**Unit 1 (Communication & Ethics):** Professional presentation delivery and ethical analysis frameworks  
-**Unit 2 (Legal & Financial):** Specialized terminology and document analysis skills  
-**Unit 3 (Production & Quality):** Technical documentation and process management concepts  
-**Unit 4 (People & Relationships):** Intercultural communication and teamwork competencies  
-**Unit 5 (Global Business):** International business context and digital transformation knowledge
+| Unit | Description |
+| ---- | ----------- |
+| **Unit 1: Communication & Ethics** | Professional email and presentation skills and ethics and integrity in business |
+| **Unit 2: Legal & Financial Frameworks** | Navigating contracts, financial statements and international regulations |
+| **Unit 3: Production & Quality Processes** | Specifications, production management, and quality management systems |
+| **Unit 4: People & Relationships** | Intercultural competency and teamwork, corporate communications and crisis management, professional development |
+| **Unit 5: Global Business & Technologies** | More business documents, technology quick start guides, and business innovation terminology and the future of work |
 
 ## Project Timeline
 
-**Weeks 16-17**
-- Weeks 16: Topic selection, research and content development  
-- Week 17: Presentation and report finalization; peer evaluation period
+**Weeks 16-18**
+- Week 16: Subtopic selection and approval
+- Week 17: Research, content development, and project finalization
+- Week 18: Peer evaluation and final reflections
 
 ## Success Criteria
 
@@ -63,7 +66,7 @@ Your success will be measured across five key areas:
 
 ## Getting Started
 
-Ready to demonstrate your business English mastery? This final project represents your opportunity to showcase the professional communication skills that will serve you throughout your career as a translator, interpreter, or business communication specialist.
+Ready to demonstrate your business English skills? This final project represents your opportunity to showcase the professional communication skills that will serve you throughout your career as a translator, interpreter, or business communication specialist.
 
 ---
 
@@ -72,10 +75,11 @@ Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-engli
 
 ### 🤖 GAI Study Prompts
 Copy the downloaded content and try it with these prompts:
-- "Help me understand how to integrate concepts from all 5 units in my final project"
-- "Create a timeline for completing this project effectively over 4 weeks"
+- "Help me understand how to integrate concepts from all 5 units in a job search-focused project"
+- "Create a timeline for completing this project effectively over 3 weeks (Weeks 16-18)"
 - "What are the key differences between the 'Show' and 'Tell' components and how do they complement each other?"
-- "Generate ideas for contemporary business topics that would work well for this project"
+- "Generate subtopic ideas within 'The Job Search' theme that would work well for this project"
+- "How can I ensure my job search project demonstrates professional communication competency?"
 
 ---
 

@@ -7,9 +7,20 @@ nav_order: 4
 
 # Final Project Evaluation
 
+## Purpose of These Criteria
+
+These evaluation criteria serve multiple purposes depending on your context:
+
+- **For students in formal courses**: Your instructor may use these rubrics to assess your final project
+- **For peer evaluation activities**: You can use these criteria to provide structured feedback to classmates
+- **For independent learners**: You can invite colleagues, mentors, or professional contacts to evaluate your work using these standards
+- **For self-assessment**: You can use these criteria to quality-check your work before submission
+
+The rubrics provide consistent standards for assessing business English competency and professional communication skills demonstrated through the Show & Tell project format.
+
 ## Overall Assessment Structure
 
-The final project is worth **10 points total**, representing a significant portion of your course grade. The evaluation is distributed across components that assess different aspects of your business English competency and professional communication skills.
+The final project assessment totals **10 points**, distributed across components that evaluate different aspects of business English competency and professional communication skills.
 
 ## Component Breakdown
 
@@ -142,9 +153,9 @@ This component evaluates your project management skills, file organization, and 
 
 ---
 
-### Peer Evaluations
+### Providing or Receiving Feedback
 
-When evaluating other groups' presentations, your work is judged based on the critical analysis it conveys and the overall quality of the constructive feedback.
+Whether you're evaluating other groups' presentations in a course setting, inviting professional colleagues to review your work, or conducting self-assessment, effective feedback demonstrates critical analysis skills and understanding of professional communication standards.
 
 #### Effective feedback
 - **Detailed and specific** with concrete examples and evidence
@@ -187,27 +198,41 @@ All components should demonstrate:
 - **Ethical considerations** in research methodology and conclusions
 - **Professional presentation** standards throughout all deliverables
 
-### Grade Conversion
-- **9-10 points:** Exceptional work demonstrating internalization of course contents
+### Performance Levels
+- **9-10 points:** Exceptional work demonstrating mastery of course concepts
 - **8 points:** Proficient work meeting most expectations
 - **6-7 points:** Adequate work with some deficiencies
-- **Below 6 points:** Inadequate work requiring significant improvement
+- **Below 6 points:** Work requiring significant improvement
 
-## Feedback Process
+## Using These Criteria
 
-### Instructor Feedback
-You will receive detailed feedback on:
+### For Formal Course Assessment
+If you're enrolled in a course, your instructor will use these rubrics to evaluate your final project and provide:
 - Specific strengths demonstrated in each component
 - Areas for improvement with concrete suggestions
 - Assessment of language development and business vocabulary usage
 - Recommendations for continued professional development
 
-### Peer Feedback Integration
-Your peer evaluations can contribute to your learning by:
-- Providing multiple perspectives on presentation effectiveness
-- Demonstrating critical analysis skills application
-- Offering insights into audience perception and engagement
-- Building professional feedback and evaluation competencies
+### For Peer Review Activities
+When providing feedback to classmates or colleagues:
+- Use the rubrics as a structured framework for evaluation
+- Provide multiple perspectives on presentation effectiveness
+- Offer insights into audience perception and engagement
+- Demonstrate critical analysis skills through specific, constructive feedback
+
+### For Self-Assessment
+Before submitting your work:
+- Review each criterion systematically
+- Identify your strongest components
+- Note areas requiring additional refinement
+- Ensure professional standards are maintained throughout
+
+### For Invited External Review
+When asking mentors, colleagues, or professional contacts to evaluate your work:
+- Share these rubrics to provide clear evaluation standards
+- Request specific feedback aligned with the criteria
+- Use their insights to strengthen your portfolio-quality materials
+- Consider their feedback as professional development guidance
 
 ---
 
@@ -223,4 +248,4 @@ Copy the downloaded content and try it with these prompts:
 
 ---
 
-**Thank you for your help with our peer reviews!** Next, you can learn about the [Final Project Takeaways](final-project-conclusions.md) that are great to have in mind about your work.
+**Have feedback or questions about the evaluation criteria?** Explore the [Final Project Takeaways](final-project-conclusions.md) for insights on maximizing the value of this project experience.

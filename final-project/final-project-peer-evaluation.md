@@ -248,4 +248,4 @@ Copy the downloaded content and try it with these prompts:
 
 ---
 
-**Have feedback or questions about the evaluation criteria?** Explore the [Final Project Takeaways](final-project-conclusions.md) for insights on maximizing the value of this project experience.
+**Not quite ready to finish up the final project?** Explore the [Final Project Takeaways](final-project-conclusions.md) for insights on maximizing the value of the Show & Tell experience.

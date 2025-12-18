@@ -25,3 +25,4 @@ Future Revisions:
 - Check all links
 - Check page to page navigation
 - Review lecture and exercise pages
+- Polish bibliography

@@ -11,7 +11,7 @@ nav_order: 5
 
 Hello, my name is Alaina Brandt, and I designed these course contents. I am a Spanish<>English translator, and I've taught translation and localization to hundreds of students in universities in the United States, China and Mexico. I have a master's degree in language, literature and translation, along with professional certificates from MIT in generative artificial intelligence, data science and machine learning, and web programming. I've served in the executive leadership of such professional associations as the American Translators Association and technical committee F43 on language services and products of ASTM International.
 
-Are you interested in collaborating on multilingual technology and NLP? I would live to connect with researchers and professionals who work at the intersection of language and technology.
+Are you interested in collaborating on multilingual technology and NLP? I would love to connect with researchers and professionals who work at the intersection of language and technology.
 
 You can connect with me on LinkedIn: [https://www.linkedin.com/in/alainambrandt/](https://www.linkedin.com/in/alainambrandt/)
 

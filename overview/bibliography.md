@@ -123,8 +123,44 @@ This bibliography is the collection of references that the course designer consi
 ### Unit 4: People & Relationships
 
 #### Week 10: Teamwork & Intercultural Competency
+- [Why Diverse Teams are Smarter](https://youtu.be/1JdDPYFPwUo?si=iie7YQixokWlnL64) by Katherine Phillips via Columbia Business School
+- [My Advice For Working In Teams](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week10/references/Brandt_MyAdviceForWorkingInTeams_EN-US.pdf) by Alaina Brandt
+- [“Why Diverse Teams Are Smarter”](https://hbr.org/2016/11/why-diverse-teams-are-smarter) - By Rock and Grant via HBR
+- [“The Trouble with Homogenous Teams”](https://sloanreview.mit.edu/article/the-trouble-with-homogeneous-teams/) - Evan apfelbaum and Martha E. Mangelsdorf, MIT Sloan Management Review
+- _Me and White Supremacy: Combat Racism, Change the World, and Become a Good Ancestor_ - Book by Layla F. Saad
+- [“Babble Bias and Homogenous Leadership”](https://medium.com/@alamar.b2019/babble-bias-and-homogenous-leadership-7235fce47bb0) by Alaina Brandt via Medium
+- ["Using the Stages of Team Development"](https://hr.mit.edu/learning-topics/teams/articles/stages-development) by Judith Stein via MIT Human Resources
+- [“Learning in the Thick of It”](https://hbr.org/2005/07/learning-in-the-thick-of-it) by Darling, Parry and Moore, HBR
+- _Collaborating with the Enemy: How to Work with People You Don’t Agree with or Like or Trust_ - Book by Adam Kahane
+- [“Collaborating with the Enemy”](https://jarche.com/2018/01/collaborating-with-the-enemy/) workflow image by by Harold Jarche 
+- _Set Boundaries, Find Peace: A Guide to Reclaiming Yourself_ - Book by Nedra Glover Tawwab 
+- _Radical candor: Be a Kick-Ass Boss without Losing Your Humanity_ - Book by Kim Scott
+- [“Our Approach”](https://www.radicalcandor.com/our-approach/) by Radical Candor
+- ["The Feedback Fallacy"](https://hbr.org/2019/03/the-feedback-fallacy) - HBR, Buckingham and Goodall
+- [“Time to ditch ‘toxic positivity,’ experts say: ‘It’s okay not to be okay’”](https://www.washingtonpost.com/lifestyle/wellness/toxic-positivity-mental-health-covid/2020/08/1
+9/5dff8d16-e0c8-11ea-8181-606e603bb1c4_story.html) by Chiu via The Washington Post
+- [“Go Ahead and Complain. It Might Be Good for You.”](https://www.nytimes.com/2020/01/06/smarter-living/how-to-complain-.html) by Marini Higgs via The New York Times
+- Darla Deardorff's Process Model of Intercultural Competence (2006)
+- *The Silent Language* book by Edward Hall
+- [Intercultural communication competence from 2000 to 2024: A systematic review](https://doi.org/10.1080/15358593.2025.2555009) by Hussain, Nshom and Lin
+- [UNESCO, Intercultural Competences, 2013](https://unesdoc.unesco.org/in/documentViewer.xhtml?v=2.1.196&id=p::usmarcdef_0000219768&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_import_9767a679-bbc0-4f31-a0b4-1ab630073ee0%3F_%3D219768eng.pdf&locale=en&multi=true&ark=/ark:/48223/pf0000219768/PDF/219768eng.pdf#%5B%7B"num"%3A82%2C"gen"%3A0%7D%2C%7B"name"%3A"XYZ"%7D%2Cnull%2Cnull%2C0%5D)
+- [Advancing Intercultural Competence for Global Learners](https://ecampusontario.pressbooks.pub/interculturalcompetence)
+- [Intersectional](https://en.wikipedia.org/wiki/Intersectionality) as defined on Wikipedia
+- [Work culture: What it is + why it’s important](https://www.zoom.com/en/blog/work-culture) via Zoom
+-_Lean In_ book by Sheryl Sandberg.
+- Sack, Steve. “Crybaby Trump” image by Steve Sack via The Minneapolis Star Tribune adapted to include a phrase from an internet meme
+- Dogs Playing Poker image from 1894 by Cassius Marcellus Coolidge
 
 #### Week 11: Internal Corporate Communications
+- [Managing Organizational Communication](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week11/references/SHRM_ManagingOrganizationalCommunication_2021.pdf) - Society for Human Resource Management
+- [Examining the Effects of Internal Communication and Emotional Culture](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week11/references/Yue_Men_Ferguson_EffectsOfInternalCommunication_2020.pdf) by Men, Yue & Ferguson
+- [Rethinking Internal Communication: A Stakeholder Approach](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week11/references/Welch_Jackson_RethinkingInternalCommunication_2007.pdf) by Welch & Jackson, 2007
+- World Economic Forum's [**DEI Lighthouse Programme**](https://www.weforum.org/stories/2024/01/organizations-impactful-corporate-dei-initiatives)
+- [*Layoffs Are Painful But You Can Communicate Them Compassionately*](https://hbr.org/2022/11/layoffs-are-painful-but-you-can-communicate-them-compassionately) via HBR
+- [**Communicating in a Crisis: What, When, and How**](https://www.ccl.org/articles/leading-effectively-articles/communicating-in-a-crisis-what-when-and-how) via the Center for Creative Leadership  
+- [**12 Important Steps in Crisis Communication**](https://changemanagementinsight.com/important-steps-in-crisis-communication) via Change Management Insight  
+- [**Why Some Diversity, Equity & Inclusion (DEI) Crisis Responses Fail + What to Do Instead**](https://www.inhersight.com/blog/employer-resources/diversity-equity-inclusion-dei-crisis-response) via InHerSight
+
 
 #### Week 12: Leadership & Performance Management
 

@@ -35,7 +35,7 @@ As you narrate your experiences, we'll generalize your experiences into the pers
 
 ### Culturally-Tied Expectations about Teamwork
 
-Next, we'll discuss culturally-tied expectations about Teamwork. Here, please contribute your perseptive about an expectation for teamwork from a culture to which you belong or are familiar with. Let us know the culture the expectations comes from. Describe the perceived expectation itself. Then give some advice for navigating the expectation.
+Next, we'll discuss culturally-tied expectations about Teamwork. Here, please contribute your perspective about an expectation for teamwork from a culture to which you belong or are familiar with. Let us know the culture the expectations comes from. Describe the perceived expectation itself. Then give some advice for navigating the expectation.
 
 | Contributor | Culture | Perceived Expectation | Navigating the Expectation |
 | ----------- | ------- | --------------------- | -------------------------- |

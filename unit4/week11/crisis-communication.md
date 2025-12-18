@@ -202,17 +202,11 @@ If you're interested in learning more about crisis communication beyond layoffs,
 Consider these questions as you think about crisis communication and organizational reputation:
 
 1. **The speed vs. accuracy dilemma**: Crisis communication requires speed, but rushed messages can contain errors or incomplete information. How should organizations balance the need to communicate quickly with the need to get the message right? In the layoff example, what information would you wait to verify before sending, and what would you communicate immediately?
-
 2. **Tone and authenticity**: The fictional CEO message attempts to be both empathetic and business-focused. Some readers might find this authentic; others might see it as performative. What makes crisis communication feel genuine versus scripted? Can you identify specific linguistic choices that affect perceived authenticity?
-
 3. **The remaining employees' perspective**: If you were an employee who survived a layoff, what would you most need to hear from leadership? What would make you trust the organization going forward—or decide to leave? How might your reaction differ based on your role, tenure, or relationship with departed colleagues?
-
 4. **Cultural context in crisis communication**: How might crisis communication about layoffs differ across cultural contexts? For example, how might directness, emotional expression, or acknowledgment of personal impact be communicated differently in different cultural settings? As a translator or localization professional, what challenges might you face in adapting crisis communications across cultures?
-
 5. **The role of format and channel**: The example uses email, which allows for careful wording and documentation but lacks human warmth. When should organizations use different formats (video messages, town halls, one-on-one meetings, written memos)? What are the risks and benefits of each format during a crisis?
-
 6. **Promises and commitments**: The example CEO promises "no additional layoffs" and commits to transparency. These are powerful statements—but what if circumstances change and the organization must break these promises? Is it better to make specific commitments and risk breaking them, or to remain vague and preserve flexibility? What does each choice cost in terms of trust?
-
 7. **Crisis communication as translation challenge**: Imagine you are tasked with localizing the example CEO message for employees in a different country with different labor laws, severance expectations, and communication norms. What would you need to adapt beyond just language? What cultural consultation would you need to seek?
 
 ---

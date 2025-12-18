@@ -117,15 +117,10 @@ We'll discuss your findings together in class, looking for patterns about:
 Consider these questions as you think about navigating authenticity and political realities in corporate communication:
 
 1. **Your own communication context**: Think about a workplace, organization, or community you're part of. What are the unspoken rules about "acceptable" or "professional" communication? Who benefits from these rules? Who might be silenced by them?
-
 2. **The burden of "fitting in"**: Tone policing often requires people from marginalized groups to spend extra energy managing how they communicate—energy that could be spent on actual work. As a future communication professional (translator, localization specialist), what responsibility do you have to recognize and address this dynamic?
-
 3. **Culture and communication norms**: Corporate communication norms often reflect dominant cultural values. When localizing internal communications about DEI across different cultural contexts, what challenges might you face? For example, how might discussions of gender equity be communicated differently in Ecuador (Banco Pichincha), Hong Kong (HKEX), and Europe (McKinsey)?
-
 4. **The role of leadership**: All the successful DEI initiatives in the WEF report had strong senior leadership commitment. Why is it significant that change came from leadership rather than only from grassroots employee advocacy? What are the advantages and limitations of this approach?
-
 5. **Beyond gender and race**: The WEF report focuses primarily on gender equity and some LGBTQI+ initiatives. What other dimensions of diversity, equity, and inclusion might be even more difficult to discuss in corporate contexts? Why might organizations be more comfortable addressing certain DEI issues than others?
-
 6. **Authenticity vs. effectiveness**: Is it possible to be both authentic *and* politically savvy in corporate communication? Or are there situations where you must choose between speaking your truth and being heard? How do you navigate this tension?
 
 ---

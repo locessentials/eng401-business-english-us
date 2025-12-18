@@ -20,7 +20,7 @@ This project is inspired by the Distributed AI Research Institute's [Imagining P
 
 ![Emerging Trends Zine Issue 1 Cover](issues/EMERGING-TRENDS-1-COVER.png)
 
-**Contributors:** TR35 Business English II students, Universidad Intercontinental
+**Contributors:** TR35 Business English II students, Fall 2025, Universidad Intercontinental
 
 **[View Issue 1 (PDF)](issues/EMERGING-TRENDS-ZINE-1.pdf)**
 

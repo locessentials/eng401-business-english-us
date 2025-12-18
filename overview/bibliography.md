@@ -50,6 +50,14 @@ This bibliography is the collection of references that the course designer consi
 - ["Terms and Conditions, The Graphic Novel"](https://medium.com/mozilla-internet-citizen/terms-and-conditions-the-graphic-novel-6c16f7c0be0f) - Mozilla
 
 #### Week 5: Financial Terminology & Reporting
+- [How to Read Financial Statements: A Beginner's Guide](https://online.hbs.edu/blog/post/how-to-read-financial-statements) by Tim Stobierski, Harvard Business School Online
+- [How to Read & Understand a Balance Sheet](https://online.hbs.edu/blog/post/how-to-read-a-balance-sheet) by Tim Stobierski, Harvard Business School
+- [How to Read and Understand a Balance Sheet | Business: Explained](https://www.youtube.com/watch?v=BfXhpe1XxdI)
+- [How to Read & Understand an Income Statement](https://online.hbs.edu/blog/post/income-statement-analysis) by Tim Stobierski, Harvard Business School
+- [NASDAQ listings](https://stockanalysis.com/list/nasdaq-stocks)
+- [U.S. Securities and Exchange Commission CIK Lookup](https://www.sec.gov/search-filings/cik-lookup)
+- "[MercadoLibre misses profit estimates as Brazil free-shipping boost hurts margins](https://www.reuters.com/business/autos-transportation/mercadolibre-misses-profit-estimates-brazil-free-shipping-boost-hurts-margins-2025-08-04)" via Reuters
+- MercadoLibre, Inc.: Form 10-Q for the quarterly period ended June 30, 2025. U.S. Securities and Exchange Commission
 
 #### Week 6: Business Regulations & Compliance
 

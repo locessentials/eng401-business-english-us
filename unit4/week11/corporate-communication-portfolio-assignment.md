@@ -12,6 +12,10 @@ nav_order: 4
 
 **Format:** Individual or group work
 
+## Overview
+
+You will create a **change management communications portfolio** consisting of three different internal communication documents about the same organizational change scenario. Your documents will demonstrate your ability to communicate about significant organizational changes effectively across different channels, audiences, and purposes.
+
 ## Learning Objectives
 
 By completing this assignment, you will:
@@ -23,11 +27,7 @@ By completing this assignment, you will:
 
 ---
 
-## Assignment Overview
-
-You will create a **change management communications portfolio** consisting of three different internal communication documents about the same organizational change scenario. Your documents will demonstrate your ability to communicate about significant organizational changes effectively across different channels, audiences, and purposes.
-
-**What is change management communication?**
+## What is change management communication?
 
 Change management communication refers to the strategic approach organizations use to communicate with stakeholders during periods of transition. Unlike routine communication, change management requires:
 
@@ -179,14 +179,14 @@ Before submitting, ensure your portfolio:
 
 ## Submission Details
 
+- **Assignment Type:** Partial Exam 2
 - **File Format:** One MS Word document containing all four components (.docx)  
-- **File Name:** `LastName_communication-portfolio.docx`
+- **File Name:** `LastNames_communication-portfolio.docx`
 - **Structure:** 
   - Portfolio Introduction (first 1-2 pages)
   - Document 1 (1-2 pages)
   - Document 2 (1-2 pages)
   - Document 3 (1-2 pages)
-- **Upload Location:** Teams Assignment - Corporate Communications Portfolio (Second Partial Exam)  
 - **Due Date:** End of week
 
 ---
@@ -198,7 +198,7 @@ Before submitting, ensure your portfolio:
 | **Portfolio Introduction** | 1 | • Clear scenario description explaining what change you're communicating and why you selected it<br>• Thorough analysis of each document covering POV, audience, text type, and effectiveness<br>• Insightful synthesis explaining how documents work together as a cohesive strategy<br>• Discussion of timing, sequencing, and any gaps in the communication approach<br>• Well-organized, professional writing |
 | **Documents: Communication Effectiveness** | 1 point per document | • Appropriate tone and language register for audience and context<br>• Clear, logical organization following conventions of the text type<br>• Addresses relevant concerns and information needs<br>• Demonstrates understanding of change management communication principles |
 | **Documents: Audience Awareness** | 1 point per document | • Clearly targets a specific audience with appropriate level of detail<br>• Anticipates and addresses audience questions and concerns<br>• Uses language and examples relevant to the audience's context<br>• Balances information delivery with empathy and motivation |
-| **Documents: Professionalism & Cohesion** | 1 poing per document | • Each document is clearly a part of a cohesive unit<br>• Professional formatting appropriate to the text type<br>• Error-free writing with proper grammar, spelling, and punctuation<br>• Appropriate length (1-2 pages)<br>• Uses inclusive language |
+| **Documents: Professionalism & Cohesion** | 1 point per document | • Each document is clearly a part of a cohesive unit<br>• Professional formatting appropriate to the text type<br>• Error-free writing with proper grammar, spelling, and punctuation<br>• Appropriate length (1-2 pages)<br>• Uses inclusive language |
 | **Total Points** | **10** | |
 
 **Note on strategic coherence:** While each document is evaluated individually, in evaluating your work, we'll also consider whether the three documents work together as a thoughtful communication strategy. Documents should maintain consistent messaging while appropriately adapting tone, detail, and focus for different audiences and purposes.
@@ -210,17 +210,11 @@ Before submitting, ensure your portfolio:
 Consider these questions as you develop your portfolio:
 
 1. **Stakeholder sensitivity**: How did you adapt your message for different audiences? What specific language choices, levels of detail, or tonal shifts did you make?
-
 2. **Channel appropriateness**: Why did you choose the three text types you selected? How does each format serve different communication purposes?
-
 3. **Change management strategy**: If you were actually implementing this change, what additional communications might you need? What did you not include in your three documents?
-
 4. **Cultural considerations**: How might your communications need to be adapted for different cultural contexts? What assumptions about workplace communication are embedded in your documents?
-
 5. **Symmetrical communication**: Which of your documents are primarily one-way information delivery, and which invite or enable two-way dialogue? How did you balance the need to communicate clearly with the need to hear employee concerns?
-
 6. **Emotional intelligence**: How did you address the emotional dimensions of change? Where did you use empathetic language, meaning-making language, or direction-giving language from Men, Yue & Ferguson's research?
-
 7. **Translation challenges**: As future translation and localization professionals, what challenges might you face if asked to adapt these communications for a different language or cultural context? What would you need to know about the target culture's communication norms?
 
 ---

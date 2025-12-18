@@ -7,7 +7,7 @@ nav_order: 3
 
 # Custom Extra Credit Assignment
 
-Extra credit in this course rewards exceptional effort, consistency, and self-directed learning. The opportunity to design your own extra credit assignment is for students who want to go above and beyond the regular coursework to deepen their business English skills in an area of their choosing.
+Extra credit in this course rewards exceptional effort, consistency, and self-directed learning. This opportunity to design your own extra credit assignment is for students who want to go above and beyond the regular coursework to deepen their business English skills in an area of their choosing.
 
 ## Custom Assignment Guidelines
 

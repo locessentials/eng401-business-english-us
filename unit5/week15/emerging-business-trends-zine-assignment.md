@@ -6,15 +6,21 @@ grand_parent: Unit 5
 nav_order: 5
 ---
 
-# Emerging Business Trends Zine Assignment
+# Emerging Business Trends Zine Assignment (Partial Exam 3)
 
-**Due:** Sunday of Week 15 by 11:59 PM
+**Worth:** 10 points
 
-**Points:** 10 points (tercer parcial)
+**Format:** Individual or group work
 
-**Format:** Individual work or work in partners
+## Overview
 
-**Submission:** Upload your contribution to Teams
+Throughout this semester, you've analyzed business communication, legal frameworks, quality systems, teamwork, and leadership. Now, in this final unit, we're exploring the buzzwords that dominate contemporary business discourse: "digital transformation," "innovation," "disruption," "sustainability," and "the future of work."
+
+But rather than approaching these concepts through traditional business analysis, you'll contribute to a **class zine**—a creative, subversive publication format that encourages bold thinking and imaginative expression.
+
+Your contribution should make a statement about business innovation, emerging trends, or the future of work. This assignment is intentionally more creative than previous assignments to encourage you to think beyond conventional business frameworks and imagine alternative possibilities.
+
+All contributions will be compiled into our **TR35 Business English II Emerging Trends Zine**, showcasing the diverse perspectives of our class on where business is headed—and where it should go.
 
 ## Learning Objectives
 
@@ -24,18 +30,6 @@ By completing this assignment, you will:
 - Experiment with non-traditional formats for communicating business ideas
 - Contribute to a collaborative class publication that explores diverse perspectives on the future of business
 - Develop skills in making bold statements about business practices and futures
-
----
-
-## Assignment Overview
-
-Throughout this semester, you've analyzed business communication, legal frameworks, quality systems, teamwork, and leadership. Now, in this final unit, we're exploring the buzzwords that dominate contemporary business discourse: "digital transformation," "innovation," "disruption," "sustainability," and "the future of work."
-
-But rather than approaching these concepts through traditional business analysis, you'll contribute to a **class zine**—a creative, subversive publication format that encourages bold thinking and imaginative expression.
-
-Your contribution should make a statement about business innovation, emerging trends, or the future of work. This assignment is intentionally more creative than previous assignments to encourage you to think beyond conventional business frameworks and imagine alternative possibilities.
-
-All contributions will be compiled into our **TR35 Business English II Emerging Trends Zine**, showcasing the diverse perspectives of our class on where business is headed—and where it should go.
 
 ---
 

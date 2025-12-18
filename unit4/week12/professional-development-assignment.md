@@ -8,13 +8,9 @@ nav_order: 4
 
 # Professional Development Training Assignment
 
-**Due:** Sunday of Week 12
+**Worth:** 3 points
 
-**Points:** 3 points total  
-
-**Format:** Individual or group work (up to 4 members)
-
-**Submission:** TBD by your team and delivered to the class via a Teams post
+**Format:** Individual or group work
 
 ## Learning Objectives
 

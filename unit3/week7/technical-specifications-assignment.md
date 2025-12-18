@@ -8,7 +8,11 @@ nav_order: 4
 
 # Technical Specifications Assignment
 
-## Assignment Overview
+**Worth:** 3 points
+
+**Format:** Individual or group work
+
+## Overview
 
 Throughout this week, you have explored the structure, terminology, and purpose of technical specifications across various industries. You've analyzed translation specifications based on ASTM F2575 standards and examined how specifications serve as foundational documents that eliminate ambiguity, establish clear expectations, and guide project execution.
 
@@ -90,7 +94,7 @@ As a reminder, here is a delivery summary:
 - **File format:** Two matching MS Word documents in .docx format
   - **Template file naming:** `LastNames_LastNames_[ProductType]-Specifications-template.docx`
   - **Filled-in specifications file naming:** `LastNames_LastNames_[ProductType]-Specifications-Project1.docx`
-- **Due date:** Sunday of Week 7 by 11:59 PM
+- **Due date:** End of week
 - **Teams Assignment:** Technical Specifications
 
 ## How Your Work Will be Graded

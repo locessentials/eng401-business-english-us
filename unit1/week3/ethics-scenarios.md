@@ -12,7 +12,6 @@ nav_order: 3
 
 These hypothetical situations reflect current ethical challenges in the translation and localization industry. For your case study assignment (on the next page), you'll select **one scenario** to analyze in depth, considering stakeholders, power relationships, consequences, and potential solutions.
 
-**Selection deadline:** Tuesday, Week 3  
 **Analysis approach:** Use situational analysis considering:
 - Who are the stakeholders?
 - What power relationships are at play?
@@ -88,7 +87,7 @@ You notice that the CAT tool your team uses consistently provides lower quality 
 
 ## Selection Process
 
-**Tuesday, Week 3:** 
+**At the beginning of the week:** 
 - Review all scenarios carefully
 - Select **one scenario** that interests you most or relates to situations you might realistically encounter
 - **Note:** Multiple students may choose the same scenario—diverse perspectives on the same dilemma can be valuable

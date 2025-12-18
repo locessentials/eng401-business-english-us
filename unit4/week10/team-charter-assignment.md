@@ -8,7 +8,11 @@ nav_order: 3
 
 # Team Charter Assignment
 
-## Assignment Overview
+**Worth:** 3 points
+
+**Format:** Individual or group work
+
+## Overview
 
 Throughout this week, you have explored the complexities of interculturally competent teamwork. You've analyzed how diverse perspectives strengthen team problem-solving while also creating potential for misunderstanding. You've examined how cultural dimensions like power distance, individualism versus collectivism, and communication styles shape team dynamics. 
 

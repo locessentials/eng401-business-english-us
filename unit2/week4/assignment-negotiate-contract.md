@@ -8,9 +8,12 @@ nav_order: 4
 
 # Assignment: Negotiate a Contract
 
-**Points:** 3 points  
-**Format:** Individual or group work (up to 3 members)  
-**Submission:** MS Word document via Teams
+**Worth:** 3 points
+
+**Format:** Individual or group work
+
+## Overview
+The Herod clause in the Loc101 NDA (the intellectual property transfer) is not the only unfair term in that agreement. For this assignment, you will conduct a complete counter-negotiation of the Loc101 NDA to demonstrate your understanding of contract anatomy and your ability to identify problematic terms.
 
 ## Learning Objectives
 By the end of this assignment, you will be able to:
@@ -18,12 +21,6 @@ By the end of this assignment, you will be able to:
 - Use professional language to propose alternative contract terms
 - Demonstrate understanding of power dynamics in contract negotiations
 - Practice using MS Word's collaborative editing tools for professional document review
-
----
-
-## Assignment Overview
-
-The Herod clause in the Loc101 NDA (the intellectual property transfer) is not the only unfair term in that agreement. For this assignment, you will conduct a complete counter-negotiation of the Loc101 NDA to demonstrate your understanding of contract anatomy and your ability to identify problematic terms.
 
 ---
 

@@ -64,9 +64,9 @@ We'll use a shared document to capture:
 
 Once we've brainstormed together, you can enhance your understanding by exploring additional perspectives.
 
-## Preparation for Thursday
+## Preparation for our Next Class
 
-Our discussion today will inform Thursday's workshop where you'll practice drafting professional emails for different scenarios. Pay attention to the challenges and solutions we identify - you'll apply them directly in your writing practice.
+Our discussion today will inform the workshop in our next class period where you'll practice drafting professional emails for different scenarios. Pay attention to the challenges and solutions we identify - you'll apply them directly in your writing practice.
 
 ---
 

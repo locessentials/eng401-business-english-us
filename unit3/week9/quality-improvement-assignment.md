@@ -8,7 +8,11 @@ nav_order: 3
 
 # Quality Improvement Plan Assignment
 
-## Assignment Overview
+**Worth:** 3 points
+
+**Format:** Individual or group work
+
+## Overview
 
 Throughout this week, you have explored quality management systems, the concept of non-conforming outputs, and the systematic approaches organizations use to address quality issues. You've learned about the Plan-Do-Check-Act cycle, studied root cause analysis techniques including the 5 Whys and Fishbone diagrams, and examined how corrective and preventive actions work together to drive continuous quality improvement.
 
@@ -202,7 +206,7 @@ Make sure your Word document includes all required sections and meets the specif
 - **File naming:**
   - Individual: `LastName_quality-improvement-plan.docx`
   - Team: `LastName1_LastName2_quality-improvement-plan.docx` or `LastName1_LastName2_LastName3_quality-improvement-plan.docx`
-- **Due date:** Sunday of Week 9 by 11:59 PM
+- **Due date:** End of week
 - **Submission location:** Teams Assignment: Quality Improvement Plan
 
 ---

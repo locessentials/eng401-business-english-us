@@ -20,8 +20,8 @@ This week focuses on the structure of effective business presentations, visual a
 ## Class Activities for the Week
 
 ### Preparation
-- Please find an example of an exemplary business presentation to bring to class on Tuesday
-- Please do the readings associated with Tuesday’s activities
+- Please find an example of an exemplary business presentation to bring to our first class meeting of the week
+- Please also do the readings associated with the first class period
 
 ### Course Period 1 (2 hours)
 - Assignment introduction: Mini-Presentation

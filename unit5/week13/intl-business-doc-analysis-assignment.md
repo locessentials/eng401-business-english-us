@@ -8,13 +8,9 @@ nav_order: 4
 
 # International Business Document Analysis Assignment
 
-**Due:** Sunday of Week 13  
+**Worth:** 3 points
 
-**Points:** 3 points total  
-
-**Format:** Individual or group work (up to 4 members)
-
-**Submission:** One MS Word document via Teams
+**Format:** Individual or group work
 
 ## Learning Objectives
 
@@ -191,7 +187,7 @@ Ensure professional formatting throughout with consistent fonts, spacing, and he
   - Individual: `LastName_intl-business-doc.docx`
   - Group: `LastName1_LastName2_intl-business-doc.docx` (list all group members)
 - **Upload Location:** Teams Assignment - International Business Document Analysis  
-- **Due Date:** Sunday of Week 13 by 11:59 PM
+- **Due Date:** End of week
 
 ## Assessment Criteria (3 points total)
 

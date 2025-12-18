@@ -106,7 +106,7 @@ When assessing whether to adopt a new business technology platform, consider the
 
 ## Building a Cloud Software Typology
 
-In your Tuesday class activity, you'll work in groups to create a typology of cloud software types. Consider organizing your typology around these dimensions:
+Create a typology of cloud software types. Consider organizing your typology around these dimensions:
 
 | Dimension | Guiding Questions |
 |-----------|-------------------|

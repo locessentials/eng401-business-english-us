@@ -92,7 +92,7 @@ While analyzing, consider:
 
 ## Looking Ahead
 
-The insights you gather today will directly inform Thursday's workshop where you'll practice writing professional emails for different business scenarios. Pay attention to the specific strategies that make emails effective - you'll be applying them in your own writing.
+The insights you gather today will directly inform the workshop in our next class period where you'll practice writing professional emails for different business scenarios. Pay attention to the specific strategies that make emails effective - you'll be applying them in your own writing.
 
 ---
 
@@ -107,4 +107,4 @@ Copy the downloaded content and try it with these prompts:
 
 ---
 
-**Next Activity:** [Email Writing Workshop](email-writing-workshop.md) - Thursday's hands-on practice session
+**Next Activity:** [Email Writing Workshop](email-writing-workshop.md) - Our hands-on practice session

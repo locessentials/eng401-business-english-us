@@ -21,7 +21,7 @@ This week focuses on ethical frameworks in business decision-making, corporate s
 ## Class Activities for the Week
 
 ### Preparation
-- Read the HBR article ["Is Business Bluffing Ethical?"](https://hbr.org/1968/01/is-business-bluffing-ethical) before our Tuesday class
+- Read the HBR article ["Is Business Bluffing Ethical?"](https://hbr.org/1968/01/is-business-bluffing-ethical) before our first class meeting of the week
 
 ### Course Period 1 (2 hours)
 - Assignment introduction: Ethics Case Study

@@ -8,7 +8,11 @@ nav_order: 3
 
 # Project Management Plan Assignment
 
-## Assignment Overview
+**Worth:** 3 points
+
+**Format:** Individual or group work
+
+## Overview
 
 Throughout this week, you have explored production workflows, project management methodologies, and the essential documentation tools that project managers use to organize work and facilitate team communication. You've examined how different methodologies like Waterfall, Agile, Kanban, and Lean shape project execution, and you've studied practical tools like Gantt charts, risk registers, and query trackers.
 
@@ -143,7 +147,7 @@ Make sure your Word document includes all required sections and meets the specif
 - **File naming:** 
   - Individual: `LastName_pm-plan.docx`
   - Team: `LastName1_LastName2_pm-plan.docx` or `LastName1_LastName2_LastName3_pm-plan.docx`
-- **Due date:** Sunday of Week 8 by 11:59 PM
+- **Due date:** End of week
 - **Submission location:** Teams Assignment: Project Management Plan
 
 ---

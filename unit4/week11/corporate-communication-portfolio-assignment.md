@@ -6,15 +6,11 @@ grandparent: Unit 4
 nav_order: 4
 ---
 
-# Assignment: Corporate Communications Portfolio (Second Partial Exam)
+# Assignment: Corporate Communications Portfolio (Partial Exam 2)
 
-**Due:** Sunday of Week 11  
+**Worth:** 10 points
 
-**Points:** 10 points total  
-
-**Format:** Individual or group work (up to 3 members)
-
-**Submission:** One MS Word document via Teams
+**Format:** Individual or group work
 
 ## Learning Objectives
 
@@ -191,7 +187,7 @@ Before submitting, ensure your portfolio:
   - Document 2 (1-2 pages)
   - Document 3 (1-2 pages)
 - **Upload Location:** Teams Assignment - Corporate Communications Portfolio (Second Partial Exam)  
-- **Due Date:** Sunday of Week 11 by 11:59 PM
+- **Due Date:** End of week
 
 ---
 

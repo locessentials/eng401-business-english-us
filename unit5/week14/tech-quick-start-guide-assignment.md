@@ -8,11 +8,9 @@ nav_order: 4
 
 # Business Technology Quick Start Guide Assignment
 
-**Due:** Sunday of Week 14
+**Worth:** 3 points
 
-**Points:** 3 points total
-
-**Format:** Individual or group work (up to 4 members)
+**Format:** Individual or group work
 
 ## Learning Objectives
 
@@ -292,7 +290,7 @@ Review your draft against the four plain language principles:
   - Team: `LastName1_LastName2_notion-quick-start.pdf`
 - **Length:** 4-6 pages (excluding cover page if included)
 - **Upload Location:** Teams Assignment - Business Technology Quick Start Guide
-- **Due Date:** Sunday of Week 14 by 11:59 PM
+- **Due Date:** End of week
 
 **Before submitting:**
 - Check that all links are working and clickable

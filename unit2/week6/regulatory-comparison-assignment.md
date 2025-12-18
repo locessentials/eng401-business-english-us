@@ -7,11 +7,9 @@ nav_order: 4
 
 # Assignment: Cross-Border Regulatory Comparison Report
 
-**Points:** 3 points
+**Worth:** 3 points
 
-**Format:** Individual or group work (up to 3 members)
-
-**Submission:** MS Word document via Teams
+**Format:** Individual or group work
 
 ## Assignment Overview
 

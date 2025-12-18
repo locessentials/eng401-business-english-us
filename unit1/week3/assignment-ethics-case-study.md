@@ -8,6 +8,10 @@ nav_order: 4
 
 # Ethics Case Study Assignment
 
+**Worth:** 3 points
+
+**Format:** Individual or group work
+
 ## Overview
 You will analyze one of the ethical scenarios from our class materials, develop a comprehensive case study analysis, and present your findings through both written analysis and professional role-play.
 
@@ -23,23 +27,23 @@ You will analyze one of the ethical scenarios from our class materials, develop 
 
 | **Day** | **Activity** | **Deliverable** |
 |---------|-------------|----------------|
-| **Tuesday** | Select scenario, begin analysis | Share scenario selection with class |
-| **Thursday - Part 1** | Post case study analysis | Upload analysis to Teams Ethics Channel |
-| **Thursday - Part 2** | Present role-play | Perform role-play for class |
-| **Sunday** | Submit final report | Submit polished case study via Teams |
+| **Course Period 1** | Select scenario, begin analysis | Share scenario selection with class |
+| **Course Period 2 - Part 1** | Post case study analysis | Upload analysis to Teams Ethics Channel |
+| **Course Period 2 - Part 2** | Present role-play | Perform role-play for class |
+| **End of week** | Submit final report | Submit polished case study via Teams |
 
 ---
 
 ## Assignment Components
 
-### 1. Scenario Selection (Tuesday)
+### 1. Scenario Selection (Class Period 1)
 - Choose one scenario from our [Ethics Scenarios](ethics-scenarios.md) list
 - Post your selection to the Teams Ethics Channel with:
   - Scenario number and title
   - Brief explanation of why you selected this scenario
   - One initial question or concern it raises for you
 
-### 2. Case Study Analysis (Due Thursday - Part 1)
+### 2. Case Study Analysis (Class Period 2 - Part 1)
 
 **Post to Teams Ethics Channel before class:**
 
@@ -69,7 +73,7 @@ Your analysis should include bullet points that address:
 - Explain how you would advocate for this position
 - Address potential counterarguments or obstacles
 
-### 3. Professional Role-Play (Thursday - Part 2)
+### 3. Professional Role-Play (Class Period 2 - Part 2)
 
 **Perform a 5-7 minute role-play** demonstrating how you would communicate your ethical concerns in a professional context.
 
@@ -93,11 +97,11 @@ Your analysis should include bullet points that address:
 
 ---
 
-## Final Report (Due Sunday)
+## Final Report (Due end of week)
 
 **Submit via Teams assignment (PDF format preferred)**
 
-Expand your Thursday analysis into a polished case study report (1,200-1,500 words) that includes:
+Expand your work from the week into a polished case study report (1,200-1,500 words) that includes:
 
 ### Report Sections
 
@@ -175,7 +179,7 @@ You could also look at *culture considerations*, like:
 
 ## Peer Learning
 
-**During Thursday's class:**
+**During class:**
 - Provide constructive feedback on classmates' analyses via Teams comments
 - Ask thoughtful questions during role-plays
 - Share insights from your own scenario that might apply to others

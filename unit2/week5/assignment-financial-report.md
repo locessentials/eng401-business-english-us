@@ -5,15 +5,11 @@ parent: Week 5
 nav_order: 3
 ---
 
-# Assignment: Financial Report Analysis (First Partial Exam)
+# Assignment: Financial Report Analysis (Partial Exam 1)
 
-**Due:** Sunday of Week 5  
+**Worth:** 10 points
 
-**Points:** 10 points  
-
-**Format:** Individual or group work (up to 3 members)
-
-**Submission:** MS Word document via Teams
+**Format:** Individual or group work
 
 ## Learning Objectives
 
@@ -171,7 +167,7 @@ Follow the instructions on report structure above to write a report containing t
 - **File Name:** `GroupMembersFirstLastNames_[Company]-Financial-Report.docx`
   - **For example:** `Reyes-Brandt_MercadoLibre-Financial-Report.docx`
 - **Upload Location:** Teams Assignment - Financial Report (Primer Parcial)  
-- **Due Date:** Sunday of Week 5 by 11:59 PM
+- **Due Date:** End of week
 
 ---
 

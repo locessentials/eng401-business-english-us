@@ -8,6 +8,10 @@ nav_order: 4
 
 # Mini-Presentation Assignment
 
+**Worth:** 3 points
+
+**Format:** Individual or group work
+
 ## Overview
 Working in small groups, you'll create and deliver a 5-7 minute business presentation on a topic relevant to translation, localization, or interpretation professionals.
 
@@ -23,9 +27,9 @@ Working in small groups, you'll create and deliver a 5-7 minute business present
 
 | **Day** | **Activity** | **Deliverable** |
 |---------|-------------|----------------|
-| **Tuesday** | Form groups, select topics, begin slide drafts | Group formation |
-| **Thursday** | Rehearsal presentations with peer feedback | Upload draft slides to Teams |
-| **Sunday** | Final presentation due | Submit final slides via Teams assignment |
+| **Course Period 1** | Form groups, select topics, begin slide drafts | Group formation |
+| **Course Period 2** | Rehearsal presentations with peer feedback | Upload draft slides to Teams |
+| **End of Week** | Final presentation due | Submit final slides via Teams assignment |
 
 ---
 
@@ -67,7 +71,7 @@ Choose **one** of the following business scenarios relevant to translation/local
 
 ---
 
-## Rehearsal Day (Thursday)
+## Rehearsal Day (Course Period 2)
 
 ### For Presenting Groups
 1. **Upload draft slides** to Teams by the second part of class
@@ -94,15 +98,15 @@ Each student must **comment on at least one rehearsal** (not your own group's):
 
 ---
 
-## Final Submission (Due Sunday)
+## Final Submission (End of week)
 
 ### File Naming Convention
-`GroupMembersFirstLastNames_TopicAbbreviation.pdf`
+`LastNames1_LastNames2_TopicAbbreviation.pdf`
 
 **Examples:**
-- `Reyes-Brandt_PresentationSkills.pdf`
-- `Martinez-Chen-Williams_TranslationTools.pptx`
-- `Rodriguez-Kim_MarketEntry.pdf`
+- `Brandt_MartínezWilliams_PresentationSkills.pdf`
+- `MartínezWilliams_Chen_Brandt_TranslationTools.pptx`
+- `Chen_MarketEntry.pdf`
 
 ### Submission Requirements
 - **Upload final slides** incorporating rehearsal feedback

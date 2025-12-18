@@ -66,7 +66,7 @@ Your final unit prepared you for the rapidly evolving global business landscape 
 
 ### Your Final "Show & Tell" Project on the Job Search
 
-Your capstone "Show and Tell" asked you to demonstrate the integration of all course competencies:
+Your capstone "Show & Tell" asked you to demonstrate the integration of all course competencies:
 
 - **Research and analysis skills** through comprehensive topic investigation
 - **Professional presentation abilities** with visual storytelling and confident delivery

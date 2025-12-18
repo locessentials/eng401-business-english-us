@@ -97,9 +97,9 @@ This bibliography is the collection of references that the course designer consi
 - [Fair Use](https://www.lib.uchicago.edu/copyrightinfo/fairuse.html) definition by The University of Chicago
 
 #### Week 8: Production Processes & Project Management
-- [What is Agile Project Management (APM)?](https://www.geeksforgeeks.org/software-engineering/agile-project-management) via Geeks for Geeks
-- [Six Sigma and Lean Model of Project Management](https://www.geeksforgeeks.org/blogs/six-sigma-and-lean-model-of-project-management) via Geeks for Geeks
-- [Kanban and its purpose in project management?](https://www.geeksforgeeks.org/business-studies/kanban-and-its-purpose-in-project-management) via Geeks for Geeks
+- [What is Agile Project Management (APM)?](https://www.geeksforgeeks.org/software-engineering/agile-project-management) via GeeksforGeeks
+- [Six Sigma and Lean Model of Project Management](https://www.geeksforgeeks.org/blogs/six-sigma-and-lean-model-of-project-management) via GeeksforGeeks
+- [Kanban and its purpose in project management?](https://www.geeksforgeeks.org/business-studies/kanban-and-its-purpose-in-project-management) via GeeksforGeeks
 - [Gantt Chart 101: How to Build and Use Them Effectively](https://slack.com/blog/productivity/gantt-chart-101-how-to-build-and-use-them-effectively) via Slack
 - [The Hard Side of Project Management](https://universidaduic.sharepoint.com/:v:/s/TR35-BusinessEnglishII-2026-1/EU6_s_n9dmhCsFQTiKZmvuEBNrH3B-W0RIUWPftqcf6ibA?e=7w2OmJ) by Carina Balbo
 - [ISO 31000 Risk Management Guidelines](https://www.iso.org/obp/ui/en/#iso:std:iso:31000:ed-2:v1:en)
@@ -131,7 +131,7 @@ This bibliography is the collection of references that the course designer consi
 ### Unit 4: People & Relationships
 
 #### Week 10: Teamwork & Intercultural Competency
-- [Why Diverse Teams are Smarter](https://youtu.be/1JdDPYFPwUo?si=iie7YQixokWlnL64) interview of Katherine Phillips via Columbia Business School
+- [Why Diverse Teams are Smarter](https://youtu.be/1JdDPYFPwUo?si=iie7YQixokWlnL64) - Interview of Katherine Phillips via Columbia Business School
 - [My Advice For Working In Teams](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week10/references/Brandt_MyAdviceForWorkingInTeams_EN-US.pdf) by Alaina Brandt
 - [Why Diverse Teams Are Smarter](https://hbr.org/2016/11/why-diverse-teams-are-smarter) - By Rock and Grant via HBR
 - [The Trouble with Homogenous Teams](https://sloanreview.mit.edu/article/the-trouble-with-homogeneous-teams/) - Evan Apfelbaum and Martha E. Mangelsdorf, MIT Sloan Management Review
@@ -155,7 +155,7 @@ This bibliography is the collection of references that the course designer consi
 - [Advancing Intercultural Competence for Global Learners](https://ecampusontario.pressbooks.pub/interculturalcompetence) online course on Open Library
 - [Intersectional](https://en.wikipedia.org/wiki/Intersectionality) as defined on Wikipedia
 - [Work culture: What it is + why it’s important](https://www.zoom.com/en/blog/work-culture) via Zoom
--_Lean In_ book by Sheryl Sandberg.
+- _Lean In_ book by Sheryl Sandberg
 - Crybaby Trump image by Steve Sack via The Minneapolis Star Tribune adapted to include a phrase from an internet meme
 - Dogs Playing Poker image from 1894 by Cassius Marcellus Coolidge
 
@@ -184,8 +184,8 @@ This bibliography is the collection of references that the course designer consi
 - [Performance Reviews - Employee Guide](https://www.rit.edu/talentdevelopment/sites/rit.edu.talentdevelopment/files/Performance%20Reviews%20-%20Employee%20Guide.pdf) via the Rochester Institute of Technology
 - [What Is a Performance Improvement Plan (PIP) and How Do You Create One?](https://www.uschamber.com/co/run/human-resources/performance-improvement-plan-templates) via the U.S. Chamber of Commerce
 - [How to Fire An Employee Without Burning Bridges & Legally](https://joingenius.com/leadership/how-to-fire-an-employee) via Genius
-- [6 Tips for Productive 1:1 Meetings with Your Manager](https://youtu.be/LWz57CpcSnE?si=iG_ssqfrZxa5P1By) - Video on the one-on-one from the perspective of the employee by Jeff Su
-- [ONE-ON-ONE MEETINGS WITH EMPLOYEES](https://youtu.be/JEzuTVurZ1o?si=wynArBPZ9RhjrtlB) - Video on the one-on-one from the perspective of the manager by Makeda Andrews
+- [6 Tips for Productive 1:1 Meetings with Your Manager](https://youtu.be/LWz57CpcSnE?si=iG_ssqfrZxa5P1By) - Video by Jeff Su
+- [ONE-ON-ONE MEETINGS WITH EMPLOYEES](https://youtu.be/JEzuTVurZ1o?si=wynArBPZ9RhjrtlB) - Video by Makeda Andrews
 - [SMART system](https://en.wikipedia.org/wiki/SMART_criteria) definition via Wikipedia
 - [JAN Role-Play Training Series: Performance Management](https://youtu.be/0LpQjI_8mQI?si=sD1AJpj_0DWZOeku) video by JANinformation
 
@@ -200,7 +200,7 @@ This bibliography is the collection of references that the course designer consi
 - ISO 27001 on Information Security - Annex A Security Controls Reference
 - [California Consumer Privacy Act (CCPA)](https://www.oag.ca.gov/privacy/ccpa) via California's Attorney General
 - [Acceso a la Información y Protección de Datos Personales](https://home.inai.org.mx/) - Mexico's INAI (Instituto Nacional de Transparencia)
-- *Vendor Management: An Insider's Strategies to Win and Create Long Lasting Change* book by Agostino Carrideo
+- *Vendor Management: An Insider's Strategies to Win and Create Long Lasting Change* - Book by Agostino Carrideo
 - [Top 10 Tech Security Basics Every Person Should Follow](https://lifehacker.com/top-10-tech-security-basics-every-person-should-follow-1767148925?test_uuid=02DN02BmbRCcASIX6xMQtY9&test_variant=B) by Melanie Pinola via Lifehacker 
 - [Why You Should Change the Default Password on a Wi-Fi Router](https://www.lifewire.com/changing-default-password-on-wifi-network-816567) by Bradley Mitchell via Lifewire
 - [How To Change Your Router SSID & Why You Should](https://helpdeskgeek.com/how-to-change-your-router-ssid-and-why-you-should) by Elsie Otachi via Help Desk Geek
@@ -227,6 +227,9 @@ This bibliography is the collection of references that the course designer consi
 - [Imagination Battle](https://radicaldiscipleship.net/2020/04/01/imagination-battle/) by Adrienne Maree Brown
 - [Emerging Business Trends Zine - ISSUE 1 by the fall 2025 class of TR35](../../emerging-trends/issues/EMERGING-TRENDS-ZINE-1.pdf)
 - [Zine](https://guides.lib.purdue.edu/loudonpaper/what-is-a-zine#:~:text=Definition,to%20express%20the%20author%27s%20message.) definition via Purdue
+
+### Final Projects
+- Show & Tell Methodology
 
 ---
 

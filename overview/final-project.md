@@ -18,7 +18,7 @@ By the end of this project, you'll be able to:
 
 ---
 
-## The Show and Tell Approach
+## The Show & Tell Approach
 
 ### The "Show" Component: Business Presentation
 

@@ -9,11 +9,11 @@ nav_order: 1
 
 ## Project Philosophy
 
-The final project is designed around the "Show and Tell" philosophy that reflects authentic business communication practices. In professional environments, you rarely communicate through just one medium - successful business professionals must master both dynamic presentations that capture attention and detailed reports that provide substantive analysis.
+The final project is designed around the "Show & Tell" philosophy that reflects authentic business communication practices. In professional environments, you rarely communicate through just one medium - successful business professionals must master both dynamic presentations that capture attention and detailed reports that provide substantive analysis.
 
 This dual approach mirrors real-world scenarios where you might first present an idea to stakeholders in a compelling presentation, then follow up with a comprehensive report that provides the detailed information needed for decision-making.
 
-## Why "Show and Tell"?
+## Why "Show & Tell"?
 
 ### The "Show" Component: Visual Impact and Engagement
 

@@ -35,7 +35,7 @@ The course is structured into **five thematic units** that progressively build y
 | **Final Projects** | 16-18 | Show & Tell Presentation and Report |
 
 ## 🎓 Final Project: Show & Tell
-The course concludes with a **"Show and Tell"** project that simulates authentic business communication:
+The course concludes with a **"Show & Tell"** project that simulates authentic business communication:
 - **"Show"**: Professional presentation with visual aids
 - **"Tell"**: Detailed written business report
 - **Contemporary topics**: Of your choosing that are related to course content and global business trends

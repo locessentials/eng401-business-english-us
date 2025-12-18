@@ -15,16 +15,16 @@ Use our business email writing evaluation scorecard to provide constructive feed
 ## Review Process
 
 ### Step 1: Assignment of Reviews (5 minutes)
-- Each group will be assigned **two to three email drafts** to review
+- You'll be assigned **two to three email drafts** to review
 - Access the submitted emails in our shared folder
-- Each group reviews different scenarios than the one they wrote
+- Review different scenarios than the one you've wrote
 
 ### Step 2: Individual Assessment (10 minutes)
-- Each group member **individually** reads both assigned emails
+- Everyone **individually** reads all assigned emails
 - Form your own opinions about the quality and effectiveness
 - Take notes on strengths and areas for improvement
 
-### Step 3: Group Consensus (15 minutes per email)
+### Step 3: Group Consensus (15 minutes per email) (Optional)
 - Discuss your individual assessments as a group
 - **Reach consensus** on scores for each evaluation category
 - Develop constructive feedback together
@@ -123,10 +123,12 @@ Use our business email writing evaluation scorecard to provide constructive feed
 1. **Make a copy** of the evaluation template
 2. **Rename the document:** "Review of [Scenario Title] by [Your Group Names]"
 3. **Complete all sections** thoroughly and constructively
-4. **Save in the appropriate folder** for the scenario you're reviewing
+4. **Save in the appropriate place** so the authors can learn from your feedback
 
 ### Example Document Name:
-"Review of Communicating Project Delays to Clients by Maria, Carlos, and Ana"
+- `LastNames1_LastNames2_EmailXReview.docx`
+- `MartínezWilliams_Chen_Brandt_Email1Review.docx`
+- `MartínezWilliams_Chen_Brandt_Email2Review.docx`
 
 ## Guidelines for Constructive Feedback
 

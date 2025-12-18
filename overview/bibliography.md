@@ -19,20 +19,20 @@ This bibliography is the collection of references that the course designer consi
 - Examples and advice related to corresponding via email
 
 #### Week 2: Presentation Skills in Business Contexts
-- **[How to Give a Killer Presentation](https://hbr.org/2013/06/how-to-give-a-killer-presentation)** by Chris Anderson via Harvard Business Review
-- **[How to Create Slides That Suit Your Superiors: 11 Tips](https://sloanreview.mit.edu/article/how-to-create-slides-that-suit-your-superiors-11-tips)** by Nancy Duarte via MIT Sloan Management Review
-- **[18 Best Types of Charts and Graphs for Data Visualization [+ Guide]](https://blog.hubspot.com/marketing/types-of-graphs-for-data-visualization)** via HubSpot
-- **[Meet Illustrator Mona Chalabi, the Data Sleuth Making Poignant Visualizations About the Full Impact of Racism](https://news.artnet.com/art-world/meet-mona-chalabi-1893221)** by Naomi Rea via artnet
-- **[How to Create More Inclusive Visual Communications: Ensuring Diverse Representation and Accessibility](https://aif.org/how-to-create-more-inclusive-visual-communications-ensuring-diverse-representation-and-accessibility)** by Disha Arora via American India Foundation
-- **[Inclusive Design for Accessible Presentations](https://www.smashingmagazine.com/2018/11/inclusive-design-accessible-presentations)** by Allison Ravenhall via Smashing Magazine
-- **[5 Ways to Project Confidence in Front of an Audience](https://hbr.org/2018/05/5-ways-to-project-confidence-in-front-of-an-audience)** by Carmine Gallo via HBR
-- **[5 Ways to Improve Your Body Language During a Speech](https://sps.columbia.edu/news/five-ways-improve-your-body-language-during-speech)** via Columbia School of Professional Studies
-- **[How to Make Stress Your Friend](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend)** by Kelly McGonigal via TEDGlobal 2013
+- [How to Give a Killer Presentation](https://hbr.org/2013/06/how-to-give-a-killer-presentation) by Chris Anderson via Harvard Business Review
+- [How to Create Slides That Suit Your Superiors: 11 Tips](https://sloanreview.mit.edu/article/how-to-create-slides-that-suit-your-superiors-11-tips) by Nancy Duarte via MIT Sloan Management Review
+- [18 Best Types of Charts and Graphs for Data Visualization [+ Guide]](https://blog.hubspot.com/marketing/types-of-graphs-for-data-visualization) via HubSpot
+- [Meet Illustrator Mona Chalabi, the Data Sleuth Making Poignant Visualizations About the Full Impact of Racism](https://news.artnet.com/art-world/meet-mona-chalabi-1893221) by Naomi Rea via artnet
+- [How to Create More Inclusive Visual Communications: Ensuring Diverse Representation and Accessibility](https://aif.org/how-to-create-more-inclusive-visual-communications-ensuring-diverse-representation-and-accessibility) by Disha Arora via American India Foundation
+- [Inclusive Design for Accessible Presentations](https://www.smashingmagazine.com/2018/11/inclusive-design-accessible-presentations) by Allison Ravenhall via Smashing Magazine
+- [5 Ways to Project Confidence in Front of an Audience](https://hbr.org/2018/05/5-ways-to-project-confidence-in-front-of-an-audience) by Carmine Gallo via HBR
+- [5 Ways to Improve Your Body Language During a Speech](https://sps.columbia.edu/news/five-ways-improve-your-body-language-during-speech) via Columbia School of Professional Studies
+- [How to Make Stress Your Friend](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend) by Kelly McGonigal via TEDGlobal 2013
 - Presentation examples shared by the class
 
 #### Week 3: Ethics and Integrity in Business
-- **[Is Business Bluffing Ethical](https://hbr.org/1968/01/is-business-bluffing-ethical)** by Albert Z. Carr via Harvard Business Review
-- **[Ethics Defined](https://ethicsunwrapped.utexas.edu/ethics-defined)** glossary via the McCombs School of Business
+- [Is Business Bluffing Ethical](https://hbr.org/1968/01/is-business-bluffing-ethical) by Albert Z. Carr via Harvard Business Review
+- [Ethics Defined](https://ethicsunwrapped.utexas.edu/ethics-defined) glossary via the McCombs School of Business
 
 ### Unit 2: Legal & Financial Frameworks
 
@@ -52,7 +52,7 @@ This bibliography is the collection of references that the course designer consi
 #### Week 5: Financial Terminology & Reporting
 - [How to Read Financial Statements: A Beginner's Guide](https://online.hbs.edu/blog/post/how-to-read-financial-statements) by Tim Stobierski, Harvard Business School Online
 - [How to Read & Understand a Balance Sheet](https://online.hbs.edu/blog/post/how-to-read-a-balance-sheet) by Tim Stobierski, Harvard Business School
-- [How to Read and Understand a Balance Sheet | Business: Explained](https://www.youtube.com/watch?v=BfXhpe1XxdI)
+- [How to Read and Understand a Balance Sheet - Business: Explained](https://www.youtube.com/watch?v=BfXhpe1XxdI)
 - [How to Read & Understand an Income Statement](https://online.hbs.edu/blog/post/income-statement-analysis) by Tim Stobierski, Harvard Business School
 - [NASDAQ listings](https://stockanalysis.com/list/nasdaq-stocks)
 - [U.S. Securities and Exchange Commission CIK Lookup](https://www.sec.gov/search-filings/cik-lookup)
@@ -98,27 +98,27 @@ This bibliography is the collection of references that the course designer consi
 - [What is a risk register: a project manager's guide (and example)](https://asana.com/resources/risk-register) by Asana
 - [Query Sheet Management for Project Managers and Translators](https://terralocalizations.com/wp-content/uploads/2024/01/ENG-Query-Sheet-Management-for-Project-Managers-and-Translators-Marina-Ilari.pdf) by Marina Ilari
 - [Are you Trapped in The Translation Query Management Maze?](https://slator.com/trapped-in-translation-query-management-maze-heres-how-to-escape) by Kaleidoscope
-- **[GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)** platform
-- **[Notion](https://www.notion.com/)** platform
-- **[Trello](https://trello.com/)** platform
-- **[Airtable](https://www.airtable.com)** platform
-- **[Asana](https://asana.com)** platform
-- **[Monday.com](https://monday.com)** platform
+- [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) platform
+- [Notion](https://www.notion.com/) platform
+- [Trello](https://trello.com/) platform
+- [Airtable](https://www.airtable.com) platform
+- [Asana](https://asana.com) platform
+- [Monday.com](https://monday.com) platform
 - [*Action Items Professional*](https://action-items-pro.locessentials.com/) aka *Action Items Pro* - web application
 
 #### Week 9: Quality Management Systems
 - ISO 9001 family of standards on Quality Management Systems
 - [Preparing to Measure Process Work with a Time Study](https://www.isixsigma.com/business-process-management-bpm/preparing-measure-process-work-time-study/) by Larry Holpp
-- **[Mastering CAPA: Your Guide to Corrective and Preventive Actions](https://iso-docs.com/blogs/iso-concepts/mastering-capa-your-guide-to-corrective-and-preventive-actions)** by Sneha Naskar
-- **[Corrective and Preventive Action (CAPA): Definition, Example & Template](https://web.archive.org/web/20220528052805/https://pmstudycircle.com/corrective-and-preventive-action-capa/)** by Fahad Usmani, PMP
+- [Mastering CAPA: Your Guide to Corrective and Preventive Actions](https://iso-docs.com/blogs/iso-concepts/mastering-capa-your-guide-to-corrective-and-preventive-actions) by Sneha Naskar
+- [Corrective and Preventive Action (CAPA): Definition, Example & Template](https://web.archive.org/web/20220528052805/https://pmstudycircle.com/corrective-and-preventive-action-capa/) by Fahad Usmani, PMP
 - ["BEFORE You Do A 5 WHYS Root Cause Analysis Watch This..." by The Agile Business Analyst (2021)](https://youtu.be/zZRmCs7Dag8?si=onmSqGBpME_autAw)
 - ["Fishbone Diagrams" by The Western Region Public Health Training Center (2013)](https://youtu.be/2rLB-1z9cPY?si=3BSI8YxzVVL306uQ)
 - [TheMQM.org Root Cause Errors](https://themqm.org/resources/root-causes)
 - [Pokemon Criticized For Inappropriate Latin-American Spanish Localization](https://comicbook.com/gaming/news/pokemon-localization-latin-america-issues/) via ComicBook.com
 - [Pokémon in Latin America](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_in_Latin_America) via Bulbapedia
 - [Gamers Petition Pokemon to Localize Games for Latin American Spanish Market](https://slator.com/gamers-petition-pokemon-localize-games-latin-american-spanish/) via Slator
-[Pokémon Scarlet and Violet: A Comparative Analysis of the Localization in the English and Spanish Versions](https://dspace.uib.es/xmlui/handle/11201/165294) via Universitat de les Illes Balears
-[Pokemon Has Good News for Fans in Latin America](https://gamerant.com/pokemon-latin-american-spanish-language/) via Game Rant
+- [Pokémon Scarlet and Violet: A Comparative Analysis of the Localization in the English and Spanish Versions](https://dspace.uib.es/xmlui/handle/11201/165294) via Universitat de les Illes Balears
+- [Pokemon Has Good News for Fans in Latin America](https://gamerant.com/pokemon-latin-american-spanish-language/) via Game Rant
 
 ### Unit 4: People & Relationships
 
@@ -155,11 +155,11 @@ This bibliography is the collection of references that the course designer consi
 - [Managing Organizational Communication](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week11/references/SHRM_ManagingOrganizationalCommunication_2021.pdf) - Society for Human Resource Management
 - [Examining the Effects of Internal Communication and Emotional Culture](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week11/references/Yue_Men_Ferguson_EffectsOfInternalCommunication_2020.pdf) by Men, Yue & Ferguson
 - [Rethinking Internal Communication: A Stakeholder Approach](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit4/week11/references/Welch_Jackson_RethinkingInternalCommunication_2007.pdf) by Welch & Jackson, 2007
-- World Economic Forum's [**DEI Lighthouse Programme**](https://www.weforum.org/stories/2024/01/organizations-impactful-corporate-dei-initiatives)
+- World Economic Forum's [DEI Lighthouse Programme](https://www.weforum.org/stories/2024/01/organizations-impactful-corporate-dei-initiatives)
 - [*Layoffs Are Painful But You Can Communicate Them Compassionately*](https://hbr.org/2022/11/layoffs-are-painful-but-you-can-communicate-them-compassionately) via HBR
-- [**Communicating in a Crisis: What, When, and How**](https://www.ccl.org/articles/leading-effectively-articles/communicating-in-a-crisis-what-when-and-how) via the Center for Creative Leadership  
-- [**12 Important Steps in Crisis Communication**](https://changemanagementinsight.com/important-steps-in-crisis-communication) via Change Management Insight  
-- [**Why Some Diversity, Equity & Inclusion (DEI) Crisis Responses Fail + What to Do Instead**](https://www.inhersight.com/blog/employer-resources/diversity-equity-inclusion-dei-crisis-response) via InHerSight
+- [Communicating in a Crisis: What, When, and How](https://www.ccl.org/articles/leading-effectively-articles/communicating-in-a-crisis-what-when-and-how) via the Center for Creative Leadership  
+- [12 Important Steps in Crisis Communication](https://changemanagementinsight.com/important-steps-in-crisis-communication) via Change Management Insight  
+- [Why Some Diversity, Equity & Inclusion (DEI) Crisis Responses Fail + What to Do Instead](https://www.inhersight.com/blog/employer-resources/diversity-equity-inclusion-dei-crisis-response) via InHerSight
 
 
 #### Week 12: Leadership & Performance Management

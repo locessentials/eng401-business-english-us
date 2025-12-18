@@ -55,8 +55,8 @@ Have you written something that fits the zine's theme? We welcome standalone pie
 
 **Individual contributions may be published as special releases** if they demonstrate:
 - Critical thinking about business buzzwords and emerging trends
-- Creative format or perspective
 - Substantive engagement with the themes of transformation, innovation, or future of work
+- Creative format or perspective
 - Publication-ready quality
 
 To propose an individual contribution, contact the course instructor through the GitHub repository.

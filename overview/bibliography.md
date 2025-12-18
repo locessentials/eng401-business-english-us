@@ -51,31 +51,31 @@ This bibliography is the collection of references that the course designer consi
 #### Week 5: Financial Terminology & Reporting
 - [How to Read Financial Statements: A Beginner's Guide](https://online.hbs.edu/blog/post/how-to-read-financial-statements) by Tim Stobierski, Harvard Business School Online
 - [How to Read & Understand a Balance Sheet](https://online.hbs.edu/blog/post/how-to-read-a-balance-sheet) by Tim Stobierski, Harvard Business School
-- [How to Read and Understand a Balance Sheet - Business: Explained](https://www.youtube.com/watch?v=BfXhpe1XxdI)
+- [How to Read and Understand a Balance Sheet](https://www.youtube.com/watch?v=BfXhpe1XxdI) - Business: Explained
 - [How to Read & Understand an Income Statement](https://online.hbs.edu/blog/post/income-statement-analysis) by Tim Stobierski, Harvard Business School
 - [NASDAQ listings](https://stockanalysis.com/list/nasdaq-stocks)
 - [U.S. Securities and Exchange Commission CIK Lookup](https://www.sec.gov/search-filings/cik-lookup)
 - "[MercadoLibre misses profit estimates as Brazil free-shipping boost hurts margins](https://www.reuters.com/business/autos-transportation/mercadolibre-misses-profit-estimates-brazil-free-shipping-boost-hurts-margins-2025-08-04)" via Reuters
-- MercadoLibre, Inc.: Form 10-Q for the quarterly period ended June 30, 2025. U.S. Securities and Exchange Commission
+- MercadoLibre, Inc., Form 10-Q for the quarterly period ending June 30, 2025, U.S. Securities and Exchange Commission
 
 #### Week 6: Business Regulations & Compliance
 - [The History of the NAFTA Agreement](https://worldhistoryjournal.com/2025/07/16/the-history-of-the-nafta-agreement)
 - [USMCA Agreement Text](https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement/agreement-between) - U.S. Trade Representative
 - [Textos Finales del T-MEC](https://www.gob.mx/t-mec/acciones-y-programas/textos-finales-del-tratado-entre-mexico-estados-unidos-y-canada-t-mec-202730) - Gobierno de México
-- [Observatory of Economic Complexity data on Mexico and U.S. trade](https://oec.world/en/profile/bilateral-country/mex/partner/usa?selector538id=HS4&selector539id=tradeOption)
+- [Data on Mexico and U.S. trade](https://oec.world/en/profile/bilateral-country/mex/partner/usa?selector538id=HS4&selector539id=tradeOption) via the Observatory of Economic Complexity
 - [Gobierno de México](https://www.gob.mx/) - Main government portal
-- [Secretaría de Economía](https://www.gob.mx/se) - Economic affairs and trade
-- [COFEPRIS](https://www.gob.mx/cofepris) - Health regulation (pharmaceuticals, food)
-- [SEMARNAT](https://www.gob.mx/semarnat) - Environmental regulation
+- [Secretaría de Economía](https://www.gob.mx/se) - Mexico's economic affairs and trade
+- [COFEPRIS](https://www.gob.mx/cofepris) - Health regulation (pharmaceuticals, food) in Mexico
+- [SEMARNAT](https://www.gob.mx/semarnat) - Mexican environmental regulation
 - [USA.gov](https://www.usa.gov/business) - Business regulation portal
-- [Department of Commerce](https://www.commerce.gov/) - Trade and business development
-- [FDA](https://www.fda.gov/) - Food, drug, and medical device regulation
-- [EPA](https://www.epa.gov/) - Environmental protection
+- [Department of Commerce](https://www.commerce.gov/) - U.S. trade and business development
+- [FDA](https://www.fda.gov/) - Food, drug, and medical device regulation in the U.S.
+- [EPA](https://www.epa.gov/) - U.S. environmental protection
 - [Data Protection Laws and Regulations Mexico 2025](https://iclg.com/practice-areas/data-protection-laws-and-regulations/mexico) by ICLG
-[Data Protection in Mexico: Federal Law for the Protection of Personal Data Held by Private Parties (FLPPDHPP)](https://intellectual-property-helpdesk.ec.europa.eu/news-events/news/data-protection-mexico-federal-law-protection-personal-data-held-private-parties-flppdhpp-2024-07-03_en) by the European Commission
+- [Data Protection in Mexico: Federal Law for the Protection of Personal Data Held by Private Parties (FLPPDHPP)](https://intellectual-property-helpdesk.ec.europa.eu/news-events/news/data-protection-mexico-federal-law-protection-personal-data-held-private-parties-flppdhpp-2024-07-03_en) by the European Commission
 - [Ley Federal de Protección de Datos Personales en Posesión de los Particulares](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf) by Mexico's Federal Government
+- [California Consumer Privacy Act (CCPA)](https://www.oag.ca.gov/privacy/ccpa) via the State of California's Department of Justice
 - [What is the California Consumer Privacy Act (CCPA)?](https://www.ibm.com/think/topics/ccpa-compliance) via IBM
-- [California Consumer Privacy Act (CCPA)](https://www.oag.ca.gov/privacy/ccpa) via the State of California Department of Justice
 
 ### Unit 3: Production & Quality Processes
 

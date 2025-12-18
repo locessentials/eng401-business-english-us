@@ -111,11 +111,8 @@ One particularly interesting cultural bias in leadership selection is what resea
 Studies have found that in U.S. corporate contexts, people who talk more in meetings are often perceived as more competent and more leader-like, regardless of the actual quality of their contributions. This creates several problems:
 
 - **Mistaking Quantity for Quality**: The person who speaks most frequently isn't necessarily the person with the best ideas or deepest expertise.
-
 - **Cultural Disadvantage**: People from cultures that value listening, careful consideration before speaking, or deference to more senior colleagues may be systematically overlooked for leadership roles.
-
 - **Personality Bias**: This bias favors extroverted communication styles over introverted ones, potentially excluding thoughtful, reflective individuals who might be excellent leaders.
-
 - **Language Barriers**: Non-native speakers who may need more time to formulate thoughts in a second language can be disadvantaged, even when they have superior expertise.
 
 **For Your Field**: In translation, localization, and interpretation, this bias is particularly relevant. The people who understand linguistic nuance and cultural context most deeply may not be the people who dominate meetings. Excellent linguists may be careful and precise in their speech—qualities that can be mistaken for lack of confidence or leadership potential.

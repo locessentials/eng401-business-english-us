@@ -161,8 +161,26 @@ This bibliography is the collection of references that the course designer consi
 - [12 Important Steps in Crisis Communication](https://changemanagementinsight.com/important-steps-in-crisis-communication) via Change Management Insight  
 - [Why Some Diversity, Equity & Inclusion (DEI) Crisis Responses Fail + What to Do Instead](https://www.inhersight.com/blog/employer-resources/diversity-equity-inclusion-dei-crisis-response) via InHerSight
 
-
 #### Week 12: Leadership & Performance Management
+- [10 most spoken languages in the world in 2025](https://www.icls.edu/blog/most-spoken-languages-in-the-world) via ICLS
+- [World Population Clock](https://www.census.gov/popclock/world) via the Census Bureau
+- [9 Mistakes to Avoid as a First-Time Manager](https://online.hbs.edu/blog/post/first-time-manager-tips) via Harvard Business School Online
+- [The Manager’s Guide to Inclusive Leadership — Small Habits That Make a Big Impact](https://review.firstround.com/the-managers-guide-to-inclusive-leadership-small-habits-that-make-a-big-impact) via First Round
+- [New To Management: 20 Tips for New Managers](https://www.indeed.com/career-advice/starting-new-job/new-to-management) via Indeed
+- [10 tips for effective one-on-one meetings](https://intheblack.cpaaustralia.com.au/careers-and-workplace/10-tips-effective-one-on-one-meetings) via INTHEBLACK
+- [Barriers to Effective Communication](https://www.geeksforgeeks.org/business-studies/barriers-to-effective-communication) via GeeksforGeeks
+- [How to Have Difficult Conversations - Managing Conflict in the Workplace](https://executive.berkeley.edu/thought-leadership/blog/how-have-difficult-conversations) via Berkeley Executive Education
+- [How to Create an Employee Development Plan (With Examples)](https://www.d2l.com/blog/employee-development-plan) via D2L
+- [13 Types of employee personalities & how to motivate them](https://www.surfoffice.com/blog/employee-types-personalities) via SurfOffice
+- [Employee review template: How to structure performance conversations that drive growth](https://www.culturemonkey.io/employee-engagement/employee-review-template) via CultureMonkey
+- [Performance Reviews - Employee Guide](https://www.rit.edu/talentdevelopment/sites/rit.edu.talentdevelopment/files/Performance%20Reviews%20-%20Employee%20Guide.pdf) via the Rochester Institute of Technology
+- [What Is a Performance Improvement Plan (PIP) and How Do You Create One?](https://www.uschamber.com/co/run/human-resources/performance-improvement-plan-templates) via the U.S. Chamber of Commerce
+- [How to Fire An Employee Without Burning Bridges & Legally](https://joingenius.com/leadership/how-to-fire-an-employee) via Genius
+- [6 Tips for Productive 1:1 Meetings with Your Manager](https://youtu.be/LWz57CpcSnE?si=iG_ssqfrZxa5P1By) - The one-on-one from the perspective of the employee
+- [ONE-ON-ONE MEETINGS WITH EMPLOYEES](https://youtu.be/JEzuTVurZ1o?si=wynArBPZ9RhjrtlB) - The one-on-one from the perspective of the manager
+- [6 Tips for Productive 1:1 Meetings with Your Manager](https://youtu.be/LWz57CpcSnE?si=iG_ssqfrZxa5P1By) by Jeff Su
+- [SMART system](https://en.wikipedia.org/wiki/SMART_criteria) definition via Wikipedia
+- [JAN Role-Play Training Series: Performance Management](https://youtu.be/0LpQjI_8mQI?si=sD1AJpj_0DWZOeku)
 
 ### Unit 5: Global Business & Technology
 

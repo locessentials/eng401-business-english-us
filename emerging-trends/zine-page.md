@@ -22,9 +22,9 @@ This project is inspired by the Distributed AI Research Institute's [Imagining P
 
 **Contributors:** TR35 Business English II students, Fall 2025, Universidad Intercontinental
 
-**[View Issue 1 (PDF)](issues/EMERGING-TRENDS-ZINE-1.pdf)**
+> **[View Issue 1 (PDF)](issues/EMERGING-TRENDS-ZINE-1.pdf)**
 
-This inaugural issue features diverse perspectives on business innovation, the future of work, and technological transformation. Student contributors experimented with multiple formats to make bold statements about where business is headed—and where it should go.
+This inaugural issue features diverse perspectives on business innovation, the future of work, and technological transformation. Student contributors experimented with multiple formats to make bold statements about the status quo of business—and where it's headed and where it should go.
 
 ---
 

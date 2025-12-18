@@ -35,10 +35,11 @@ By the end of this assignment, you will be able to:
 
 ### Step 1: Form your team and select a project
 
-**Team formation:** You may work individually or in groups of 2-4 people. While working individually allows you to design your ideal team charter, working with actual teammates provides valuable practice in the negotiation and compromise that real team charter development requires.
+**Team formation:** You may work individually or in a group. While working individually allows you to design your ideal team charter, working with actual teammates provides valuable practice in the negotiation and compromise that real team charter development requires.
 
 **Select a project:** Identify what project your team has come together to deliver. This could be:
-- Your final "Show & Tell" presentation project
+- A project you're currently working on
+- Your final "Show & Tell" presentation and report project
 - A hypothetical professional project relevant to your field (translation/localization project, marketing campaign, event planning, content development, etc.)
 - Any collaborative endeavor where clear team agreements would improve outcomes
 
@@ -46,7 +47,7 @@ By the end of this assignment, you will be able to:
 
 ### Step 2: Review the team charter template and identify areas for improvement
 
-**Download the template:** Access the Team Charter template provided in the Teams. This template covers essential sections including:
+**Download the template:** Access the Team Charter template provided in the [References](https://github.com/alainamb/uic_tr35-business-english-II/tree/main/unit4/week10/references) section. This template covers essential sections including:
 - Team Charter Statement (your team's commitment to one another)
 - Objectives (what you aim to accomplish and learn)
 - Values (principles guiding your work)
@@ -114,13 +115,15 @@ Before submitting, ensure your charter:
 ### Step 5: Submit your team charter
 
 **File naming conventions**
-- For individual submissions: `LastName_team-charter.docx`
-- For team submissions: `LastNames_team-charter.docx`
+- For individual submissions: `LastNames_team-charter.docx`
+- For team submissions: `LastNames1_LastNames2_team-charter.docx`
 
 **What to submit:**
 - Your completed and customized team charter as a Word document
 - Ensure all sections are filled out with specific, meaningful content
 - Include any new sections or substantial revisions you made to improve the template
+
+**Please deliver your document in MS Word format so that it can be easily commented on and edited using track changes.**
 
 ---
 

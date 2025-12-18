@@ -107,4 +107,4 @@ Copy the downloaded content and try it with these prompts:
 
 ---
 
-**Next Activity:** [Email Writing Workshop](email-writing-workshop.md) - Our hands-on practice session
+**Next Activity:** [Email Writing Workshop](email-writing-workshop.md) - A hands-on practice session

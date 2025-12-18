@@ -14,9 +14,9 @@ Work in small groups to draft professional email responses to complex business s
 
 ## Workshop Structure
 
-### Part 1: Scenario Selection & Group Formation (10 minutes)
-### Part 2: Collaborative Email Drafting (25 minutes)
-### Part 3: Preparation for Peer Review (10 minutes)
+- **Step 1: Group Formation & Scenario Selection (10 minutes)**
+- **Step 2: Collaborative Email Drafting (25 minutes)**
+- **Step 3: Review Preparation (10 minutes)**
 
 ---
 
@@ -58,12 +58,12 @@ As operations director, you need to announce a significant change to established
 
 ## Group Work Process
 
-### Step 1: Scenario Selection (5 minutes)
+### Step 1: Group Formation & Scenario Selection (5 minutes)
 - Each group selects **one unique scenario**
 - Discuss the key challenges and goals for your chosen scenario
 - Identify your target audience and their likely concerns
 
-### Step 2: Email Drafting (25 minutes)
+### Step 2: Collaborative Email Drafting  (25 minutes)
 Work collaboratively to craft your email response, considering:
 - **Subject line** that clearly communicates purpose
 - **Opening** that establishes context appropriately
@@ -72,26 +72,26 @@ Work collaboratively to craft your email response, considering:
 - **Signature** that communicates who you are
 - **Tone** that matches the situation and audience
 
-### Step 3: Documentation Preparation (10 minutes)
-Put your submission in the appropriate folder on Teams. Prepare your submission in your shared folder following the below format.
+### Step 3: Peer Review Preparation (10 minutes)
+Put your submission in the appropriate folder in our shared workspace. The contents of the document you put there should follow the basic email format of:
 
----
+```
+Subject: [Your subject line]
 
-## Submission Format
+[Your complete email text]
 
-**Document Title:** [Illustrative title describing your scenario]
+[Your Email Signature]
+```
+
+Then post about your email in our discussion forum. Your post should follow this format:
+
+```
+**Re:** [Illustrative title describing your scenario]
 *Example: "Communicating Project Delays to Clients" or "Requesting Budget Increases from Management"*
 
 **Authors:** [List all group member names]
 
 **Scenario:** [Copy the full text of your chosen scenario here]
-
-**Email Response:**
-```
-Subject: [Your subject line]
-
-[Your complete email text]
-```
 
 **Rationale:**
 Explain your decision-making process:
@@ -99,11 +99,14 @@ Explain your decision-making process:
 - **How we achieved it:** [Specific strategies and choices you made]
 - **Key considerations:** [What factors influenced your approach]
 
+Link to Your Complete Email: [Share the link to your document in our shared workspace]
+```
+
 ---
 
-## Preparation for Peer Review
+## The Peer Review
 
-Your completed email drafts will be evaluated by other groups using a business email writing evaluation scorecard. Consider these evaluation criteria as you draft:
+Your completed email drafts will be evaluated by your peers using following the methodology outlined [on the next page](email-peer-review.md). Consider these evaluation criteria as you draft and review your emails:
 
 - **Clarity and Organization**
 - **Appropriateness of Tone**
@@ -111,7 +114,9 @@ Your completed email drafts will be evaluated by other groups using a business e
 - **Professional Formatting**
 - **Effectiveness in Achieving Purpose**
 
-## Success Tips
+### Success Tips
+
+Do a sanity check of the emails to ensure they meet these guidelines:
 
 - **Be specific and concrete** rather than vague
 - **Consider your reader's perspective** and likely questions

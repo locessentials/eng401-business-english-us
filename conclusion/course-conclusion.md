@@ -64,7 +64,7 @@ Your final unit prepared you for the rapidly evolving global business landscape 
 
 **Key Achievement:** You positioned yourself at the forefront of business communication trends, equipped to handle emerging technologies, international agreements, and sustainability challenges that define 21st-century business.
 
-### Your Final Project: Demonstration of Comprehensive Learning
+### Your Final "Show & Tell" Project on the Job Search
 
 Your capstone "Show and Tell" asked you to demonstrate the integration of all course competencies:
 
@@ -74,12 +74,12 @@ Your capstone "Show and Tell" asked you to demonstrate the integration of all co
 - **Collaborative skills** through effective teamwork and peer evaluation
 - **Critical thinking abilities** through the synthesis of complex business concepts
 
-This project represents portfolio-quality work that showcases your readiness for professional business communication challenges.
+This project represents portfolio-quality work that showcases your readiness for professional business communication challenges, while giving you resources that will help you to prepare for an important part of our professional lives: the job search.
 
 ## Synthesis of Learning: Your Professional Competency Profile
 
 ### Language Proficiency Development
-Throughout this course, you have advanced from general English proficiency to specialized business English mastery, demonstrated through:
+Throughout this course, you have advanced from general English proficiency to having specialized business English skills, demonstrated through:
 
 - **Vocabulary expansion** across legal, financial, technical, interpersonal, and technological domains
 - **Register adaptation** for different professional contexts and audiences
@@ -140,7 +140,7 @@ Your success in this course reflects not only your individual effort but also yo
 
 You have invested in developing competencies that will serve you throughout your career while also preparing you to serve others by facilitating clear, effective business communication across linguistic and cultural boundaries.
 
-Again, **congratulations once again on completing Business English II!** You have demonstrated the discipline, intelligence, and cultural sensitivity required for success in international business communication. 
+Again, **congratulations once again on completing Business English!** You have demonstrated the discipline, intelligence, and cultural sensitivity required for success in international business communication. 
 
 The global business community needs skilled professionals who can bridge communication gaps with expertise, cultural sensitivity, and ethical awareness. You are prepared to contribute as one of those professionals.
 

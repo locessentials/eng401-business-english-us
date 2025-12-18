@@ -52,7 +52,7 @@ Key insights for contract discussions:
 
 ### Phase 1: Document Analysis
 
-**Download the editable Loc101 NDA** from the Teams assignment.
+**Download the editable Loc101 NDA** from the course assignment.
 
 **Using MS Word's commenting feature:**
 - Identify negotiation tactics used in the agreement (broad definitions, one-sided terms, etc.)

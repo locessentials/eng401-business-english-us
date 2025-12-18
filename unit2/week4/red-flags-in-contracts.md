@@ -171,7 +171,7 @@ Contract lawyers often include as many restrictive clauses as possible, knowing 
 
 ## Analysis Activity
 
-**Post your analysis to the Teams Contracts Channel**
+**Post your analysis to the Contracts discussion forum**
 
 1. **Most Shocking Example:** Which contract problem from the video or article surprised you most? Why?
 

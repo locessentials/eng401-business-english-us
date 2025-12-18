@@ -96,7 +96,7 @@ Working individually or in small groups, research examples of organizations addr
 
 ### Where to Share
 
-Post your findings to our **Teams channel** before or during class. Include:
+Post your findings to our discussion forum before or during class. Include:
 - Name of organization
 - Brief description of the situation (2-3 sentences)
 - One key lesson about internal communication and DEI

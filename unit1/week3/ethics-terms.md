@@ -43,7 +43,7 @@ For each term you select:
 
 ### Step 4: Share Your Learning
 
-**Post to Teams Ethics Discussion Channel:**
+**Post to Ethics discussion forum:**
 
 For each term you studied, provide:
 - **Term and definition** in your own words (not copied from the video)

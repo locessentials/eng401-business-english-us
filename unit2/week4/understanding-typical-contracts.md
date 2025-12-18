@@ -180,7 +180,7 @@ Professional organizations worldwide advocate for:
 
 ### Step 3: Share Your Learning
 
-**Post to Teams Contracts Channel:**
+**Post to Contracts discussion forum:**
 
 Create a brief analysis (300-500 words) that includes:
 

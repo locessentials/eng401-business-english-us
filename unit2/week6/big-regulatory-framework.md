@@ -97,7 +97,7 @@ Here's an example of the type of analysis we're looking for:
 ---
 
 ## Class Discussion Post
-Post to Teams: Choose one activity from this page and share your response with the class. You can select from:
+Post to discussion forum: Choose one activity from this page and share your response with the class. You can select from:
 
 1. Historical Analysis: Respond to one of the three guided reading questions about NAFTA's evolution
 2. Agreement Analysis: Share your paragraph analyzing something interesting you discovered in the USMCA/T-MEC text

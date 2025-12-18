@@ -235,7 +235,7 @@ Choose a company whose ESG report you want to analyze. Consider:
 
 ### Step 3: Analyze and Place on Spectrum
 
-**Create a post in the Teams `Innovation` channel that includes:**
+**Create a post in the `Innovation` discussion forum that includes:**
 
 | Section | What to Include |
 |---------|----------------|

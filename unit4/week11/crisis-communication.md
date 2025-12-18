@@ -166,7 +166,7 @@ Once you've found your example, analyze it using the same framework we used abov
 
 ### Where to Share
 
-Post your analysis to our **Teams channel** before or during class. Include:
+Post your analysis to our discussion forum before or during class. Include:
 - Brief context about the organization and crisis (2-3 sentences)
 - Link to or screenshot of the communication (if available/appropriate)
 - Your completed analysis chart

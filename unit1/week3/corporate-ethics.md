@@ -106,7 +106,7 @@ Building on our class work, consider how cultural background shapes ethical pers
 
 ## Discussion Activity
 
-**Post to Teams Ethics Channel:**
+**Post to Ethics discussion forum:**
 
 **Part 1: Article Analysis**
 

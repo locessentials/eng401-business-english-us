@@ -90,7 +90,7 @@ Different industries and organizations employ various project management methodo
 
 ### Research Activity
 
-For this week's Teams discussion, research one of the methodologies listed above (or another project management methodology of your choice) and create a post addressing the following:
+For this week's discussion, research one of the methodologies listed above (or another project management methodology of your choice) and create a post addressing the following:
 
 1. **Which methodology do you find most appealing and why?**
 2. **Share a resource about the methodology you explored. What did you learn from the resource?**

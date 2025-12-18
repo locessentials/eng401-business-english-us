@@ -55,7 +55,7 @@ Notice how Translation and Editing overlap (start-to-start), while Proofreading 
 
 **Explore this topic further:**
 - [Gantt Chart 101: How to Build and Use Them Effectively](https://slack.com/blog/productivity/gantt-chart-101-how-to-build-and-use-them-effectively) by Slack
-- [The Hard Side of Project Management](https://universidaduic.sharepoint.com/:v:/s/TR35-BusinessEnglishII-2026-1/EU6_s_n9dmhCsFQTiKZmvuEBNrH3B-W0RIUWPftqcf6ibA?e=7w2OmJ) by Carina Balbo - a selection of this video has been provided to students privately on Teams; please do not share this outside of our course
+- [The Hard Side of Project Management](https://universidaduic.sharepoint.com/:v:/s/TR35-BusinessEnglishII-2026-1/EU6_s_n9dmhCsFQTiKZmvuEBNrH3B-W0RIUWPftqcf6ibA?e=7w2OmJ) by Carina Balbo - a selection of this video has been provided to students privately in our shared workspace; please do not share this outside of our course
 
 #### Reflection Questions
 
@@ -135,7 +135,7 @@ Query trackers are particularly valuable in translation and localization project
 
 **What additional documents should be added to a project manager's documentation suite?**
 
-Think about projects you've been involved in or industries you're interested in. What other types of documentation would help project managers communicate effectively and keep projects on track? Share your thoughts on the Teams channel, explaining:
+Think about projects you've been involved in or industries you're interested in. What other types of documentation would help project managers communicate effectively and keep projects on track? Share your thoughts in the discussion forum, explaining:
 - What type of documentation you're suggesting
 - What communication need it addresses
 - In what situations it would be most valuable
@@ -163,7 +163,7 @@ Many organizations also use combinations of standard office tools like Google Wo
 
 **Share your project management technology experience:**
 
-Have you used any of the above tools before, or other project management platforms not listed here? Please share your experiences and recommendations on Teams, addressing:
+Have you used any of the above tools before, or other project management platforms not listed here? Please share your experiences and recommendations in our discussion forum, addressing:
 - Which platform(s) you've used
 - What type of project or work you used it for
 - What you found most helpful about the platform

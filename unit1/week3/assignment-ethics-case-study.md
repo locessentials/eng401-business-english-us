@@ -28,9 +28,9 @@ You will analyze one of the ethical scenarios from our class materials, develop 
 | **Day** | **Activity** | **Deliverable** |
 |---------|-------------|----------------|
 | **Course Period 1** | Select scenario, begin analysis | Share scenario selection with class |
-| **Course Period 2 - Part 1** | Post case study analysis | Upload analysis to Teams Ethics Channel |
+| **Course Period 2 - Part 1** | Post case study analysis | Upload analysis to the Ethics discussion forum |
 | **Course Period 2 - Part 2** | Present role-play | Perform role-play for class |
-| **End of week** | Submit final report | Submit polished case study via Teams |
+| **End of week** | Submit final report | Submit polished case study via course assignment |
 
 ---
 
@@ -38,14 +38,14 @@ You will analyze one of the ethical scenarios from our class materials, develop 
 
 ### 1. Scenario Selection (Class Period 1)
 - Choose one scenario from our [Ethics Scenarios](ethics-scenarios.md) list
-- Post your selection to the Teams Ethics Channel with:
+- Post your selection to the Ethics discussion forum with:
   - Scenario number and title
   - Brief explanation of why you selected this scenario
   - One initial question or concern it raises for you
 
 ### 2. Case Study Analysis (Class Period 2 - Part 1)
 
-**Post to Teams Ethics Channel before class:**
+**Post to Ethics discussion forum before class:**
 
 Your analysis should include bullet points that address:
 
@@ -99,7 +99,7 @@ Your analysis should include bullet points that address:
 
 ## Final Report (End of week)
 
-**Submit via Teams assignment (PDF format preferred)**
+**Submit via course assignment (MS Word format preferred)**
 
 Expand your work from the week into a polished case study report (1,200-1,500 words) that includes:
 

@@ -28,8 +28,8 @@ Working in small groups, you'll create and deliver a 5-7 minute business present
 | **Day** | **Activity** | **Deliverable** |
 |---------|-------------|----------------|
 | **Course Period 1** | Form groups, select topics, begin slide drafts | Group formation |
-| **Course Period 2** | Rehearsal presentations with peer feedback | Upload draft slides to Teams |
-| **End of Week** | Final presentation due | Submit final slides via Teams assignment |
+| **Course Period 2** | Rehearsal presentations with peer feedback | Upload draft slides to discussion form |
+| **End of Week** | Final presentation due | Submit final slides via course assignment |
 
 ---
 
@@ -74,7 +74,7 @@ Choose **one** of the following business scenarios relevant to translation/local
 ## Rehearsal Day (Course Period 2)
 
 ### For Presenting Groups
-1. **Upload draft slides** to Teams by the second part of class
+1. **Upload draft slides** to the discussion forum by the second part of class
 2. **Present your 5-7 minute rehearsal** to the class
 3. **Be prepared** to receive constructive feedback
 4. **Take notes** on suggestions for improvement
@@ -87,7 +87,7 @@ Each student must **comment on at least one rehearsal** (not your own group's):
 - **One concrete suggestion** for improvement
 - **Optional:** Additional resources or ideas that might help
 
-**Post your feedback** as a reply to the presenting group's Teams post.
+**Post your feedback** as a reply to the presenting group's post.
 
 ### Feedback Focus Areas
 - Content organization and clarity
@@ -150,7 +150,7 @@ Each student must **comment on at least one rehearsal** (not your own group's):
 
 ## Questions?
 
-Contact your instructor or post questions in the Teams channel. Your classmates' questions often help everyone!
+Contact your instructor or post questions in the discussion forum. You and your classmates' questions often help everyone!
 
 ---
 

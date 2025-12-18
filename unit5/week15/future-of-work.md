@@ -38,7 +38,7 @@ When people discuss the future of work, certain narratives dominate the conversa
 
 Before we can imagine better futures, we need to examine what we think about current work structures.
 
-**Post your thoughts in the Teams `Innovation` channel:**
+**Post your thoughts in the `Innovation` discussion forum:**
 
 **Question 1: What's a problem that bothers you about the way we work?**
 
@@ -108,7 +108,7 @@ Explore one of these paths:
 
 Visit the [DAIR Institute blog](https://www.dair-institute.org/blog/) and read at least two posts about how work, technology, and society intersect in different global contexts.
 
-**Post to Teams:**
+**Post on discussion forum:**
 - Which posts did you read?
 - What alternative approaches to work or technology did you discover?
 - How do these approaches challenge dominant narratives about work's future?
@@ -129,7 +129,7 @@ Research a company or organization that approaches work differently. Look for:
 - Platform Cooperatives (tech worker ownership models)
 - Your own discoveries
 
-**Post to Teams:**
+**Post on discussion forum:**
 - Which organization did you research?
 - How do they structure work differently?
 - What problems are they trying to solve through their approach?
@@ -161,7 +161,7 @@ Imagine the specific conditions under which you would thrive professionally. Con
 - What role does work play in your overall life?
 - How does your work connect to your values?
 
-**Post to Teams:**
+**Post on discussion forum:**
 Share your ideal work scenario (300-400 words). Be as specific and imaginative as possible. Don't limit yourself to what currently exists—describe what you actually want.
 
 ---

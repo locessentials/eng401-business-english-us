@@ -95,7 +95,6 @@ As a reminder, here is a delivery summary:
   - **Template file naming:** `LastNames1_LastNames2_[ProductType]-Specifications-template.docx`
   - **Filled-in specifications file naming:** `LastNames1_LastNames2_[ProductType]-Specifications-Project1.docx`
 - **Due date:** End of week
-- **Teams Assignment:** Technical Specifications
 
 ## How Your Work Will be Graded
 

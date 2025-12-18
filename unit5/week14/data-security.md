@@ -62,7 +62,7 @@ Annex A of ISO 27001 contains 114 specific security controls organized into 14 c
 
 ### Accessing ISO 27001 Annex A
 
-**Note**: The full text of ISO 27001 is copyrighted material. A copy of Annex A is available in our class Teams channel for educational use in accordance with [fair use](https://www.lib.uchicago.edu/copyrightinfo/fairuse.html) principles defined in U.S. copyright law. Please do not share this PDF outside of your course materials.
+**Note**: The full text of ISO 27001 is copyrighted material. A copy of Annex A is available in our shared workspace for educational use in accordance with [fair use](https://www.lib.uchicago.edu/copyrightinfo/fairuse.html) principles defined in U.S. copyright law. Please do not share this PDF outside of your course materials.
 
 **Activity**: You'll be assigned specific sections of Annex A to review in groups. Your task will be to summarize the security controls that business should follow.
 

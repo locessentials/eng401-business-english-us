@@ -157,9 +157,9 @@ Select one of the following leadership frameworks to research:
 - **Transactional Leadership** – Based on exchanges between leaders and followers (rewards for performance)
 - **Participative Leadership** – Involves team members in decision-making processes
 
-### Research and Post to Teams
+### Research and Post on Discussion Forum
 
-Research your chosen framework and create a post in our Teams channel that addresses:
+Research your chosen framework and create a post in our discussion forum that addresses:
 
 **Your post should include:**
 

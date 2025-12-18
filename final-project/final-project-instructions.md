@@ -139,9 +139,9 @@ Submit for approval:
 
 ---
 
-## Final Presentation on Teams
+## Final Presentation in Discussion Forum
 
-Along with delivering all project files, you'll need share your presentation on Teams in the `Final Projects` channel. Share a link to your recorded presentation along with brief description on what it's about. Your Teams post should follow this template:
+Along with delivering all project files, you'll need share your presentation in the `Final Projects` discussion forum. Share a link to your recorded presentation along with brief description on what it's about. Your post should follow this template:
 
 ```
 Subject: Title of Your Presentation
@@ -168,7 +168,7 @@ Use this format for all submissions:
 - `LastNames_FinalReport.docx` (written report)
 - `LastNames_Recording.mp4` (presentation video)
 
-Please zip all of these files together into a package called `LastNames_FinalProject.zip` and deliver this to the assignment on Teams.
+Please zip all of these files together into a package called `LastNames_FinalProject.zip` and deliver this to the course assignment.
 One delivery per team please!
 
 ### Organizing Your Work
@@ -208,7 +208,7 @@ Before submission, verify:
 
 #### Evaluation Process
 - Review **two presentations** from other groups (assignments will be provided)
-- Share **constructive feedback** on both content and delivery in the related post on Teams
+- Share **constructive feedback** on both content and delivery on the related post in the discussion forum
 
 #### Evaluation Criteria
 Focus your evaluations on:

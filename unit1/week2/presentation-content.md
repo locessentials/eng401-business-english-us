@@ -101,7 +101,7 @@ As you begin working on your mini-presentation:
 
 ## Share Your Resources!
 
-Found excellent resources during your research? Please share them in our Teams channel to help your classmates succeed!
+Found excellent resources during your research? Please share them in our discussion forum to help your classmates succeed!
 
 ---
 

@@ -24,7 +24,7 @@ Consider these three terms and share your immediate reactions:
 - **Innovation**  
 - **Disruption**
 
-**Respond in our `Innovation` channel on Teams:**
+**Respond in our `Innovation` discussion forum:**
 
 1. When you hear these terms, what comes to mind?
 2. Can you think of specific examples of companies, products, or services that you'd describe using these terms?
@@ -131,7 +131,7 @@ Choose one of these scenarios and apply your evaluation framework:
 
 3. **Scenario C:** A university announces it's "disrupting education" by offering asynchronous online courses in addition to in-person classes.
 
-**Post your analysis in Teams:**
+**Post your analysis in the discussion forum:**
 - Which scenario did you analyze?
 - Using your evaluation criteria, is the claimed change genuinely transformative/disruptive/innovative?
 - What evidence supports your conclusion?

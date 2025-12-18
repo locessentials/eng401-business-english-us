@@ -66,9 +66,9 @@ Work together to develop your training materials, working carefully to create a 
 You'll need to create:
 
 - The combination of videos, sound and documents that will be used together to complete the activity
-- A Microsoft Teams post that advertises your professional development activity to the class
+- A discussion forum post that advertises your professional development activity to the class
 
-You'll share these on Teams when you're ready to deliver.
+You'll share these in our discussion forum when you're ready to deliver.
 
 ### Step 4: Share your training materials with the class
 

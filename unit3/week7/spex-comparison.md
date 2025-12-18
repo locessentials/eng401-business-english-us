@@ -43,11 +43,11 @@ As you read above, the specifications form you just reviewed was developed based
 
 *Note: Any instructors who are interested in teaching ASTM F2575 in an educational setting can reach out to Alaina Brandt for help securing a copy.*
 
-We'll follow a *divide and conquer* approach to understanding this standard. You'll work in teams to review a specific section of the standard and then share what you've learned via a discussion post on Teams.
+We'll follow a *divide and conquer* approach to understanding this standard. You'll work in teams to review a specific section of the standard and then share what you've learned via a discussion post in the forum.
 
 #### Step 1 - Select the section you will cover
 
-In a group of up to three people, select the section of the standard that you'll cover. Post the section that you'll cover to the *Specifications* channel on Teams.
+In a group of up to three people, select the section of the standard that you'll cover. Post the section that you'll cover to the *Specifications* discussion forum.
 
 The sections that you can choose from are listed below. Unless otherwise indicated, one team may sign up for each section.
 
@@ -62,7 +62,7 @@ The sections that you can choose from are listed below. Unless otherwise indicat
 
 #### Step 2 - Analyze your section
 
-After you've selected your section, you can analyze it with the goal of preparing a post for Teams. The post that you share to teams should follow this format and respond to the questions indicated.
+After you've selected your section, you can analyze it with the goal of preparing a post for the discussion forum. The post that you share to teams should follow this format and respond to the questions indicated.
 
 Here's a template that illustrates the types of analysis that we're looking for in your post.
 
@@ -77,7 +77,7 @@ Analysis: Your analysis should respond to the question:
 "How do you think this section of the standard informed the translation specifications presented above?"
 ```
 
-#### Step 3 - Make your post and review the posts on Teams
+#### Step 3 - Make your post and review the posts in the discussion forum
 
 Make your post, review your classmates' analyses as they are posted. You can comment on one another's posts.
 
@@ -99,7 +99,7 @@ Next, find an example of specifications (or a specifications-like document) for 
 
 ### Step 3 - Analyze the Specifications
 
-Prepare a post for Teams in which you analyze the specifications you found.
+Prepare a post for the discussion forum in which you analyze the specifications you found.
 
 Here's a template that illustrates the types of analysis that we're looking for in your post.
 

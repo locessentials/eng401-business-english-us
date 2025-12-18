@@ -63,7 +63,7 @@ Working in groups of 3-5 students, you will select a contemporary business topic
 - Write a comprehensive report (~1500 words)
 - Record your presentation (8-12 minutes)
 - Submit all materials by the end of Week 16
-  - Project package to Teams assignment
+  - Project package to course assignment
   - Post and link to your video in `Final Projects` channel 
 
 ### Step 4: Peer Evaluation (Optional but recommended)

@@ -60,7 +60,7 @@ For each presentation, rate it using our established scale and provide specific 
 
 ### Step 3: Share Your Analysis
 
-**Prepare a brief report for Teams**
+**Prepare a brief report for the discussion forum**
 - Links to both presentations
 - **Key insight:** What made the effective presentation work so well?
 - **Key lesson:** What should be avoided based on the ineffective example?
@@ -71,7 +71,7 @@ For each presentation, rate it using our established scale and provide specific 
 - What presentation techniques would work well for your future translation/localization clients?
 
 ## Resource Sharing
-As you research, please share any excellent resources you discover about business presentations on Teams. Your findings will help the whole class!
+As you research, please share any excellent resources you discover about business presentations in our discussion forum. Your findings will help the whole class!
 
 ---
 

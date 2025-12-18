@@ -22,7 +22,7 @@ This page collects tips that can help new managers develop their people and lead
 
 This page covers the shift from employee to manager, one-on-one's and formal performance management documentation. These are three practical areas that new managers will need to navigate almost if not immediately. The page highlights 12 articles related to making the transition from employee to manager. Pick one, read the article, and then share your takeaways about the article with the class.
 
-You can do so in a Teams post or by volunteering information during our class discussion. Your comments could address any of these areas:
+You can do so in a discussion forum post or by volunteering information during our class discussion. Your comments could address any of these areas:
 
 - Points within the article that you agree or disagree with, and why
 - Recommendations that you would implement as a new manager

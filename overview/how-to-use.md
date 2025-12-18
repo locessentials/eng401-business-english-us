@@ -67,6 +67,8 @@ GitHub not only allows you to download materials, but also to contribute to the 
 4. **Confirm creation** of your personal copy
 5. **Customize your fork** according to your educational or learning needs
 
+You can easily publish your version of the course via a website hosted on [GitHub Pages](https://docs.github.com/en/pages).
+
 ### Contributing Improvements to the Main Course
 
 Found an error? Have an excellent example? Want to suggest additional resources? Contributions from students and educator colleagues are welcome:

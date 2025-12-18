@@ -76,4 +76,4 @@ Copy the downloaded content and try it with these prompts:
 
 ---
 
-**Ready to explore the concepts behind the zine?** Check out [Week 15: Business Innovation & Emerging Trends](../unit5/week15/week15-overview.md) to understand the critical frameworks that inform these creative contributions.
+**Thank you for checking out our zine! Ready for a challenge?** Continue to [Unit 1: Business Communication & Ethics](../unit1/unit1-overview.md) where we establish the communicative and ethical foundations for the course.

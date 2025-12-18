@@ -32,7 +32,7 @@ The course is structured into **five thematic units** that progressively build y
 | **Unit 3: Production & Quality Processes**   | 7-9 | Technical specifications, project management, and quality assurance systems |
 | **Unit 4: People & Relationships**   | 10-12 | Intercultural competency, internal communications, and leadership language |
 | **Unit 5: Global Business & Technology** | 13-15 | International business documentation, digital tools, and innovation terminology |
-| **Final Projects** | 16-17 | Show & Tell Presentation and Report |
+| **Final Projects** | 16-18 | Show & Tell Presentation and Report |
 
 ## 🎓 Final Project: Show & Tell
 The course concludes with a **"Show and Tell"** project that simulates authentic business communication:

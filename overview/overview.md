@@ -49,15 +49,18 @@ The course is structured into **five thematic units** that progressively build y
 - Week 14: Digital Business Tools & Technology
 - Week 15: Business Innovation & Adaptation to Change
 
-### Final Project Period
-**Weeks 16-17**
-- Week 16: Presentation and Report Finalization
-- Week 17: Peer Evaluation
+### Final "Show & Tell" Project Period
+**Weeks 16-18**
+- Week 16: Group & Topic Selection
+- Week 17: Finalize the Presentation and the Report
+- Week 18: Peer Evaluation
 
 The course concludes with an integrative final project that synthesizes the knowledge and skills acquired throughout the semester.
 
 ## Weekly Workflow
 These course contents are designed to be worked through week by week. You're encouraged to work through about a page per day. You can conclude each week by completing the main assignment associated with the topic.
+
+The weekly outlines are written as if the course has two two-hour class meetings each week. You could follow that workflow as well.
 
 ---
 

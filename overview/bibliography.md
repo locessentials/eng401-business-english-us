@@ -187,7 +187,7 @@ This bibliography is the collection of references that the course designer consi
 - [6 Tips for Productive 1:1 Meetings with Your Manager](https://youtu.be/LWz57CpcSnE?si=iG_ssqfrZxa5P1By) - Video by Jeff Su
 - [ONE-ON-ONE MEETINGS WITH EMPLOYEES](https://youtu.be/JEzuTVurZ1o?si=wynArBPZ9RhjrtlB) - Video by Makeda Andrews
 - [SMART system](https://en.wikipedia.org/wiki/SMART_criteria) definition via Wikipedia
-- [JAN Role-Play Training Series: Performance Management](https://youtu.be/0LpQjI_8mQI?si=sD1AJpj_0DWZOeku) video by JANinformation
+- [JAN Role-Play Training Series: Performance Management](https://youtu.be/0LpQjI_8mQI?si=sD1AJpj_0DWZOeku) - Video by JANinformation
 
 ### Unit 5: Global Business & Technology
 

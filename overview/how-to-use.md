@@ -53,11 +53,11 @@ GitHub not only allows you to download materials, but also to contribute to the 
 
 ### Forking the Repository
 
-**Forking** means creating your own complete copy of the course where you can experiment freely. This functionality is especially valuable for both educator colleagues and students.
+**Forking** means creating your own complete copy of the course where you can experiment freely. This functionality is especially valuable for both educators and students.
 
 | **Educators** | **Students** |
 | ------------- | ----------- |
-| - Adapt content for their own translation courses<br>- Modify examples for specific regional contexts<br>- Add supplementary materials for their students<br>- Maintain different course versions for different semesters<br>- Customize structure according to their academic program needs | - Create a personal space for practice and experimentation<br>- Add their own notes and translation analysis<br>- Document additional examples they discover<br>- Develop personalized specialized glossaries<br>- Build a demonstrable work portfolio |
+| - Adapt content for their own use<br>- Modify examples for specific regional contexts<br>- Add supplementary materials for their students<br>- Maintain different course versions for different semesters<br>- Customize structure according to their academic program needs | - Create a personal space for practice and experimentation<br>- Add their own notes and language analysis<br>- Document additional examples they discover<br>- Develop personalized specialized glossaries<br>- Build a demonstrable work portfolio |
 
 ### How to Fork the Repository
 

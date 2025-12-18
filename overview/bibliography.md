@@ -7,7 +7,7 @@ nav_order: 4
 
 # Course Bibliography
 
-This bibliography is the collection of references that the course designer considers to be crucial for understanding the topics in the course outline and for building up communication skills in areas that are highly relevant to work in international business. Here, you'll find a collection of that includes international standards,
+This bibliography is the collection of references that the course designer considers to be crucial for understanding the topics in the course outline and for building up communication skills in areas that are highly relevant to work in international business. 
 
 ---
 
@@ -28,7 +28,6 @@ This bibliography is the collection of references that the course designer consi
 - [5 Ways to Project Confidence in Front of an Audience](https://hbr.org/2018/05/5-ways-to-project-confidence-in-front-of-an-audience) by Carmine Gallo via HBR
 - [5 Ways to Improve Your Body Language During a Speech](https://sps.columbia.edu/news/five-ways-improve-your-body-language-during-speech) via Columbia School of Professional Studies
 - [How to Make Stress Your Friend](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend) by Kelly McGonigal via TEDGlobal 2013
-- Presentation examples shared by the class
 
 #### Week 3: Ethics and Integrity in Business
 - [Is Business Bluffing Ethical](https://hbr.org/1968/01/is-business-bluffing-ethical) by Albert Z. Carr via Harvard Business Review
@@ -37,17 +36,17 @@ This bibliography is the collection of references that the course designer consi
 ### Unit 2: Legal & Financial Frameworks
 
 #### Week 4: Legal Language in Business
-- [Natural Reader](https://www.naturalreaders.com), an AI text to speech applications for personal, commercial and educational use
+- [Natural Reader](https://www.naturalreaders.com) AI text to speech application
 - [Herod Clause](https://waywordradio.org/herod-clause/) segment from "A Way with Words" radio show
 - [Red Flags in Localization Contracts](https://www.youtube.com/watch?v=shamGJQFAKA) by Alaina Brandt
 - [How the So-Called Translation Industry Turned "Confidentiality Agreements" into Declarations of Acceptance of Servitude](https://patenttranslator.wordpress.com/2013/09/21/how-the-so-called-translation-industry-converted-confidentiality-agreements-into-declarations-of-acceptance-of-servitude/) by patenttranslator
 - [ICA adapted from the American Translators Association (ATA) model contract](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week4/references/ATA-ICA-Example.pdf)
-[Purchase Order](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week4/references/PO-Example.pdf) example developed by Alaina Brandt
-- ["Unraveling Translation Service Contracts"](https://www.atanet.org/resources/unraveling-translation-service-contracts/) by Paula Arturo
-- ["Risky Business: The Five Biggest IP Mistakes Startups Make"](https://www.wipo.int/wipo_magazine/en/2018/04/article_0007.html) - WIPO Magazine
-- ["Visualizing the Length of the Fine Print, for 14 Popular Apps"](https://www.visualcapitalist.com/terms-of-service-visualizing-the-length-of-internet-agreements/) - Visual Capitalist infographic
-- ["I Read All the Small Print on the Internet and It Made Me Want to Die"](https://www.theguardian.com/technology/2015/jun/15/i-read-all-the-small-print-on-the-internet) - The Guardian
-- ["Terms and Conditions, The Graphic Novel"](https://medium.com/mozilla-internet-citizen/terms-and-conditions-the-graphic-novel-6c16f7c0be0f) - Mozilla
+- [Purchase Order](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/unit2/week4/references/PO-Example.pdf) example developed by Alaina Brandt
+- [Unraveling Translation Service Contracts](https://www.atanet.org/resources/unraveling-translation-service-contracts/) by Paula Arturo
+- [Risky Business: The Five Biggest IP Mistakes Startups Make](https://www.wipo.int/wipo_magazine/en/2018/04/article_0007.html) - WIPO Magazine
+- [Visualizing the Length of the Fine Print, for 14 Popular Apps](https://www.visualcapitalist.com/terms-of-service-visualizing-the-length-of-internet-agreements/) - Visual Capitalist infographic
+- [I Read All the Small Print on the Internet and It Made Me Want to Die](https://www.theguardian.com/technology/2015/jun/15/i-read-all-the-small-print-on-the-internet) - The Guardian
+- *[Terms and Conditions, The Graphic Novel](https://medium.com/mozilla-internet-citizen/terms-and-conditions-the-graphic-novel-6c16f7c0be0f)* - Mozilla
 
 #### Week 5: Financial Terminology & Reporting
 - [How to Read Financial Statements: A Beginner's Guide](https://online.hbs.edu/blog/post/how-to-read-financial-statements) by Tim Stobierski, Harvard Business School Online

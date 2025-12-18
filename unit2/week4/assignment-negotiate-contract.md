@@ -15,7 +15,7 @@ nav_order: 4
 ## Overview
 The Herod clause in the Loc101 NDA (the intellectual property transfer) is not the only unfair term in that agreement. For this assignment, you will conduct a complete counter-negotiation of the Loc101 NDA to demonstrate your understanding of contract anatomy and your ability to identify problematic terms.
 
-## Learning Objectives
+### Learning Objectives
 By the end of this assignment, you will be able to:
 - Apply contract analysis skills to identify unfair or problematic clauses
 - Use professional language to propose alternative contract terms

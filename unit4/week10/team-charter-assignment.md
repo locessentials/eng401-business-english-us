@@ -20,7 +20,7 @@ Now you'll apply this knowledge by creating a team charter—a foundational docu
 
 Your team charter will serve as a living document that guides your collaboration, helping you navigate differences constructively and leverage each team member's unique strengths.
 
-## Learning Objectives
+### Learning Objectives
 
 By the end of this assignment, you will be able to:
 - Develop comprehensive team agreements that establish clear expectations for collaboration

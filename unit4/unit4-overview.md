@@ -28,9 +28,7 @@ During this unit, we'll cover these topics:
 By the end of this unit, you'll be able to:
 
 - **Analyze intercultural communication challenges** in the teamwork carried out in business contexts using appropriate terminology and frameworks.
-
 - **Create effective internal corporate communications** with appropriate tone, style, and format for different organizational contexts.
-
 - **Explain leadership concepts and performance management terminology** using appropriate business English vocabulary.
 
 ## Weekly Schedule

@@ -20,7 +20,7 @@ Now you'll apply this knowledge by investigating a real or hypothetical quality 
 
 Your quality improvement plan will demonstrate how systematic quality management transforms quality failures into opportunities for organizational learning and process improvement.
 
-## Learning Objectives
+### Learning Objectives
 By the end of this assignment, you will be able to:
 - Analyze non-conforming outputs and clearly articulate how they failed to meet specifications
 - Conduct root cause analysis using recognized methodologies to identify the true sources of quality issues
@@ -195,8 +195,8 @@ Before submitting, ensure your plan:
 **File format:** One MS Word document in .docx format
 
 **File naming conventions:**
-- For individual submissions: `LastNames_quality-plan.docx`
-- For team submissions: `LastNames1_LastNames2_quality-plan.docx` (list all team members' last names separated by underscores)
+- For individual submissions: `LastNames_quality-improvement.docx`
+- For team submissions: `LastNames1_LastNames2_quality-improvement.docx` (list all team members' last names separated by underscores)
 
 Make sure your Word document includes all required sections and meets the specifications outlined above.
 

@@ -28,9 +28,7 @@ During this unit, we'll cover these topics:
 By the end of this unit, you'll be able to:
 
 - **Interpret and write technical specifications** using appropriate terminology and formats for international business contexts.
-
 - **Describe production processes and operations** using precise English vocabulary and proper sequencing language.
-
 - **Explain quality management concepts and methodologies** including PDCA cycles and root cause analysis techniques.
 
 ## Weekly Schedule

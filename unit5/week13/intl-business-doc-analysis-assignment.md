@@ -12,14 +12,6 @@ nav_order: 4
 
 **Format:** Individual or group work
 
-## Learning Objectives
-
-By completing this assignment, you will:
-- Identify and analyze specialized international business document types beyond those covered in class
-- Recognize standard structural elements and vocabulary used in professional business documentation
-- Understand how document format and content serve specific business purposes
-- Develop awareness of documentation practices relevant to your future professional work
-
 ## Assignment Overview
 
 Throughout Week 13, we've explored several types of international business documentation including Requests for Proposal (RFPs), Memoranda of Understanding (MOUs), and Service Level Agreements (SLAs). However, the landscape of international business documentation is vast, with many specialized document types serving specific purposes in commerce, contracting, procurement, and operations.
@@ -29,6 +21,16 @@ For this assignment, you will select **one document type** that we have not cove
 **Your deliverable will consist of two parts:**
 1. A **1-2 page analysis** (one page preferred) explaining the document type
 2. **Example documents** (at least one per group member) attached to your analysis
+
+### Learning Objectives
+
+By completing this assignment, you will:
+- Identify and analyze specialized international business document types beyond those covered in class
+- Recognize standard structural elements and vocabulary used in professional business documentation
+- Understand how document format and content serve specific business purposes
+- Develop awareness of documentation practices relevant to your future professional work
+
+---
 
 ## Document Types You May Explore
 
@@ -76,7 +78,7 @@ Your analysis should be concise and informative, structured as follows:
 - After studying the document type in detail, what do you think are its pros and cons?
 - What are your key takeaways from doing this assignment?
 
-**6. Works Consulted (Optional)**
+**6. Works Consulted (Optional but highly recommended)**
 If you consulted any works that informed your report besides your example documents, you should cite them here.
 
 **Formatting guidelines:**
@@ -92,7 +94,7 @@ Attach **authentic examples** of your selected document type:
 
 **Requirements:**
 - **Minimum examples:** One example per group member (individual = 1 example; group of 2 = 2 examples; group of 3 = 3 examples; group of 4 = 4 examples)
-- **Authenticity:** Examples should be real business documents, not templates or academic examples
+- **Authenticity:** Examples should be real business documents, not templates, academic examples, or content generated from GAI
 - **Variety:** If submitting multiple examples, try to show variety (different industries, different formats, different levels of complexity)
 - **Sources:** Clearly indicate where you found each example (company website, government database, professional organization, etc.)
 
@@ -120,7 +122,7 @@ Your complete submission (analysis + examples) will be evaluated on:
 
 ### Step 1: Form your group (if working collaboratively)
 
-- You may work individually or in groups of up to **4 people**
+- You may work individually or in a group
 - Coordinate with group members to select a document type of shared interest
 - Assign responsibilities: who will find which examples, who will draft which sections, etc.
 
@@ -184,9 +186,8 @@ Ensure professional formatting throughout with consistent fonts, spacing, and he
 
 - **File Format:** One MS Word document containing analysis + examples (.docx)  
 - **File Name:** 
-  - Individual: `LastName_intl-business-doc.docx`
-  - Group: `LastName1_LastName2_intl-business-doc.docx` (list all group members)
-- **Upload Location:** Teams Assignment - International Business Document Analysis  
+  - Individual: `LastNames_intl-business-doc.docx`
+  - Group: `LastNames1_LastNames2_intl-business-doc.docx` (list all group members)
 - **Due Date:** End of week
 
 ## Assessment Criteria (3 points total)
@@ -202,15 +203,10 @@ Ensure professional formatting throughout with consistent fonts, spacing, and he
 Consider these questions as you work on your analysis:
 
 1. **Professional relevance**: How might this document type appear in your future career? In what situations might you need to read, write, or evaluate this type of document?
-
 2. **Cross-cultural considerations**: If this document needed to be used in international contexts or translated for different markets, what challenges might arise? What elements might need adaptation?
-
 3. **Standardization vs. flexibility**: Which aspects of this document type seem highly standardized across examples, and which show significant variation? Why might that be?
-
 4. **Clarity and accessibility**: How accessible is this document type to non-specialists? What makes these documents clear or confusing? If you were advising an organization, how might you recommend improving clarity?
-
 5. **Digital transformation**: How has technology changed how these documents are created, shared, or managed? What digital tools or systems typically support this documentation?
-
 6. **Legal and ethical dimensions**: What legal, regulatory, or ethical considerations govern this document type? What could go wrong if this document were poorly prepared?
 
 ---

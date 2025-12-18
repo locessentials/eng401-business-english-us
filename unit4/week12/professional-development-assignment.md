@@ -12,7 +12,15 @@ nav_order: 4
 
 **Format:** Individual or group work
 
-## Learning Objectives
+## Overview
+
+Your assignment this week is to take on the role of people manager and to design **leadership training materials** that can be used to develop specific skills within a role of your choosing. Your leadership developoment materials can be geared to training people managers, their employees, or whole teams. You could create a role play with discussion questions, a template for a document that is necessary in employee management with instructions for use, or a guide on specific things related to leadership and people management that employees and leaders should know. 
+
+**Assignment tip:** When selecting your topic and the media that is most appropriate for communicating about it, focus on specific skills you'd like to develop and ways of improving the people management experience for everyone.
+
+**Assignment requirement:** Please get sign-off from the instructor on the topic you'll address and the text types you'll use.
+
+### Learning Objectives
 
 By completing this assignment, you will:
 - Learn by teaching
@@ -22,14 +30,6 @@ By completing this assignment, you will:
 - Deliver training materials to our class team, thereby supporting the class in developing what you believe to be important and relevant leadership skills
 
 ---
-
-## Assignment Overview
-
-Your assignment this week is to take on the role of people manager and to design **leadership training materials** that can be used to develop specific skills within a role of your choosing. Your leadership developoment materials can be geared to training people managers, their employees, or whole teams. You could create a role play with discussion questions, a template for a document that is necessary in employee management with instructions for use, or a guide on specific things related to leadership and people management that employees and leaders should know. 
-
-**Assignment tip:** When selecting your topic and the media that is most appropriate for communicating about it, focus on specific skills you'd like to develop and ways of improving the people management experience for everyone.
-
-**Assignment requirement:** Please get sign-off from the instructor on the topic you'll address and the text types you'll use.
 
 ## Step-by-step Instructions
 
@@ -53,7 +53,7 @@ Decide the most effective media and text types to incorporate into your training
 Some media and text types that you could present in your session include:
 
 - Recorded videos of role plays or presentations
-- Podcast of a longer conversation, for example, on philosphical questions
+- Podcast of a longer conversation, for example, on philosophical questions
 - Simple documents with templates and instructions for carrying out activities
 - Etc.
 
@@ -70,9 +70,9 @@ You'll need to create:
 
 You'll share these on Teams when you're ready to deliver.
 
-### Step 4: Share your training materials with the class on Teams
+### Step 4: Share your training materials with the class
 
-This week you'll be sharing your work product with the class so that we all have ample opportunity to do a variety of professional development activities. The Teams post with which you share your training materials with the class needs to follow this format:
+This week you'll be sharing your work product with the class so that we all have ample opportunity to do a variety of professional development activities. The forum publication with which you share your training materials with the class needs to follow this format:
 
 ```
 Re: Subject line for your post, i.e. the Illustrative Title you've given your training session
@@ -93,13 +93,14 @@ Access to your materials:
 - As appropriate
 ```
 
-**Once you have made your Teams post, please consider your assignment to have been delivered.** The instructor will review your post and reach out for copies of any specific files that she needs. Otherwise, you have no other formal delivery to a Teams assignment due this week. 
+**Once you have made your forum post, please consider your assignment to have been delivered.** The instructor will review your post and reach out for copies of any specific files that she needs.
 
 **Please make one post per team!** Teams are of course encouraged to comment on their posts!
 
 ### Step 5: Do the professional development activities
 
-Do the professional developoment activities by your classmates that interest you. 
+Do the professional development activities by your classmates that interest you on your time.
+And participate in our **Professional Development Day** in **class next week** during which students will deliver their sessions in a live training of the class.
 
 **When you do your classmates' activities:**
 
@@ -118,7 +119,7 @@ Do the professional developoment activities by your classmates that interest you
 2. How can I continuing learning about and developing the leadership skills I worked on this week?
 3. What are new leadership skills that I'd like to develop as I think about my current responsibilities and future career transitions?
 4. How can I help more people to development new leadership skills?
-5. Where can I seek help as I go about developing specific leadership skils?
+5. Where can I seek help as I go about developing specific leadership skills?
 6. What are my biggest takeaways this week? If I had to identify the biggest 'gem' (or standout idea) that I encountered this week, it would be...
 
 ## Assessment Criteria (3 points total)

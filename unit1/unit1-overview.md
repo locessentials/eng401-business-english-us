@@ -28,9 +28,7 @@ During this unit, we'll cover these topics:
 By the end of this unit, you'll be able to:
 
 - **Produce professional business communications** (emails, memos, and executive summaries) using appropriate formats, tone, and language conventions for different business contexts.
-
 - **Deliver structured business presentations** with effective visual aids, appropriate body language, and professional delivery techniques.
-
 - **Apply business ethics vocabulary and frameworks** to analyze ethical dilemmas in international business scenarios.
 
 ## Weekly Schedule

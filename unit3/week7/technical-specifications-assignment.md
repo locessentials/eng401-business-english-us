@@ -20,7 +20,7 @@ Now you'll apply this knowledge by creating your own comprehensive specification
 
 Your work will demonstrate your understanding of how specifications function as critical business documents that serve multiple stakeholders throughout a project's lifecycle—from initial planning through final delivery and quality assurance.
 
-## Learning Objectives
+### Learning Objectives
 By the end of this assignment, you will be able to:
 - Design comprehensive specifications templates that capture essential project parameters for your chosen industry
 - Apply technical writing principles to create clear, scannable, and professionally formatted documentation

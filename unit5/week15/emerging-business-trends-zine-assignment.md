@@ -20,9 +20,7 @@ But rather than approaching these concepts through traditional business analysis
 
 Your contribution should make a statement about business innovation, emerging trends, or the future of work. This assignment is intentionally more creative than previous assignments to encourage you to think beyond conventional business frameworks and imagine alternative possibilities.
 
-All contributions will be compiled into our **TR35 Business English II Emerging Trends Zine**, showcasing the diverse perspectives of our class on where business is headed—and where it should go.
-
-## Learning Objectives
+### Learning Objectives
 
 By completing this assignment, you will:
 - Critically examine emerging business trends through creative expression
@@ -30,6 +28,12 @@ By completing this assignment, you will:
 - Experiment with non-traditional formats for communicating business ideas
 - Contribute to a collaborative class publication that explores diverse perspectives on the future of business
 - Develop skills in making bold statements about business practices and futures
+
+### Class Emerging Trends Zine
+
+All contributions will be compiled into our [**TR35 Business English II Emerging Trends Zine**](../../emerging-trends/zine-page.md), showcasing the diverse perspectives of our class on where business is headed—and where it should go.
+
+**Extra! Extra! Read All About It:** Check out [**ISSUE 1** by the **fall 2025 class of TR35**](../../emerging-trends/issues/EMERGING-TRENDS-ZINE-1.pdf)!
 
 ---
 
@@ -167,12 +171,10 @@ You may further develop topics from your mini-presentations or earlier assignmen
 - Confirm your contribution makes the statement you intended
 
 **File naming:**
-`LastName_zine-contribution.docx` (or appropriate file extension)
+`LastNames_zine-contribution.docx` (or appropriate file extension)
 
 **Submission:**
-Please upload all assets associated with your contribution (MS Word document, images) to our `Emerging Trends Zine` channel on Teams, along with any comments you'd like to share with the editors about how your work should be presented in our zine.
-
-There's also a Teams assignment where you will receive your grade. You don't need to upload anything to this assignment.
+Please upload all assets associated with your contribution (MS Word document, images) to our `Emerging Trends Zine` discussion forum, along with any comments you'd like to share with the editors about how your work should be presented in our zine.
 
 ---
 
@@ -229,15 +231,10 @@ You'll mostly have full creative control over the cover design and the order in 
 **Consider these questions as you work:**
 
 1. What business concept or trend frustrates you most, and why? How does your zine contribution address or explore this frustration?
-
 2. What makes your chosen format effective for communicating your perspective? What would be lost in a traditional business essay format?
-
 3. How does the creative freedom of the zine format change what you're willing to say about business innovation and emerging trends?
-
 4. If your contribution imagines an alternative future or critiques current practices, what specific business assumptions are you challenging?
-
 5. How might creative formats like zines complement (or challenge) traditional business communication in professional contexts?
-
 6. What surprised you most about working in this format? What did you learn about expressing business ideas creatively?
 
 ---

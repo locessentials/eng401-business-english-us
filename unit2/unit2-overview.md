@@ -28,9 +28,7 @@ During this unit, we'll cover these topics:
 By the end of this unit, you'll be able to:
 
 - **Analyze and interpret key business legal documents** including contracts, NDAs, and privacy policies, identifying their essential components and specialized terminology.
-
 - **Explain fundamental financial concepts and statements** using appropriate English terminology for balance sheets, income statements, and cash flow reports.
-
 - **Compare different business structures and regulatory frameworks** across international business contexts, with attention to compliance requirements.
 
 ## Weekly Schedule

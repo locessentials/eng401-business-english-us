@@ -15,7 +15,7 @@ nav_order: 4
 ## Overview
 You will analyze one of the ethical scenarios from our class materials, develop a comprehensive case study analysis, and present your findings through both written analysis and professional role-play.
 
-## Learning Objectives
+### Learning Objectives
 - Apply ethical frameworks to real-world professional dilemmas
 - Develop strategies for communicating ethical concerns in professional contexts
 - Practice advocating for ethical positions while considering multiple stakeholders

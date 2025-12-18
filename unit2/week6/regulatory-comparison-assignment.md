@@ -17,6 +17,14 @@ You just reviewed an example of a Cross-Border Regulatory Comparison Report for 
 
 You've been approached by a U.S. company seeking to expand into Mexico. They've asked you to prepare a report identifying the key regulations that impact international trade in their industry and provide recommendations for their market entry strategy.
 
+### Learning Objectives
+By the end of this assignment, you will be able to:
+- Do research related to regulations that takes into account U.S. and Mexican legal systems
+- Navigate systemic legal differences between the U.S. and Mexico in a specific area of law
+- Communicate about areas of difference in legal frameworks that you've researched in a professional way
+- Relate lessons learned about legal differences to international business projects
+- Continue deepening your knowledge of international law based on the research skills you've developed
+
 ---
 
 ## Workflow

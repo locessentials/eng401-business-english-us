@@ -15,7 +15,7 @@ nav_order: 4
 ## Overview
 Working in small groups, you'll create and deliver a 5-7 minute business presentation on a topic relevant to translation, localization, or interpretation professionals.
 
-## Learning Objectives
+### Learning Objectives
 - Apply content organization techniques for business audiences
 - Create effective visual aids that support your message
 - Deliver a presentation with confidence and professional poise

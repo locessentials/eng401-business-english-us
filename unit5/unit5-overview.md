@@ -28,9 +28,7 @@ During this unit, we'll cover these topics:
 By the end of this unit, you'll be able to:
 
 - **Analyze and translate international business documents** including RFPs, MOUs, and SLAs using appropriate terminology and formats.
-
 - **Discuss digital business tools and technologies** using accurate English vocabulary and understanding their application in global business.
-
 - **Explain business innovation concepts and change management terminology** using appropriate business English.
 
 ## Weekly Schedule

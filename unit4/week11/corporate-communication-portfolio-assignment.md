@@ -16,7 +16,7 @@ nav_order: 4
 
 You will create a **change management communications portfolio** consisting of three different internal communication documents about the same organizational change scenario. Your documents will demonstrate your ability to communicate about significant organizational changes effectively across different channels, audiences, and purposes.
 
-## Learning Objectives
+### Learning Objectives
 
 By completing this assignment, you will:
 - Apply principles of effective internal communication to real organizational scenarios

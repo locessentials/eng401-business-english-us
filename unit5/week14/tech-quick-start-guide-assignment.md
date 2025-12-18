@@ -12,7 +12,13 @@ nav_order: 4
 
 **Format:** Individual or group work
 
-## Learning Objectives
+## Assignment Overview
+
+In modern workplaces, professionals constantly encounter new technologies—cloud platforms, collaboration tools, project management systems, communication software. The ability to quickly learn and teach others how to use these technologies is an essential professional skill.
+
+Your task is to create a **Quick Start Guide** that helps someone with no prior experience begin using a specific business technology tool efficiently and confidently. Your guide should get users up and running quickly, focusing on essential functions rather than comprehensive coverage.
+
+### Learning Objectives
 
 By completing this assignment, you will:
 - Apply plain language principles to create accessible technical documentation
@@ -23,13 +29,7 @@ By completing this assignment, you will:
 
 ---
 
-## Assignment Overview
-
-In modern workplaces, professionals constantly encounter new technologies—cloud platforms, collaboration tools, project management systems, communication software. The ability to quickly learn and teach others how to use these technologies is an essential professional skill.
-
-Your task is to create a **Quick Start Guide** that helps someone with no prior experience begin using a specific business technology tool efficiently and confidently. Your guide should get users up and running quickly, focusing on essential functions rather than comprehensive coverage.
-
-**Why Quick Start Guides matter:**
+## Why Quick Start Guides matter
 
 Unlike comprehensive user manuals that document every feature, Quick Start Guides serve a specific purpose: getting new users productive quickly. In business environments:
 
@@ -286,10 +286,9 @@ Review your draft against the four plain language principles:
 
 - **File Format:** One MS Word document (.docx) (for the instructor to easily comment upon), along with a PDF copy of the guide (ensures consistent appearance across devices)
 - **File Name:** `LastNames_technology-name-quick-start.docx`, `LastNames_technology-name-quick-start.pdf`
-  - Individual: `LastName_slack-quick-start.docx`
-  - Team: `LastName1_LastName2_notion-quick-start.pdf`
-- **Length:** 4-6 pages (excluding cover page if included)
-- **Upload Location:** Teams Assignment - Business Technology Quick Start Guide
+  - Individual: `Brandt_slack-quick-start.docx`
+  - Team: `MartínezWilliams_Chen_notion-quick-start.pdf`
+- **Length:** 4-6 pages (please do not use a cover page)
 - **Due Date:** End of week
 
 **Before submitting:**
@@ -316,17 +315,11 @@ Review your draft against the four plain language principles:
 As you work on this assignment, consider:
 
 1. **User perspective**: What did you find confusing when you first tried to use this technology? How did your experience as a beginner influence your documentation choices?
-
 2. **Plain language challenges**: Where was it difficult to explain something simply? What technical concepts required the most effort to make understandable?
-
 3. **Screenshot strategy**: How did you decide which moments to capture in screenshots? What makes a screenshot truly helpful versus just decorative?
-
 4. **Scope management**: How did you decide what to include and what to leave out? What criteria did you use to identify "essential" tasks?
-
 5. **Cultural considerations**: Are there aspects of this technology or your documentation approach that might need adaptation for different cultural contexts? What assumptions about workplace technology use are embedded in your guide?
-
 6. **Accessibility**: Beyond the four plain language principles, what other accessibility considerations matter in technical documentation? (For example: color contrast, alternative text for images, screen reader compatibility)
-
 7. **Professional growth**: What did you learn about this technology that you didn't know before? How might you use it in your own work or studies?
 
 ---

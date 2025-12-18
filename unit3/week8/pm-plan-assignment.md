@@ -20,7 +20,7 @@ Now you'll apply this knowledge by stepping into the project manager's role and 
 
 Your plan will serve as a communication document that helps your team understand how the project will be executed, who is responsible for what, and how to navigate challenges as they arise.
 
-## Learning Objectives
+### Learning Objectives
 By the end of this assignment, you will be able to:
 - Develop comprehensive project management documentation that establishes clear communication protocols for diverse teams
 - Apply project management concepts including workflow sequencing, risk mitigation, and query management to realistic business scenarios

@@ -17,7 +17,7 @@ You will write a 2-3 page financial analysis report about a publicly traded comp
 
 **Remember:** This is your first partial exam, so focus on clear communication and demonstrating your understanding of financial concepts we've studied in class.
 
-## Learning Objectives
+### Learning Objectives
 
 By completing this assignment, you will:
 - Navigate SEC filing systems to locate financial statements
@@ -165,6 +165,8 @@ Follow the instructions on report structure above to write a report containing t
   - **For example:** `Brandt_MartínezWilliams_MercadoLibre-Financial-Report.docx`
 - **Due Date:** End of week
 
+**Remember:** This is **Partial Exam 1**, so be sure you submit polished work!
+
 ---
 
 ## Example Report Structure
@@ -214,5 +216,5 @@ Copy the downloaded content and try it with these prompts:
 
 ---
 
-**Next Activity:** [MercadoLibre Example Report](mercadolibre-financial-report.md)
+**Up Next:** [MercadoLibre Example Report](mercadolibre-financial-report.md)
 

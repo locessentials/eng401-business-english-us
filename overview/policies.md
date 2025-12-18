@@ -68,15 +68,15 @@ Group work is an essential component of this course, particularly for the final 
 
 Extra credit is designed to reward exceptional effort and consistency, not to replace missed regular coursework. Students who consistently attend and complete assignments should not need extra credit to succeed.
 
-**Perfect Attendance Extra Credit (2 points):**
+**Perfect Attendance Extra Credit (2 points)**
 - Students who attend **over 30 class meetings** can earn up to **2 extra credit points**
 
-**Extra Credit for Completing all General Assignments (3 points):**
+**Extra Credit for Completing all General Assignments (3 points)**
 - This course has **11 general assignments available** worth 3 points each
 - Anyone who completes all 11 assignments can earn up to **3 extra credit points**
 - You can also skip 1 general assignment entirely and still claim the 30 available points for this part of your grade.
 
-**Custom Assignment Extra Credit (3 points):**
+**Custom Assignment Extra Credit (3 points)**
 - Students may design their own course assignment equivalent in scope to regular assignments
 - Assignment must connect to course content and include clear deliverables
 - Must be submitted for approval by **Week 10**
@@ -87,7 +87,7 @@ Extra credit is designed to reward exceptional effort and consistency, not to re
 - In week 15, the final partial exam requires students to make a creative contribution to our class zine.
 - Be one of the editors who puts these contributions together into a zine, and you can earn up to 3 extra credit points.
 
-**Extra Credit Limitations:**
+**Extra Credit Limitations**
 - Maximum 5 points total (5% of final grade)
 - Cannot exceed 100% in the course
 - No extra credit available during weeks 16-18 (final project period)

@@ -1,28 +1,13 @@
 ---
 layout: default
-title: Extra Credit
+title: Custom Extra Credit
 parent: Overview
 nav_order: 3
 ---
 
-# Extra Credit Opportunities
+# Custom Extra Credit Assignment
 
-Extra credit in this course rewards exceptional effort, consistency, and self-directed learning. These opportunities are designed for students who want to go above and beyond the regular coursework to deepen their business English skills.
-
-## Two Extra Credit Options
-
-### Option 1: Perfect Attendance (2 points)
-**Automatic extra credit for exceptional consistency**
-
-- Attend all 32 class meetings (starting Week 2)
-- You can still miss up to 2 classes without losing regular points
-- If you attend every single class from Week 2 onward = 2 extra credit points
-- No additional work required - just show up consistently!
-
-### Option 2: Custom Assignment (3 points)
-**Design your own learning experience**
-
-Create and complete a business English assignment that demonstrates initiative and connects course concepts to your interests or career goals.
+Extra credit in this course rewards exceptional effort, consistency, and self-directed learning. The opportunity to design your own extra credit assignment is for students who want to go above and beyond the regular coursework to deepen their business English skills in an area of their choosing.
 
 ## Custom Assignment Guidelines
 
@@ -54,12 +39,12 @@ Submit a 1-page proposal including:
 ### Business Communication Projects
 - **Business English Glossary:** Create a comprehensive glossary of 75-100 business terms with definitions, example sentences, and cultural usage notes
 - **Cross-Cultural Communication Guide:** Develop a practical guide for US-Mexico business interactions with real scenarios and language examples
-- **Industry-Specific Vocabulary Guide:** Research and document specialized terminology for a specific business sector (finance, technology, manufacturing, etc.)
+- **Industry-Specific Analysis:** Research and document industry-specific communication in finance, technology, manufacturing, etc.
 
 ### Professional Development Projects
 - **Business Presentation Portfolio:** Create and record 3-5 mini-presentations on different business topics with self-reflection on improvement
-- **Mock Interview Series:** Conduct and analyze business English job interviews for different professional scenarios
 - **Business Writing Portfolio:** Develop templates and examples for various business documents not covered in class
+- **Training Materials:** Create business English learning materials for a specific audience (new employees, international partners, etc.)
 
 ### Research and Analysis Projects
 - **Business Case Study:** Analyze a contemporary business communication challenge and propose solutions using course concepts
@@ -68,7 +53,7 @@ Submit a 1-page proposal including:
 
 ### Creative Application Projects
 - **Business Simulation:** Design a business scenario simulation with roles, dialogue, and language learning objectives
-- **Training Materials:** Create business English learning materials for a specific audience (new employees, international partners, etc.)
+- **Business Infographic:** Use your graphic design skills to create an infographic that communicates key policies or about new business programs and updates
 - **Digital Business Communication Audit:** Evaluate a company's digital communications and provide improvement recommendations
 
 ### Media and Technology Projects
@@ -132,7 +117,7 @@ Your custom assignment will be evaluated on:
 
 ## Questions?
 
-Contact Professor Brandt via Teams or email if you need help:
+Get in touch with your peers or your course instructor for help with:
 - Brainstorming assignment ideas
 - Developing your proposal
 - Understanding the requirements

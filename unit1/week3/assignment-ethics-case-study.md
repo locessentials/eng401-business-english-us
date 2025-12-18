@@ -97,7 +97,7 @@ Your analysis should include bullet points that address:
 
 ---
 
-## Final Report (Due end of week)
+## Final Report (End of week)
 
 **Submit via Teams assignment (PDF format preferred)**
 
@@ -135,12 +135,12 @@ You could also look at *culture considerations*, like:
 - How your approach to resolving this issue might change if you were in another context
 
 ### File Naming Convention
-`GroupMembersFirstLastNames_EthicsCaseStudy.docx`
+`LastNames1_LastNames2_EthicsCaseStudy.docx`
 
 **Examples:**
-- `Reyes-Brandt_EthicsCaseStudy.docx`
-- `Martinez-Chen-Williams_EthicsCaseStudy.docx`
-- `Rodriguez-Kim_EthicsCaseStudy.docx`
+- `Brandt_MartínezWilliams_EthicsCaseStudy.docx`
+- `MartínezWilliams_Chen_Brandt_EthicsCaseStudy.docx`
+- `Chen_EthicsCaseStudy.docx`
 
 **Please deliver your document in MS Word format so that it can be easily commented on and edited using track changes.**
 
@@ -155,6 +155,7 @@ You could also look at *culture considerations*, like:
 | **Stakeholder Consideration** | Comprehensive analysis of affected parties and power dynamics | Limited stakeholder identification, misses important perspectives |
 | **Practical Solutions** | Realistic, well-justified recommendations with implementation strategy | Vague or impractical suggestions, weak justification |
 | **Reflection & Integration** | Evidence of personal growth and understanding of industry implications | Surface-level reflection, limited connection to broader professional development |
+| **Attention to Detail & Formatting** | Polished document that is free from typos and easy to read | Poorly formatted document that has errors and is difficult to follow |
 
 ---
 
@@ -180,7 +181,7 @@ You could also look at *culture considerations*, like:
 ## Peer Learning
 
 **During class:**
-- Provide constructive feedback on classmates' analyses via Teams comments
+- Provide constructive feedback on classmates' analyses
 - Ask thoughtful questions during role-plays
 - Share insights from your own scenario that might apply to others
 

@@ -95,15 +95,19 @@ Key insights for contract discussions:
 - Maintain respectful tone even when challenging unfair terms
 - Write clearly and concisely
 
-### Phase 3: File Preparation
+### Phase 3: File Submission
+
+**File format:** MS Word (.docx) with track changes and comments visible
 
 **Save your negotiated version as:**
-`GroupMembersFirstLastNames_NDA-negotiation.docx`
+`LastNames1_LastNames2_NDA-negotiation.docx`
 
 **Examples**
-- `Reyes-Brandt_NDA-negotiation.docx`
-- `Martinez-Chen-Williams_NDA-negotiation.docx`
-- `Rodriguez-Kim_NDA-negotiation.docx`
+- `Brandt_MartínezWilliams_NDA-negotiation.docx`
+- `MartínezWilliams_Chen_Brandt_NDA-negotiation.docx`
+- `Chen_NDA-negotiation.docx`
+
+**Answer Key:** If you read "7 Clauses to Include in Every NDA", you should be able to find the areas you should have negotiated easily. You can also reach out to the instructor for an answer key.
 
 ---
 
@@ -153,9 +157,7 @@ Key insights for contract discussions:
 - Rigidity in contract discussions can signal problematic working relationships
 - Being prepared for "hardest questions" prevents being caught off-guard
 
----
-
-## Reflection Questions
+### Reflection Questions
 
 **Consider these questions as you work**
 
@@ -164,17 +166,6 @@ Key insights for contract discussions:
 3. **What surprised you about the difference between fair and exploitative contract language?**
 4. **How might this experience influence your approach to future professional agreements?**
 5. **What additional skills or knowledge do you need to negotiate contracts confidently in your career?**
-
----
-
-## Submission Details
-
-**Upload your completed negotiation to Teams:**
-- **File format:** MS Word (.docx) with track changes and comments visible
-- **Location:** Teams Assignment - Contract Negotiation
-- **Filename:** `GroupMembersFirstLastNames_NDA-negotiation.docx`
-
-**Next week:** You'll receive an answer key showing the instructor's analysis of the most important terms to negotiate in the LOC101 NDA.
 
 ---
 

@@ -13,6 +13,14 @@ This bibliography is the collection of references that the course designer consi
 
 ## Recommended Resources
 
+### Overview
+- [Alaina Brandt on LinkedIn](https://www.linkedin.com/in/alainambrandt/)
+- [Markdown format](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) as explained by GitHub
+- [Software is Changing (Again)](https://youtu.be/LCEmiRjPEtQ?si=mF66ukvERR6BPUc7) - Andrej Karpathy's 2025 Y Combinator talk
+- [GitHub](https://github.com/) website
+- [github.com/alainamb/uic_tr35-business-english-II](https://github.com/alainamb/uic_tr35-business-english-II) - Course repository
+- [Translation, Localization and Interpreting program](https://www.uic.mx/licenciaturas/traduccion-localizacion-e-interpretacion/) - Universidad Intercontinental, Mexico City
+
 ### Unit 1: Business Communication & Ethics
 
 #### Week 1: Business Communication Styles

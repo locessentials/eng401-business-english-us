@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-# TR35: Business English
+# TR35: Business English for the United States
 
 Welcome to Business English, a course designed to deepen your understanding of business language and documentation in English across different professional contexts. This course focuses on specialized vocabulary, communication strategies, and document types essential for international business environments, particularly in the United States.
 

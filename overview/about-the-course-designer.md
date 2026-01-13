@@ -19,7 +19,7 @@ Here's wishing you a great deal of success as you work through this course!
 
 ## Acknowledgements
 
-The TR35 Business English course was first commissioned to be taught in the undergraduate Translation, Localization and Interpreting program at the [Universidad Intercontinental](https://www.uic.mx/licenciaturas/traduccion-localizacion-e-interpretacion/) in Mexico City. The course was built with the help of Claude Sonnet 4-4.5, and the course outline was established based on syllabi for previous versions of the course and complementary courses taught by other professors.
+This course was first developed as TR35 Business English after being commissioned to be taught in the undergraduate Translation, Localization and Interpreting program at the [Universidad Intercontinental](https://www.uic.mx/licenciaturas/traduccion-localizacion-e-interpretacion/) in Mexico City in the fall of 2025. The course was built with the help of Claude Sonnet 4-4.5, and the course outline was established based on syllabi for previous versions of the course and complementary courses taught by other professors.
 
 ---
 

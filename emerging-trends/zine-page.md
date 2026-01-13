@@ -6,7 +6,7 @@ nav_order: 3
 
 # Emerging Trends Zine
 
-The **TR35 Business English Emerging Trends Zine** is a student-created publication that challenges conventional business thinking and imagines alternative futures for work, innovation, and technology.
+The **ENG401 Business English Emerging Trends Zine** is a student-created publication that challenges conventional business thinking and imagines alternative futures for work, innovation, and technology.
 
 As part of their Partial Exam 3, students contribute creative pieces—blackout poetry, manifestos, speculative scenarios, visual art, and more—that critically examine business buzzwords like "digital transformation," "disruption," and "innovation." Rather than accepting these terms at face value, contributors explore what they really mean, who they serve, and what alternative futures might look like.
 

@@ -1,5 +1,5 @@
-title: "TR35 Business English"
-description: "TR35: Business English"
+title: "ENG401 Business English"
+description: "ENG401: Business English"
 
 # Use Just the Docs theme for sidebar navigation
 remote_theme: just-the-docs/just-the-docs
@@ -19,7 +19,7 @@ search:
 nav_sort: case_insensitive
 
 # Footer
-footer_content: "Copyright &copy; 2025 Alaina Brandt. Course materials for educational use."
+footer_content: "Copyright &copy; 2026 LocEssentials. Course materials for educational use."
 
 # Plugins
 plugins:

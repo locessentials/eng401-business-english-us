@@ -31,9 +31,9 @@ By completing this assignment, you will:
 
 ### Class Emerging Trends Zine
 
-All contributions will be compiled into our [**TR35 Business English II Emerging Trends Zine**](../../emerging-trends/zine-page.md), showcasing the diverse perspectives of our class on where business is headed—and where it should go.
+All contributions will be compiled into our [**ENG301: Business English Emerging Trends Zine**](../../emerging-trends/zine-page.md), showcasing the diverse perspectives of our class on where business is headed—and where it should go.
 
-**Extra! Extra! Read All About It:** Check out [**ISSUE 1** by the **fall 2025 class of TR35**](../../emerging-trends/issues/EMERGING-TRENDS-ZINE-1.pdf)!
+**Extra! Extra! Read All About It:** Check out [**ISSUE 1** by the **fall 2025 class of TR35 at UIC**](../../emerging-trends/issues/EMERGING-TRENDS-ZINE-1.pdf)!
 
 ---
 

@@ -108,7 +108,7 @@ Expand your work from the week into a polished case study report (1,200-1,500 wo
 **Administrative Information**
 - Give your report an illustrative title
 - Name the authors of the report
-- Identify the class (TR35 Business English II), the instructor and the date of the report
+- Identify the class (ENG401: Business English II), the instructor and the date of the report
 
 **1. Executive Summary**
 - Key ethical issue and recommended action

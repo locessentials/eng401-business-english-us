@@ -1,4 +1,4 @@
-# TR35: Business English II
+# ENG401: Business English II
 
 ## Motivation
 
@@ -55,7 +55,7 @@ This project reflects a belief that educational barriers should be minimized. St
 
 ### Navigation
 
-- **Course Website**: [https://alainamb.github.io/uic_tr35-business-english-II/](https://alainamb.github.io/uic_tr35-business-english-II/)
+- **Course Website**: [eng401.locessentials.com/](https://www.eng401.locessentials.com)
 - **Raw Markdown Files**: All content files are available in their raw Markdown format for easy copying
 - **Download Instructions**: Each page includes links to the GitHub repository files for easy downloading
 - **GAI Integration**: Copy any .md file content directly into ChatGPT, Claude, or your preferred GAI system

@@ -7,7 +7,7 @@ nav_order: 2
 
 # Suggested Course Policies
 
-TR35 is a four month long course designed to get you actively using language that corresponds to specific areas of business. Working week by week, you'll learn about the text types, stylistic conventions, cultural expectations, and specialized terminology used to communicate about a specific topic. You'll end the course with a Show & Tell project.
+ENG401 is a four month long course designed to get you actively using language that corresponds to specific areas of business. Working week by week, you'll learn about the text types, stylistic conventions, cultural expectations, and specialized terminology used to communicate about a specific topic. You'll end the course with a Show & Tell project.
 
 ## Course Flow
 The course assumes that you're working week by week. Each week's contents begin with an overview, which are followed by lectures and exercises you can do to build up your communication capabilities. The lectures would usually be read before class, and the exercises would be completed during class meetings. The week's materials end with an assignment, or a short communication portfolio project that is related to the topic at hand.

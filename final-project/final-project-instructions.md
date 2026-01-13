@@ -231,7 +231,7 @@ One delivery per team please!
 Throughout your career, you will produce a lot of data. That said, being disciplined and establishing good file naming conventions are great practices to develop.
 As you work, we recommend organizing the files related to your project something like this:
 ```
-TR35_FinalProject_LastNames/
+ENG401_FinalProject_LastNames/
 ├── Presentation_Materials/
 │   ├── Images/
 │   │   ├── Image1.png

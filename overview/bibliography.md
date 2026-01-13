@@ -225,7 +225,7 @@ This bibliography is the collection of references that the course designer consi
 - [DAIR Institute blog](https://www.dair-institute.org/blog/)
 - [DAIR Possible Futures Zine Issue 1](references/DAIR_PossibleFuturesZine_Issue1.pdf)
 - [Imagination Battle](https://radicaldiscipleship.net/2020/04/01/imagination-battle/) by Adrienne Maree Brown
-- [Emerging Business Trends Zine - ISSUE 1 by the fall 2025 class of TR35](../../emerging-trends/issues/EMERGING-TRENDS-ZINE-1.pdf)
+- [Emerging Business Trends Zine - ISSUE 1 by the fall 2025 class of TR35 at UIC](../../emerging-trends/issues/EMERGING-TRENDS-ZINE-1.pdf)
 - [Zine](https://guides.lib.purdue.edu/loudonpaper/what-is-a-zine#:~:text=Definition,to%20express%20the%20author%27s%20message.) definition via Purdue
 
 ### Final Projects
@@ -246,7 +246,7 @@ As we work through the course, you may discover excellent resources that would b
 
 ### How to Suggest Additions
 
-**For Students in TR35:**
+**For Students Taking a Class:**
 Contact your instructor through the course communication platforms. Include the full citation, a brief description of relevance, and which unit it supports.
 
 **For Independent Students/Study Groups/Instructors:**
